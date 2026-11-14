@@ -1,0 +1,12 @@
+{
+ "id": "nk-69",
+ "artist": "Bruno Mars",
+ "title": "Just The Way You Are",
+ "lang": "nn",
+ "n_anchor": 24,
+ "median_offset": 15.14,
+ "drift_max": 0.75,
+ "audio_dur": 147.8,
+ "mode": "offset",
+ "offset": 15.25
+}

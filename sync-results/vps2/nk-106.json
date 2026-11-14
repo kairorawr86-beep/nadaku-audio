@@ -1,0 +1,11 @@
+{
+ "id": "nk-106",
+ "artist": "Michael Bublé",
+ "title": "Haven't Met You Yet",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.05,
+ "drift_max": 1.68,
+ "audio_dur": 150.0,
+ "mode": "ok"
+}

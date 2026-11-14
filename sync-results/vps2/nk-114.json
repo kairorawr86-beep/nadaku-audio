@@ -1,0 +1,12 @@
+{
+ "id": "nk-114",
+ "artist": "OneRepublic",
+ "title": "Counting Stars",
+ "lang": "en",
+ "n_anchor": 36,
+ "median_offset": -0.89,
+ "drift_max": 0.67,
+ "audio_dur": 148.3,
+ "path": "fast",
+ "mode": "ok"
+}

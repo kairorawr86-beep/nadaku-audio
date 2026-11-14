@@ -1,0 +1,11 @@
+{
+ "id": "nk-75",
+ "artist": "Coldplay",
+ "title": "Yellow",
+ "lang": "en",
+ "n_anchor": 9,
+ "median_offset": -0.05,
+ "drift_max": 1.66,
+ "audio_dur": 149.7,
+ "mode": "ok"
+}

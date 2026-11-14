@@ -1,0 +1,12 @@
+{
+ "id": "nk-88",
+ "artist": "Green Day",
+ "title": "Boulevard Of Broken Dreams",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": -1.43,
+ "drift_max": 0.64,
+ "audio_dur": 150.0,
+ "mode": "offset",
+ "offset": -1.5
+}
