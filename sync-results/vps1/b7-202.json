@@ -1,0 +1,13 @@
+{
+ "id": "b7-202",
+ "artist": "Justin Bieber, Nicki Minaj",
+ "title": "Beauty and a Beat",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": 34.04,
+ "drift_max": 1.81,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 34.0
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-62",
+ "artist": "Raisa",
+ "title": "Could It Be",
+ "lang": "id",
+ "n_anchor": 8,
+ "median_offset": 8.57,
+ "drift_max": 0.92,
+ "audio_dur": 139.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 8.5
+}

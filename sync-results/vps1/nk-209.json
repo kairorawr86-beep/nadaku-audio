@@ -1,0 +1,13 @@
+{
+ "id": "nk-209",
+ "artist": "Ed Sheeran",
+ "title": "Castle on the Hill",
+ "lang": "nn",
+ "n_anchor": 11,
+ "median_offset": 46.67,
+ "drift_max": 1.47,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 46.75
+}

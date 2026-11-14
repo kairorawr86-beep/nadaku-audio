@@ -1,0 +1,13 @@
+{
+ "id": "nk-389",
+ "artist": "Zayn",
+ "title": "Dusk Till Dawn ft. Sia",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": 13.03,
+ "drift_max": 0.52,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 13.0
+}

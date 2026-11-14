@@ -1,0 +1,13 @@
+{
+ "id": "b7-298",
+ "artist": "Rihanna",
+ "title": "Unfaithful",
+ "lang": "jw",
+ "n_anchor": 15,
+ "median_offset": 52.31,
+ "drift_max": 0.71,
+ "audio_dur": 148.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 52.25
+}

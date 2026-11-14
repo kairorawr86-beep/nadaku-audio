@@ -1,0 +1,13 @@
+{
+ "id": "nk-301",
+ "artist": "Jason Mraz",
+ "title": "I'm Yours",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": 5.92,
+ "drift_max": 0.82,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.0
+}

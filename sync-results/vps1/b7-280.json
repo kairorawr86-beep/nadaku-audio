@@ -1,0 +1,12 @@
+{
+ "id": "b7-280",
+ "artist": "Lady Gaga",
+ "title": "The Edge of Glory",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 0.04,
+ "drift_max": 1.03,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-528",
+ "artist": "Rag'n'Bone Man",
+ "title": "Human",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.34,
+ "drift_max": 2.47,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

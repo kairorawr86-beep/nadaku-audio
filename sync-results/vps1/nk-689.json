@@ -1,0 +1,13 @@
+{
+ "id": "nk-689",
+ "artist": "Madonna",
+ "title": "Like A Prayer",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": 2.95,
+ "drift_max": 0.92,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}

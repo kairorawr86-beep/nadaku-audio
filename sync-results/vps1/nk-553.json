@@ -1,0 +1,12 @@
+{
+ "id": "nk-553",
+ "artist": "Deep Purple",
+ "title": "Soldier Of Fortune",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -1.07,
+ "drift_max": 1.24,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

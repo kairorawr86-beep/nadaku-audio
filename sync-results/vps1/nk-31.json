@@ -1,5 +1,12 @@
 {
  "id": "nk-31",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Noah",
+ "title": "Separuh Aku",
+ "lang": "la",
+ "n_anchor": 11,
+ "median_offset": -13.83,
+ "drift_max": 0.8,
+ "audio_dur": 149.9,
+ "mode": "offset",
+ "offset": -13.75
 }

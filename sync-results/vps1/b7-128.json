@@ -1,0 +1,13 @@
+{
+ "id": "b7-128",
+ "artist": "Slank",
+ "title": "Kupu Biru",
+ "lang": "id",
+ "n_anchor": 14,
+ "median_offset": 11.0,
+ "drift_max": 2.05,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 11.0
+}

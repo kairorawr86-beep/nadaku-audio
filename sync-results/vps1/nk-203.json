@@ -1,5 +1,13 @@
 {
  "id": "nk-203",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Taylor Swift",
+ "title": "Shake It Off",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 2.86,
+ "drift_max": 1.84,
+ "audio_dur": 140.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.75
 }

@@ -1,0 +1,12 @@
+{
+ "id": "nk-571",
+ "artist": "Tina Turner",
+ "title": "What's Love Got To Do With It",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 0.13,
+ "drift_max": 1.04,
+ "audio_dur": 149.0,
+ "path": "fast",
+ "mode": "ok"
+}

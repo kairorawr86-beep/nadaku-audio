@@ -1,0 +1,14 @@
+{
+ "id": "nk-709",
+ "artist": "Pet Shop Boys",
+ "title": "West End Girls",
+ "lang": "nn",
+ "n_anchor": 14,
+ "median_offset": -5.79,
+ "drift_max": 6.8,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:42.88] Sometimes you're better off dead\n[00:47.36] There's a gun in your hand, and it's pointing at your head\n[00:48.04] You think you're mad, too unstable\n[00:48.62] Kicking in chairs and knocking down tables\n[00:51.10] In a restaurant, in a West End town\n[00:53.08] Call the police, there's a madman around\n[00:55.24] Running down underground to a dive bar\n[00:57.40] In a West End town\n[00:59.56] In a West End town, a dead end world\n[01:02.36] The East End boys and West End girls\n[01:05.22] In a West End town, a dead end world\n[01:10.90] The East End boys and West End girls\n[01:15.41] West End girls\n[01:24.04] Too many shadows, whispering voices\n[01:27.10] Faces on posters, too many choices\n[01:29.35] If, when, why, what?\n[01:31.36] How much have you got?\n[01:33.32] Have you got it, do you get it, if so, how often?\n[01:35.82] Which do you choose, a hard or soft option?\n[01:38.34] (How much do you need?)\n[01:40.96] In a West End town, a dead end world\n[01:43.49] The East End boys and West End girls\n[01:48.54] In a West End town, a dead end world\n[01:51.88] The East End boys and West End girls\n[01:56.20] West End girls\n[02:00.26] West End girls\n[02:26.17] (How much do you need?)\n[02:27.40] In a West End town, a dead end world\n[02:30.31] The East End boys and West End girls\n[02:35.40] Oh, West End town, a dead end world\n[02:39.49] East End boys, West End girls\n[02:42.08] West End girls\n[02:49.64] You've got a heart of glass or a heart of stone\n[02:51.24] Just you wait 'til I get you home\n[02:53.52] We've got no future, we've got no past\n[02:55.44] Here today, built to last\n[02:57.36] In every city, in every nation\n[02:59.42] From Lake Geneva to the Finland station\n[03:01.69] (How far have you been?)\n[03:05.79] In a West End town, a dead end world\n[03:08.52] The East End boys and West End girls\n[03:13.53] A West End town, a dead end world\n[03:16.61] East End boys, West End girls\n[03:20.42] West End girls\n[03:24.50] West End girls\n[03:37.85] West End girls\n[03:40.76] (How far have you been?)\n[03:44.03] Girls\n[03:45.88] East End boys",
+ "warn": "last cue melewati durasi"
+}

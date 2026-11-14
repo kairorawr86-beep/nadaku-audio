@@ -1,5 +1,13 @@
 {
  "id": "nk-19",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Juicy Luicy",
+ "title": "Lantas",
+ "lang": "id",
+ "n_anchor": 7,
+ "median_offset": -0.29,
+ "drift_max": 8.06,
+ "audio_dur": 149.1,
+ "mode": "retimed_clamp",
+ "lrc": "[01:00.65] Lima hari sudah kurindu\n[01:05.98] Tak bisa ku menghubungimu\n[01:10.49] Kau sedang dengan dirinya, sedang kita rahasia\n[01:15.92] Kapankah kau ada waktu sembunyi untuk bertemu?\n[01:21.94] Baru kausapa, ku tersipu\n[01:27.35] Kaupuji, lupa amarahku\n[01:31.96] Karena kau paling tahu cara lemahkan hatiku\n[01:33.48] Walau tak ada yang pasti, yang kauberi hanya mimpi\n[01:35.20] Lantas mengapa ku masih menaruh hati?\n[01:36.68] Padahal ku tahu kau t'lah terikat janji\n[01:38.07] Keliru ataukah bukan? Tak tahu\n[01:39.51] Lupakanmu, tapi aku tak mau\n[01:41.72] Oh-wo-oh\n[01:42.42] Baru kausapa, ku tersipu (tersipu)\n[01:43.93] Kaupuji, lupa amarahku\n[01:45.22] Karena kau paling tahu (paling tahu) cara lemahkan hatiku (hatiku)\n[01:46.64] Walau tak ada yang pasti, yang kauberi hanya mimpi\n[01:48.37] Lantas mengapa ku masih menaruh hati?\n[01:49.84] Padahal ku tahu kau t'lah terikat janji\n[01:55.36] Keliru ataukah bukan? Tak tahu\n[02:01.00] Lupakanmu, tapi aku tak mau\n[02:06.62] Pantaskah aku menyimpan rasa cemburu?\n[02:11.90] Padahal bukan aku yang memilikimu\n[02:16.82] Sanggup sampai kapankah? Ku tak tahu\n[02:22.40] Akankah akal sehat menyadarkanku?\n[02:34.52] Oh-wo-oh\n[02:42.38] Uh-uh\n[02:46.46] Lantas mengapa ku masih menaruh hati?\n[02:51.80] Lantas mengapa ku masih menaruh hati?\n[02:57.25] Padahal ku tahu kau t'lah terikat janji\n[03:01.96] Keliru ataukah bukan? Tak tahu\n[03:07.42] Lupakanmu, tapi aku tak mau (pantaskah ku)\n[03:12.98] Pantaskah aku ('tuk menyimpan)\n[03:15.74] Untuk menyimpan (rasa cemburu?)\n[03:19.97] Kar'na bukan aku yang milikimu\n[03:23.39] Sanggup sampai kapankah? Ku tak tahu\n[03:28.57] Akankah akal sehat menyadarkanku?",
+ "warn": "last cue melewati durasi"
 }

@@ -1,0 +1,13 @@
+{
+ "id": "nk-498",
+ "artist": "Louis Armstrong",
+ "title": "What A Wonderful World (At The BBC)",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": 2.85,
+ "drift_max": 2.08,
+ "audio_dur": 140.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.75
+}

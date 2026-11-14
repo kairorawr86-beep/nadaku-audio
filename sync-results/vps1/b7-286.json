@@ -1,0 +1,12 @@
+{
+ "id": "b7-286",
+ "artist": "Miley Cyrus",
+ "title": "Party in the U.S.A.",
+ "lang": "en",
+ "n_anchor": 37,
+ "median_offset": -0.88,
+ "drift_max": 0.7,
+ "audio_dur": 148.2,
+ "path": "fast",
+ "mode": "ok"
+}

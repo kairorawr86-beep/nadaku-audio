@@ -1,0 +1,13 @@
+{
+ "id": "nk-444",
+ "artist": "Clean Bandit",
+ "title": "Symphony (feat. Zara Larsson)",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": 30.98,
+ "drift_max": 0.79,
+ "audio_dur": 148.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 31.0
+}

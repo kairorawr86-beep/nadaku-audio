@@ -1,0 +1,13 @@
+{
+ "id": "nk-283",
+ "artist": "Foo Fighters",
+ "title": "Everlong",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 1.57,
+ "drift_max": 0.69,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}

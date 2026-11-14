@@ -1,0 +1,14 @@
+{
+ "id": "nk-456",
+ "artist": "Derby",
+ "title": "Gelora Asmara",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": 1.44,
+ "drift_max": 4.09,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:17.06] Datanglah, nyatakanlah cintamu\n[00:22.54] Katakan bahwa kau menginginkan diriku\n[00:32.16] Datanglah, bawalah bunga-bunga\n[00:36.60] Agar kau dapat membuat diriku terbang\n[00:45.74] Aku di sini duduk manis menantimu\n[00:53.12] Aku pun ingin membuat kau tak menyesal\n[00:59.82] Bahwa kau telah memilih diriku ini\n[01:07.86] Yang akan terus membuat hidupmu indah\n[01:18.60] Datanglah, nyatakan janji cinta\n[01:22.74] Yang akan kau ucapkan, itu yang terakhir\n[01:34.08] Datanglah (Datanglah), bawalah aku pergi (Huuu)\n[01:40.08] Bersama dengan semua gelora asmara\n[01:48.16] Aku di sini duduk manis menantimu\n[01:55.38] Aku pun ingin membuat kau tak menyesal\n[02:02.00] Bahwa kau telah memilih diriku ini\n[02:10.25] Yang akan terus membuat hidupmu indah\n[02:38.88] Aku di sini duduk manis menantimu\n[02:54.18] Aku pun ingin membuat kau tak menyesal,\n[03:00.50] wo-wo-wo-wo\n[03:02.45] Bahwa kau telah memilih diriku ini\n[03:08.50] Yang akan terus membuat hidupmu indah\n[03:15.65] Aku di sini duduk manis menantimu\n[03:23.43] Aku pun ingin membuat kau tak menyesal,\n[03:30.09] wo-wo-wo-wo\n[03:32.52] Bahwa kau telah memilih diriku ini\n[03:37.90] Yang akan terus membuat hidupmu indah\n[03:45.98] Hidupmu indah\n[03:47.96] Hidupmu indah",
+ "warn": "last cue melewati durasi"
+}

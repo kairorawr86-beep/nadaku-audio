@@ -1,0 +1,13 @@
+{
+ "id": "b7-316",
+ "artist": "Celine Dion",
+ "title": "That's the Way It Is",
+ "lang": "id",
+ "n_anchor": 4,
+ "median_offset": 53.22,
+ "drift_max": 0.0,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 53.25
+}

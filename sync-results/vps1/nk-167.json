@@ -1,0 +1,14 @@
+{
+ "id": "nk-167",
+ "artist": "Sheila On 7",
+ "title": "Melompat Lebih Tinggi",
+ "lang": "jw",
+ "n_anchor": 7,
+ "median_offset": 0.69,
+ "drift_max": 6.64,
+ "audio_dur": 147.4,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:07.40] Kita berlari dan terus 'kan bernyanyi\n[00:12.58] Kita buka lebar pelukan mentari\n[00:17.81] Bila ku terjatuh nanti\n[00:20.53] Kau siap mengangkat aku lebih tinggi\n[00:27.96] Uh, uh, uh\n[00:33.74] Seperti pedih yang telah kita bagi\n[00:39.32] Layaknya luka yang telah terobati\n[00:43.78] Bila kita jatuh nanti\n[00:47.82] Kita siap 'tuk melompat lebih tinggi\n[00:53.92] Bersama kita bagai hutan dan hujan\n[00:59.14] Aku ada kar'na kau telah tercipta, ha-ah\n[01:02.99] Kupetik bintang untuk kau simpan\n[01:05.82] Cahayanya tenang, berikan kau perlindungan\n[01:08.45] Sebagai pengingat teman\n[01:09.92] Juga s'bagai jawaban semua tantangan\n[01:13.87] Kupetik bintang untuk kau simpan\n[01:16.57] Cahayanya tenang, berikan kau perlindungan\n[01:19.26] Sebagai pengingat teman\n[01:22.10] Juga s'bagai jawaban semua tantangan\n[01:57.72] Sebelum waktu memisahkan detikku, detikmu\n[02:00.43] Sebelum dewasa, menua memisahkan kita\n[02:03.06] Degupan jantung kita akan s'lalu seirama\n[02:05.67] Bila kau rindu aku\n[02:07.06] Kupetik bintang untuk kau simpan\n[02:12.33] Cahayanya tenang, berikan kau perlindungan\n[02:17.46] Sebagai pengingat teman\n[02:20.26] Juga s'bagai jawaban semua tantangan\n[02:28.34] Kupetik bintang untuk kau simpan\n[02:33.48] Cahayanya tenang, berikan kau perlindungan\n[02:38.73] Sebagai pengingat teman\n[02:41.49] Juga s'bagai jawaban semua tantangan",
+ "warn": "last cue melewati durasi"
+}

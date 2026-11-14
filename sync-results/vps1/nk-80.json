@@ -1,0 +1,12 @@
+{
+ "id": "nk-80",
+ "artist": "Eagles",
+ "title": "Hotel California (Live 1977)",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": 1.67,
+ "drift_max": 2.53,
+ "audio_dur": 149.2,
+ "mode": "offset",
+ "offset": 1.75
+}

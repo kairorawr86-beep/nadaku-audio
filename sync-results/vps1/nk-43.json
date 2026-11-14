@@ -1,5 +1,13 @@
 {
  "id": "nk-43",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Tulus",
+ "title": "Hati-Hati di Jalan",
+ "lang": "jw",
+ "n_anchor": 16,
+ "median_offset": -0.53,
+ "drift_max": 22.3,
+ "audio_dur": 146.6,
+ "mode": "retimed_clamp",
+ "lrc": "[00:14.05] Perjalanan membawamu\n[00:18.67] Bertemu denganku, ku bertemu kamu\n[00:26.72] Sepertimu yang kucari\n[00:31.46] Konon aku juga s'perti yang kaucari\n[00:39.78] Kukira kita Asam dan Garam\n[00:43.20] Dan kita bertemu di Belanga\n[00:46.14] Kisah yang ternyata tak seindah itu\n[00:57.04] Kukira kita akan bersama\n[01:00.16] Begitu banyak yang sama\n[01:04.78] Latarmu dan latarku\n[01:10.42] Kukira takkan ada kendala\n[01:15.20] Kukira ini 'kan mudah\n[01:18.12] Kau-aku jadi kita\n[01:23.12] Kasih sayangmu membekas\n[01:27.68] Redam kini sudah pijar istimewa\n[01:35.58] Entah apa maksud dunia\n[01:43.94] Tentang ujung cerita, kita tak bersama\n[01:49.64] Semoga rindu ini menghilang\n[01:53.10] Konon katanya waktu sembuhkan\n[01:56.34] Akan adakah lagi yang sepertimu?\n[01:58.50] Kukira kita akan bersama\n[02:00.08] Begitu banyak yang sama\n[02:01.11] Latarmu dan latarku\n[02:02.86] Kukira takkan ada kendala\n[02:04.43] Kukira ini 'kan mudah\n[02:05.50] Kau-aku jadi kita\n[02:07.45] Kau melanjutkan perjalananmu\n[02:09.68] Ku melanjutkan perjalananku\n[02:13.12] Uh-uh, uh-uh\n[02:15.94] Kukira kita akan bersama\n[02:17.50] Begitu banyak yang sama\n[02:18.60] Latarmu dan latarku\n[02:20.33] Kukira takkan ada kendala\n[02:21.88] Kukira ini 'kan mudah\n[02:24.78] Kau-aku jadi kita\n[02:27.95] Kukira kita akan bersama\n[02:43.22] Hati-hati di jalan",
+ "warn": "last cue melewati durasi"
 }

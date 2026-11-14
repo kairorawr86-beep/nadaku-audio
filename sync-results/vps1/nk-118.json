@@ -1,0 +1,14 @@
+{
+ "id": "nk-118",
+ "artist": "Post Malone",
+ "title": "Circles",
+ "lang": "nn",
+ "n_anchor": 26,
+ "median_offset": 5.42,
+ "drift_max": 21.53,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:39.54] We couldn't turn around\n[00:43.64] 'Til we were upside down\n[00:47.70] I'll be the bad guy now\n[00:51.68] But, no, I ain't too proud\n[00:55.64] I couldn't be there\n[00:59.86] Even when I tried\n[01:03.40] You don't believe it\n[01:07.48] We do this every time\n[01:09.74] Seasons change and our love went cold\n[01:14.06] Feed the flame 'cause we can't let it go\n[01:17.76] Run away, but we're running in circles\n[01:21.26] Run away, run away\n[01:24.32] I dare you to do something\n[01:28.22] I'm waiting on you again\n[01:31.80] So I don't take the blame\n[01:33.78] Run away, but we're running in circles\n[01:38.02] Run away, run away, run away\n[01:41.58] Let go\n[01:43.64] I got a feeling that it's time to let go\n[01:49.20] I say so\n[01:50.58] I knew that this was doomed from the get-go\n[01:56.00] You thought that it was special, special\n[02:00.14] But it was just the sex though, the sex though\n[02:04.18] And I still hear the echoes (the echoes)\n[02:07.60] I got a feeling that it's time to let it go, let it go\n[02:09.42] Seasons change and our love went cold\n[02:10.58] Feed the flame 'cause we can't let it go\n[02:11.74] Run away, but we're running in circles\n[02:12.99] Run away, run away\n[02:13.63] I dare you to do something\n[02:14.85] I'm waiting on you again\n[02:15.88] So I don't take the blame\n[02:16.56] Run away, but we're running in circles\n[02:17.75] Run away, run away, run away\n[02:18.93] Maybe you don't understand what I'm going through\n[02:20.07] It's only me\n[02:20.65] What you got to lose?\n[02:21.28] Make up your mind, tell me\n[02:21.73] What are you gonna do?\n[02:22.44] It's only me\n[02:23.03] Let it go\n[02:23.63] Seasons change and our love went cold\n[02:24.92] Feed the flame 'cause we can't let it go\n[02:26.06] Run away, but we're running in circles\n[02:27.26] Run away, run away\n[02:27.94] I dare you to do something\n[02:31.68] I'm waiting on you again\n[02:34.94] So I don't take the blame\n[02:37.26] Run away, but we're running in circles\n[02:41.07] Run away, run away, run away",
+ "warn": "last cue melewati durasi"
+}

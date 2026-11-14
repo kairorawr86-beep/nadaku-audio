@@ -1,0 +1,14 @@
+{
+ "id": "nk-577",
+ "artist": "Vagetoz",
+ "title": "Kehadiranmu",
+ "lang": "jw",
+ "n_anchor": 14,
+ "median_offset": -0.22,
+ "drift_max": 3.24,
+ "audio_dur": 148.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:18.43] Hadirnya dirimu\n[00:22.04] Berikan suasana baru\n[00:27.56] Kau mampu tenangkan aku\n[00:31.74] Di saat risau dalam hatiku\n[00:38.74] Lembutnya sikapmu\n[00:41.54] Meluluhkan hati ini\n[00:47.58] Terbuai, aku terlena\n[00:54.08] Oleh dirimu, oleh dirimu\n[00:58.25] Oh, jantung pun bergetar\n[01:01.28] Saat engkau ada di dekatku\n[01:06.00] Mungkinkah diriku telah jatuh cinta\n[01:10.90] Pada dirimu?\n[01:15.54] Oh, sebisa diriku\n[01:20.18] Mencoba untuk melupakanmu\n[01:25.56] Namun ku tak bisa, kau pun s'lalu ada\n[01:30.88] Dalam hatiku\n[01:35.31] Dan biarkan semua\n[01:39.30] Mengalir apa adanya\n[01:45.06] Ku yakin kau pun pahami\n[01:49.81] Perasaanku, perasaanku\n[01:55.98] Oh, jantung pun bergetar\n[01:59.78] Saat engkau ada di dekatku\n[02:04.06] Mungkinkah diriku telah jatuh cinta\n[02:08.81] Pada dirimu?\n[02:13.08] Oh, sebisa diriku\n[02:16.41] Mencoba untuk melupakanmu\n[02:20.21] Namun ku tak bisa, kau pun s'lalu ada\n[02:25.91] Dalam hatiku\n[02:32.56] Wo-hu-uh-uh, uh-uh-uh\n[02:38.74] Ho-oh-ho-oh\n[02:48.24] Oh, jantung pun bergetar\n[02:52.98] Saat engkau ada di dekatku\n[02:56.78] Mungkinkah diriku telah jatuh cinta\n[03:02.48] Pada dirimu?\n[03:06.76] Oh, sebisa diriku\n[03:11.04] Mencoba untuk melupakanmu\n[03:15.78] Namun ku tak bisa, kau pun s'lalu ada\n[03:21.48] Dalam hatiku\n[03:28.61] Hu-hu-hu\n[03:36.21] Uh-ho, hu-hu-hu",
+ "warn": "last cue melewati durasi"
+}

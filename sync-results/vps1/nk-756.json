@@ -1,0 +1,13 @@
+{
+ "id": "nk-756",
+ "artist": "The Drifters",
+ "title": "Under the Boardwalk",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": 1.32,
+ "drift_max": 1.67,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.25
+}

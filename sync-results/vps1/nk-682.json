@@ -1,0 +1,12 @@
+{
+ "id": "nk-682",
+ "artist": "Led Zeppelin",
+ "title": "Immigrant Song",
+ "lang": "en",
+ "n_anchor": 8,
+ "median_offset": -0.27,
+ "drift_max": 1.03,
+ "audio_dur": 112.4,
+ "path": "fast",
+ "mode": "ok"
+}

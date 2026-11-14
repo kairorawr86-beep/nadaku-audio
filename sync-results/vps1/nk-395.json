@@ -1,0 +1,13 @@
+{
+ "id": "nk-395",
+ "artist": "Pink Floyd",
+ "title": "Another Brick in the Wall (PULSE Remastered 2019)",
+ "lang": "nn",
+ "n_anchor": 3,
+ "median_offset": 17.53,
+ "drift_max": 0.0,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 17.5
+}

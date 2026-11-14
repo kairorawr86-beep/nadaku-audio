@@ -1,0 +1,14 @@
+{
+ "id": "b7-80",
+ "artist": "Astrid",
+ "title": "Mendua",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": 0.01,
+ "drift_max": 4.27,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:14.70] Ku tak habis pikir, kurangku di mana?\n[00:22.00] Kau tega melepaskan aku\n[00:32.44] Jauh ku menatap, namun terlalu jauh\n[00:39.58] Imajinasiku terberai\n[00:45.70] Terdiam aku, beku tanpamu\n[00:52.13] Di manakah letak hatimu?\n[00:58.31] Kau putuskan 'tuk mendua\n[01:07.14] Dengan dia di belakangku\n[01:14.06] Padahal ku pilih kamu\n[01:21.28] Jadi cinta terakhir\n[01:28.54] Ku tak habis pikir, kurangku di mana?\n[01:35.98] Kau tega melepaskan aku\n[01:46.40] Jauh ku menatap, namun terlalu jauh\n[01:51.29] Imajinasiku terberai\n[01:56.40] Terdiam aku, beku tanpamu\n[02:04.84] Di manakah letak hatimu?\n[02:10.60] Kau putuskan 'tuk mendua\n[02:16.84] Dengan dia di belakangku\n[02:23.59] Padahal ku pilih kamu\n[02:30.03] Jadi cinta terakhir\n[02:37.22] Kau putuskan 'tuk mendua\n[03:00.84] Dengan dia di belakangku\n[03:07.14] Padahal ku pilih kamu\n[03:13.71] Jadi cinta terakhir\n[03:20.66] Kau putuskan 'tuk mendua\n[03:27.31] Dengan dia di belakangku\n[03:33.93] Padahal ku pilih kamu\n[03:40.72] Jadi cinta terakhir\n[03:47.40] Jadi cinta terakhir",
+ "warn": "last cue melewati durasi"
+}

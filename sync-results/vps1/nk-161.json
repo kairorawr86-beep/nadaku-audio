@@ -1,0 +1,13 @@
+{
+ "id": "nk-161",
+ "artist": "Lyodra",
+ "title": "Teganya Kau",
+ "lang": "id",
+ "n_anchor": 10,
+ "median_offset": 35.64,
+ "drift_max": 0.68,
+ "audio_dur": 147.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 35.75
+}

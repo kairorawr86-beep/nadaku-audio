@@ -1,0 +1,12 @@
+{
+ "id": "nk-326",
+ "artist": "Muse",
+ "title": "Starlight",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -0.74,
+ "drift_max": 1.68,
+ "audio_dur": 144.7,
+ "path": "fast",
+ "mode": "ok"
+}

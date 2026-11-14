@@ -1,0 +1,12 @@
+{
+ "id": "nk-504",
+ "artist": "Michael Bublé",
+ "title": "Home",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": 0.51,
+ "drift_max": 0.93,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

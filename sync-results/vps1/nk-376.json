@@ -1,0 +1,13 @@
+{
+ "id": "nk-376",
+ "artist": "The White Stripes",
+ "title": "Seven Nation Army",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": 1.72,
+ "drift_max": 0.47,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.75
+}

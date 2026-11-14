@@ -1,0 +1,13 @@
+{
+ "id": "nk-215",
+ "artist": "Geisha",
+ "title": "Jika Cinta Dia",
+ "lang": "jw",
+ "n_anchor": 14,
+ "median_offset": -13.52,
+ "drift_max": 2.5,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -13.5
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-450",
+ "artist": "Celine Dion",
+ "title": "Because You Loved Me",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.94,
+ "drift_max": 0.49,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}

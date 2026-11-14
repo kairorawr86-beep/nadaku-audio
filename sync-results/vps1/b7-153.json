@@ -1,0 +1,14 @@
+{
+ "id": "b7-153",
+ "artist": "Nike Ardilla",
+ "title": "Seberkas Sinar",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": -5.34,
+ "drift_max": 13.96,
+ "audio_dur": 148.4,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:26.34] Kala ku seorang diri\n[00:29.20] Hanya berteman sepi dan angin malam\n[00:39.04] Kucoba merenungi\n[00:43.22] Tentang jalan hidupku, ho-oh\n[00:52.18] Kulangkahkan kakiku\n[00:54.64] Dan menyimak sebuah arti kehidupan\n[01:04.64] Hati s'lalu bertanya\n[01:09.64] Adakah kasih suci?\n[01:17.34] Dalam cinta, ha-ha\n[01:21.52] Adakah cintamu?\n[01:22.64] Ha-ha-ha-ha-ha\n[01:25.21] Seberkas cahaya terang\n[01:27.50] Menyinari hidupku\n[01:29.77] Sesejuk embun-embun di pagi hari\n[01:32.80] Dambaan insan di dunia ini\n[01:36.49] Ha-ha-ha, ha-ha-ha\n[01:38.72] Ha-ha-ha-ha-ha\n[01:41.26] Seberkas cahaya terang\n[01:43.54] Menyinari hidupku\n[01:45.84] Sesejuk embun-embun di pagi hari\n[01:54.18] Dambaan insan di dunia ini\n[02:29.03] Jauh kudengar lagu\n[02:32.28] Di keheningan malam, aku sendiri\n[02:41.62] Kucoba merenungi\n[02:46.03] Tentang jalan hidupku\n[02:53.63] Dalam cinta, ha-ha\n[02:58.04] Adakah cintamu?\n[03:01.19] Ah-ha-ha-ha-ha\n[03:08.38] Seberkas cahaya terang\n[03:14.57] Menyinari hidupku\n[03:20.96] Sesejuk embun pagi\n[03:27.30] Dalam cita cintaku\n[03:33.61] Seberkas cahaya terang\n[03:40.00] Menyinari hidupku\n[03:46.35] Sesejuk embun pagi\n[03:52.46] Dalam cita...",
+ "warn": "last cue melewati durasi"
+}

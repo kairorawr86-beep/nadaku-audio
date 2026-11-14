@@ -1,0 +1,13 @@
+{
+ "id": "nk-642",
+ "artist": "fats domino",
+ "title": "blueberry hill",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -1.91,
+ "drift_max": 1.48,
+ "audio_dur": 132.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}

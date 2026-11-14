@@ -1,5 +1,12 @@
 {
  "id": "nk-13",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Fourtwnty",
+ "title": "Zona Nyaman OST. Filosofi Kopi 2 - Ben & Jody",
+ "lang": "nn",
+ "n_anchor": 14,
+ "median_offset": 15.34,
+ "drift_max": 1.2,
+ "audio_dur": 149.1,
+ "mode": "offset",
+ "offset": 15.25
 }

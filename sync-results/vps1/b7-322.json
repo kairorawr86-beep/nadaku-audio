@@ -1,0 +1,12 @@
+{
+ "id": "b7-322",
+ "artist": "R.E.M.",
+ "title": "Man on the Moon",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.69,
+ "drift_max": 1.61,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

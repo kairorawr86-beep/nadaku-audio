@@ -1,5 +1,12 @@
 {
  "id": "nk-55",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Agnes Monica",
+ "title": "Matahariku",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": 1.37,
+ "drift_max": 1.05,
+ "audio_dur": 139.5,
+ "mode": "offset",
+ "offset": 1.25
 }

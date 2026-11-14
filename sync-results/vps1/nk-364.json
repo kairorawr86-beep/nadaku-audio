@@ -1,0 +1,12 @@
+{
+ "id": "nk-364",
+ "artist": "Snow Patrol",
+ "title": "Chasing Cars",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -1.1,
+ "drift_max": 0.99,
+ "audio_dur": 146.2,
+ "path": "fast",
+ "mode": "ok"
+}

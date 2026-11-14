@@ -1,0 +1,13 @@
+{
+ "id": "nk-468",
+ "artist": "Evie Tamala",
+ "title": "Selamat Malam",
+ "lang": "id",
+ "n_anchor": 5,
+ "median_offset": -1.55,
+ "drift_max": 0.0,
+ "audio_dur": 149.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

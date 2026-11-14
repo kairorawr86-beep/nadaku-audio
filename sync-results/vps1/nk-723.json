@@ -1,0 +1,14 @@
+{
+ "id": "nk-723",
+ "artist": "Rod Stewart",
+ "title": "Sailing",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -0.47,
+ "drift_max": 3.09,
+ "audio_dur": 138.7,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:13.48] I am sailing, I am sailing\n[00:20.66] Home again 'cross the sea\n[00:27.90] I am sailing, stormy waters\n[00:36.22] To be near you, to be free\n[00:46.62] I am flying, I am flying\n[00:51.12] Like a bird 'cross the sky\n[00:57.20] I am flying, passing high clouds\n[01:05.70] To be with you, to be free\n[01:12.32] Can you hear me? Can you hear me?\n[01:21.42] Through the dark night, far away\n[01:28.12] I am dying, forever crying\n[01:34.94] To be with you, who can say\n[01:47.88] Can you hear me? Can you hear me?\n[01:51.94] Through the dark night far away\n[02:01.48] I am dying, forever crying\n[02:05.98] To be with you, who can say\n[02:43.28] We are sailing, we are sailing\n[02:50.34] Home again 'cross the sea\n[02:57.54] We are sailing stormy waters\n[03:04.59] To be near you, to be free\n[03:11.19] Oh Lord, to be near you, to be free\n[03:17.80] Oh my Lord, to be near you, to be free\n[03:25.03] Oh my Lord, to be near you, to be free\n[03:32.14] Oh Lord",
+ "warn": "last cue melewati durasi"
+}

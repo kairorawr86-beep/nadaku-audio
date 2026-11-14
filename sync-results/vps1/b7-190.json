@@ -1,0 +1,12 @@
+{
+ "id": "b7-190",
+ "artist": "Morgan Wallen",
+ "title": "Last Thing You Need",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.56,
+ "drift_max": 0.44,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}

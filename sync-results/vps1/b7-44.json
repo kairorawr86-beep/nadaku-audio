@@ -1,0 +1,13 @@
+{
+ "id": "b7-44",
+ "artist": "Jaz",
+ "title": "Bersamamu",
+ "lang": "jw",
+ "n_anchor": 16,
+ "median_offset": 3.09,
+ "drift_max": 0.98,
+ "audio_dur": 148.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}

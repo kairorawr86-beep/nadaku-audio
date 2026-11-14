@@ -1,0 +1,12 @@
+{
+ "id": "nk-522",
+ "artist": "Pearl Jam",
+ "title": "Black",
+ "lang": "de",
+ "n_anchor": 4,
+ "median_offset": 0.01,
+ "drift_max": 0.0,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "ok"
+}

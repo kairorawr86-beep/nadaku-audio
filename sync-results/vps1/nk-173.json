@@ -1,0 +1,12 @@
+{
+ "id": "nk-173",
+ "artist": "Charlie Puth",
+ "title": "Attention",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -1.14,
+ "drift_max": 2.35,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

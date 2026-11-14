@@ -1,0 +1,14 @@
+{
+ "id": "nk-615",
+ "artist": "Deep Purple",
+ "title": "Smoke On the Water",
+ "lang": "nn",
+ "n_anchor": 14,
+ "median_offset": 6.2,
+ "drift_max": 22.2,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:56.56] We all came out to Montreux\n[01:11.93] On the Lake Geneva shoreline\n[01:13.42] To make records with a mobile\n[01:14.55] We didn't have much time\n[01:15.88] Frank Zappa and the Mothers\n[01:17.16] Were at the best place around\n[01:22.52] But some stupid with a flare gun\n[01:25.30] Burned the place to the ground\n[01:29.28] Smoke on the water\n[01:34.68] A fire in the sky\n[01:37.50] Smoke on the water\n[02:00.32] They burned down the gambling house\n[02:04.20] It died with an awful sound\n[02:08.96] Uh, Funky Claude was running in and out\n[02:14.70] Pulling kids on the ground\n[02:16.82] When it all was over\n[02:20.26] We had to find another place\n[02:25.58] But Swiss time was running out\n[02:30.09] It seemed that we would lose the race\n[02:34.26] Smoke on the water\n[02:38.76] A fire in the sky\n[02:41.56] Smoke on the water\n[02:54.84] We ended up at the Grand Hotel\n[04:01.24] It was empty, cold, and bare\n[04:05.57] But with the Rolling truck Stones thing just outside\n[04:09.47] Making our music there\n[04:13.35] With a few red lights, a few old beds\n[04:17.52] We make a place to sweat\n[04:20.74] No matter what we get out of this\n[04:25.21] Ha, I know, I know we'll never forget\n[04:28.76] Smoke on the water\n[04:33.54] A fire in the sky\n[04:36.27] Smoke on the water",
+ "warn": "last cue melewati durasi"
+}

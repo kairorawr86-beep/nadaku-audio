@@ -1,0 +1,13 @@
+{
+ "id": "nk-622",
+ "artist": "Feby Putri",
+ "title": "Detik Menit Jam",
+ "lang": "id",
+ "n_anchor": 6,
+ "median_offset": 42.15,
+ "drift_max": 1.97,
+ "audio_dur": 136.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 42.25
+}

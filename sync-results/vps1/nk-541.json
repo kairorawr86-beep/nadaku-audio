@@ -1,0 +1,13 @@
+{
+ "id": "nk-541",
+ "artist": "Seventeen",
+ "title": "Ayah",
+ "lang": "jw",
+ "n_anchor": 10,
+ "median_offset": -2.26,
+ "drift_max": 1.4,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.25
+}

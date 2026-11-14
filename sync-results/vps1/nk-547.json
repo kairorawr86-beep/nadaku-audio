@@ -1,0 +1,13 @@
+{
+ "id": "nk-547",
+ "artist": "Sia",
+ "title": "Chandelier",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": 10.05,
+ "drift_max": 1.11,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 10.0
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-425",
+ "artist": "Blue",
+ "title": "All Rise",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -1.53,
+ "drift_max": 0.83,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

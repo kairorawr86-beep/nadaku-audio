@@ -1,0 +1,12 @@
+{
+ "id": "nk-630",
+ "artist": "Duran Duran",
+ "title": "Ordinary World",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -0.68,
+ "drift_max": 1.37,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

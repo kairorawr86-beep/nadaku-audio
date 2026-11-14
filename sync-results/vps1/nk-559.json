@@ -1,0 +1,13 @@
+{
+ "id": "nk-559",
+ "artist": "Tears For Fears",
+ "title": "Everybody Wants To Rule The World",
+ "lang": "nn",
+ "n_anchor": 17,
+ "median_offset": 34.08,
+ "drift_max": 0.37,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 34.0
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-137",
+ "artist": "The Weeknd",
+ "title": "Blinding Lights",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": 21.3,
+ "drift_max": 1.07,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 21.25
+}

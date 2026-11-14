@@ -1,0 +1,13 @@
+{
+ "id": "nk-73",
+ "artist": "Coldplay",
+ "title": "The Scientist",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": -29.4,
+ "drift_max": 7.07,
+ "audio_dur": 149.6,
+ "mode": "retimed_clamp",
+ "lrc": "[00:00.00] Come up to meet you, tell ya I'm sorry\n[00:06.85] You don't know how lovely you are\n[00:14.14] I had to find you, tell ya I need you\n[00:20.10] Tell you I set you apart\n[00:26.23] Tell me your secrets and ask me your questions\n[00:32.40] Oh, let's go back to the start\n[00:38.57] Runnin' in circles, comin' up tails\n[00:44.96] Heads on a science apart\n[00:50.72] Nobody said it was easy\n[00:57.00] It's such a shame for us to part\n[01:06.84] Nobody said it was easy\n[01:13.00] No one ever said it would be this hard\n[01:22.06] Oh, take me back to the start\n[01:38.84] I was just guessing at numbers and figures\n[01:46.30] Pulling the puzzles apart\n[01:52.38] Questions of science, science and progress\n[01:58.74] Do not speak as loud as my heart\n[02:05.15] But tell me you love me, come back and haunt me\n[02:11.96] Oh, and I rush to the start\n[02:18.62] Runnin' in circles, chasin' our tails\n[02:25.20] Coming back as we are\n[02:31.12] Nobody said it was easy\n[02:37.28] Oh, it's such a shame for us to part\n[02:43.48] Nobody said it was easy\n[02:49.74] No one ever said it would be so hard\n[02:58.45] I'm going back to the start",
+ "warn": "last cue melewati durasi"
+}

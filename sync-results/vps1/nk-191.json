@@ -1,0 +1,13 @@
+{
+ "id": "nk-191",
+ "artist": "Imagine Dragons",
+ "title": "Demons",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 11.96,
+ "drift_max": 1.16,
+ "audio_dur": 149.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 12.0
+}

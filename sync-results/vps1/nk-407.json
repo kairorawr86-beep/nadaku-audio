@@ -1,0 +1,12 @@
+{
+ "id": "nk-407",
+ "artist": "All-4-One",
+ "title": "I Swear",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.79,
+ "drift_max": 1.76,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

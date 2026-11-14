@@ -1,0 +1,12 @@
+{
+ "id": "nk-743",
+ "artist": "Spandau Ballet",
+ "title": "True",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 1.03,
+ "drift_max": 2.18,
+ "audio_dur": 149.5,
+ "path": "demucs",
+ "mode": "ok"
+}

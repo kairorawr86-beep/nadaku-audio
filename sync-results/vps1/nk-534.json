@@ -1,0 +1,13 @@
+{
+ "id": "nk-534",
+ "artist": "Ricky Martin",
+ "title": "Livin' La Vida Loca",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 1.33,
+ "drift_max": 0.75,
+ "audio_dur": 144.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.25
+}

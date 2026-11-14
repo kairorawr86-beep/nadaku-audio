@@ -1,0 +1,13 @@
+{
+ "id": "b7-56",
+ "artist": "Tulus",
+ "title": "Tukar Jiwa",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": 3.4,
+ "drift_max": 2.43,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}
