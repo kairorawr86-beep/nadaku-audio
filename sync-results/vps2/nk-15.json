@@ -1,5 +1,7 @@
 {
  "id": "nk-15",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "mode": "skip",
+ "reason": "anchor kurang (1)",
+ "n_segs": 23,
+ "lang": "jw"
 }

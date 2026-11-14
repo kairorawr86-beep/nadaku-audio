@@ -1,5 +1,12 @@
 {
  "id": "nk-21",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Keisya Levronka",
+ "title": "Bahagia Tanpaku",
+ "lang": "id",
+ "n_anchor": 6,
+ "median_offset": 24.77,
+ "drift_max": 0.78,
+ "audio_dur": 149.9,
+ "mode": "offset",
+ "offset": 24.75
 }

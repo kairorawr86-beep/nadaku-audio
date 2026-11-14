@@ -1,5 +1,12 @@
 {
  "id": "nk-27",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Mahen",
+ "title": "Pura Pura Lupa",
+ "lang": "id",
+ "n_anchor": 15,
+ "median_offset": 5.84,
+ "drift_max": 1.18,
+ "audio_dur": 143.3,
+ "mode": "offset",
+ "offset": 5.75
 }

@@ -1,5 +1,13 @@
 {
  "id": "nk-39",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Sheila on 7",
+ "title": "Dan",
+ "lang": "jw",
+ "n_anchor": 9,
+ "median_offset": 0.03,
+ "drift_max": 11.6,
+ "audio_dur": 146.0,
+ "mode": "retimed_clamp",
+ "lrc": "[00:17.89] Dan...\n[00:20.26] Dan bila esok datang kembali\n[00:27.62] Seperti sedia kala\n[00:30.00] Di mana kau bisa bercanda\n[00:32.57] Dan...\n[00:35.06] Perlahan kau pun lupakan aku\n[00:42.95] Mimpi burukmu\n[00:44.62] Di mana telah kutancapkan duri tajam\n[00:50.06] Kau pun menangis, menangis sedih\n[00:57.54] Maafkan aku\n[01:02.38] Dan...\n[01:03.41] Bukan maksudku, bukan inginku\n[01:06.22] Melukaimu\n[01:06.84] Sadarkah kau di sini ku pun terluka\n[01:09.20] Melupakanmu, menepikanmu\n[01:12.16] Maafkan aku\n[01:13.56] Lupakanlah saja diriku\n[01:14.95] Bila itu bisa membuatmu\n[01:16.36] Kembali bersinar dan berpijar\n[01:17.49] Seperti dulu kala\n[01:19.27] Caci-maki saja diriku\n[01:20.70] Bila itu bisa membuatmu\n[01:22.08] Kembali bersinar dan berpijar\n[01:23.29] Seperti dulu kala\n[01:28.35] Dan...\n[01:29.31] Bukan maksudku, bukan inginku\n[01:32.33] Melukaimu\n[01:32.92] Sadarkah kau di sini 'ku pun terluka\n[01:35.21] Melupakanmu, menepikanmu\n[01:38.10] Maafkan aku\n[01:39.31] Lupakanlah saja diriku\n[01:40.95] Bila itu bisa membuatmu\n[01:42.33] Kembali bersinar dan berpijar\n[01:43.48] Seperti dulu kala\n[01:48.07] Caci-maki saja diriku\n[01:51.56] Bila itu bisa membuatmu\n[01:55.66] Kembali bersinar dan berpijar\n[01:58.88] Seperti dulu kala\n[02:32.84] Lupakanlah saja diriku\n[02:36.06] Bila itu bisa membuatmu\n[02:39.87] Kembali bersinar dan berpijar\n[02:42.59] Seperti dulu kala\n[02:47.08] Caci-maki saja diriku\n[02:50.67] Bila itu bisa membuatmu\n[02:54.46] Kembali bersinar dan berpijar\n[02:57.24] Seperti dulu kala\n[03:02.62] Wo-ho, wo-ho,wo-oo",
+ "warn": "last cue melewati durasi"
 }

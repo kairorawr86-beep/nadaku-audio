@@ -1,5 +1,12 @@
 {
  "id": "nk-57",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Andra And The Backbone",
+ "title": "Sempurna",
+ "lang": "id",
+ "n_anchor": 16,
+ "median_offset": -0.68,
+ "drift_max": 27.69,
+ "audio_dur": 147.2,
+ "mode": "retimed",
+ "lrc": "[00:08.52] Kau begitu sempurna\n[00:12.60] Di mataku, kau begitu indah\n[00:17.12] Kau membuat diriku akan s'lalu memujamu\n[00:27.07] Di setiap langkahku\n[00:31.10] Ku 'kan s'lalu memikirkan dirimu\n[00:38.68] Tak bisa kubayangkan hidupku tanpa cintamu\n[00:48.65] Janganlah kau tinggalkan diriku\n[00:53.26] Takkan mampu menghadapi semua\n[00:57.34] Hanya bersamamu, ku akan bisa\n[01:03.08] Kau adalah darahku\n[01:06.44] Kau adalah jantungku\n[01:12.18] Kau adalah hidupku, lengkapi diriku\n[01:18.16] Oh, sayangku, kau begitu\n[01:29.82] Sempurna, sempurna\n[01:34.94] Kau genggam tanganku\n[01:39.00] Saat diriku lemah dan terjatuh\n[01:44.74] Kau bisikkan kata dan hapus semua sesalku\n[01:47.38] Janganlah kau tinggalkan diriku\n[01:48.52] Takkan mampu menghadapi semua\n[01:49.73] Hanya bersamamu, ku akan bisa\n[01:50.98] Kau adalah darahku\n[01:52.20] Kau adalah jantungku\n[01:53.47] Kau adalah hidupku, lengkapi diriku\n[01:54.82] Oh, sayangku, kau begitu\n[01:56.51] Sempurna, sempurna\n[02:01.67] Janganlah kau tinggalkan diriku\n[02:02.76] Takkan mampu menghadapi semua\n[02:04.00] Hanya bersamamu, ku akan bisa\n[02:05.54] Kau adalah darahku (darahku)\n[02:07.06] Kau adalah jantungku (jantungku)\n[02:08.50] Kau adalah hidupku, lengkapi diriku\n[02:10.14] Oh, sayangku, kau begitu...\n[02:11.58] Kau adalah darahku (darahku)\n[02:13.12] Kau adalah jantungku (jantungku)\n[02:17.46] Kau adalah hidupku, lengkapi diriku\n[02:24.30] Oh, sayangku, kau begitu...\n[02:29.14] Sayangku, kau begitu\n[02:35.20] Sempurna, sempurna"
 }

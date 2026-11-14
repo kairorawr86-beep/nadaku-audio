@@ -1,5 +1,11 @@
 {
  "id": "nk-33",
- "mode": "error",
- "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+ "artist": "Peterpan",
+ "title": "Semua Tentang Kita",
+ "lang": "en",
+ "n_anchor": 6,
+ "median_offset": 0.23,
+ "drift_max": 1.02,
+ "audio_dur": 150.0,
+ "mode": "ok"
 }
