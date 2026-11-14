@@ -1,0 +1,14 @@
+{
+ "id": "nk-217",
+ "artist": "Ungu",
+ "title": "Bila Tiba",
+ "lang": "id",
+ "n_anchor": 10,
+ "median_offset": -1.05,
+ "drift_max": 18.85,
+ "audio_dur": 146.7,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:34.62] Hm-hm, ah-ah\n[00:43.22] Saat tiba nafas di ujung hela\n[00:48.10] Mata tinggi tak sanggup bicara\n[00:52.16] Mulut terkunci tanpa suara\n[01:00.00] Bila tiba saat berganti dunia\n[01:05.32] Alam yang sangat jauh berbeda\n[01:09.52] Siapkah kita menjawab semua pertanyaan?\n[01:18.86] Hm-hm, oh-oh\n[01:24.76] Uh-uh-uh, oh\n[01:34.40] Bila nafas akhir berhenti sudah\n[01:39.52] Jantung hati pun tak berdaya\n[01:43.90] Hanya menangis tanpa suara, oh\n[01:46.69] Mati\n[01:47.37] Tak bisa untuk kauhindari\n[01:48.89] Tak mungkin bisa engkau lari\n[01:50.52] Ajalmu pasti menghampiri, oh-oh\n[01:52.47] Oh-oh, mati\n[01:53.58] Tinggal menunggu saat nanti\n[01:55.09] Ke mana kita bisa lari?\n[01:56.71] Kita pasti 'kan mengalami mati\n[02:04.30] Uh-uh-oh-oh\n[02:05.73] Oh-oh, mati\n[02:06.84] Tak bisa untuk kauhindari\n[02:08.38] Tak mungkin bisa engkau lari\n[02:09.96] Ajalmu pasti menghampiri, oh, oh\n[02:12.40] Mati\n[02:13.02] Tinggal menunggu saat nanti\n[02:14.64] Ke mana kita bisa lari?\n[02:18.57] Kita pasti 'kan mengalami mati\n[02:25.03] (Ha-ah-ah, ha-ah-ah-ah, ha-ah)\n[02:34.99] (Ha-ah-ah, ha-ah)",
+ "warn": "last cue melewati durasi"
+}

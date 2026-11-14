@@ -1,0 +1,12 @@
+{
+ "id": "nk-205",
+ "artist": "Adele",
+ "title": "Set Fire to the Rain",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": -0.32,
+ "drift_max": 0.37,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "ok"
+}

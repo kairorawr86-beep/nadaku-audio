@@ -1,0 +1,12 @@
+{
+ "id": "nk-199",
+ "artist": "Billie Eilish",
+ "title": "Ocean Eyes",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.9,
+ "drift_max": 0.7,
+ "audio_dur": 139.8,
+ "path": "fast",
+ "mode": "ok"
+}
