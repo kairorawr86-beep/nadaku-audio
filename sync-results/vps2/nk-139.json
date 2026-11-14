@@ -1,0 +1,13 @@
+{
+ "id": "nk-139",
+ "artist": "Toto",
+ "title": "Africa",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": -8.14,
+ "drift_max": 0.41,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -8.25
+}

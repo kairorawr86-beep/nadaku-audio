@@ -1,0 +1,13 @@
+{
+ "id": "nk-181",
+ "artist": "Dua Lipa",
+ "title": "Don't Start Now",
+ "lang": "en",
+ "n_anchor": 29,
+ "median_offset": 2.68,
+ "drift_max": 2.33,
+ "audio_dur": 149.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.75
+}

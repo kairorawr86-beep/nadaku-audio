@@ -1,0 +1,14 @@
+{
+ "id": "nk-126",
+ "artist": "Setia Band",
+ "title": "Istana Bintang",
+ "lang": "jw",
+ "n_anchor": 10,
+ "median_offset": -1.18,
+ "drift_max": 3.76,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:17.04] Disaat 'ku terjatuh, semua menghilang\n[00:22.36] Disaat 'ku terluka, kamu di mana? oh\n[00:32.22] Disaat 'ku bahagia, semua mendekat\n[00:41.91] Disaat 'ku berada, kamu setia\n[00:51.67] Menangis-nangis sendiri tak ada yang menemani\n[01:01.38] 'Ku coba bangkit sendiri, sakitpun tetap sendiri\n[01:07.84] Biarkan orang tertawa, mencaci juga menghina\n[01:15.54] 'Ku akan terus 'kan terbang menggapai bintang\n[01:26.98] Biarkan aku 'kan terbang, melayang-layang di awan\n[01:30.74] Menuju langit yang indah, istana bintang\n[01:37.22] Istana bintang, istana bintang\n[02:12.13] Uh-oh\n[02:15.10] Menangis-nangis sendiri tak ada yang menemani\n[02:18.88] 'Ku coba bangkit sendiri, sakitpun tetap sendiri\n[02:24.72] Biarkan orang tertawa, mencaci juga menghina\n[02:31.74] 'Ku akan terus 'kan terbang, menggapai bintang\n[02:39.10] Biarkan aku 'kan terbang, melayang-layang di awan\n[02:46.20] Menuju langit yang indah, istana bintang\n[02:53.48] Biarkan orang tertawa, mencaci juga menghina\n[03:00.46] 'Ku akan terus 'kan terbang, menggapai bintang\n[03:07.78] Biarkan aku 'kan terbang, melayang-layang di awan\n[03:14.91] Menuju langit yang indah, istana bintang\n[03:22.13] Istana bintang, istana bintang\n[03:33.02] Menggapai bintang, istana bintang\n[03:39.95] Istana bintang, oh, oh",
+ "warn": "last cue melewati durasi"
+}

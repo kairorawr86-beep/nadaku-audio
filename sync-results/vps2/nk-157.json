@@ -1,0 +1,13 @@
+{
+ "id": "nk-157",
+ "artist": "Bernadya",
+ "title": "Apa Mungkin",
+ "lang": "id",
+ "n_anchor": 18,
+ "median_offset": 9.33,
+ "drift_max": 1.23,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 9.25
+}
