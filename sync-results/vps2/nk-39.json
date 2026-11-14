@@ -1,0 +1,5 @@
+{
+ "id": "nk-39",
+ "mode": "error",
+ "reason": "open() got an unexpected keyword argument 'metadata_errors'"
+}
