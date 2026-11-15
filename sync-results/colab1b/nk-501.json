@@ -1,0 +1,12 @@
+{
+ "id": "nk-501",
+ "artist": "Mariah Carey",
+ "title": "Hero",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -1.2,
+ "drift_max": 1.46,
+ "audio_dur": 237.7,
+ "path": "fast",
+ "mode": "ok"
+}
