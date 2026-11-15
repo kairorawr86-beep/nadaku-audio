@@ -1,0 +1,13 @@
+{
+ "id": "nk-216",
+ "artist": "Kotak",
+ "title": "Beraksi",
+ "lang": "id",
+ "n_anchor": 5,
+ "median_offset": 77.0,
+ "drift_max": 0.0,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 77.0
+}

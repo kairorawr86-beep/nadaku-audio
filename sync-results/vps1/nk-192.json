@@ -1,0 +1,13 @@
+{
+ "id": "nk-192",
+ "artist": "Maroon 5",
+ "title": "She Will Be Loved",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -1.94,
+ "drift_max": 1.2,
+ "audio_dur": 149.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}

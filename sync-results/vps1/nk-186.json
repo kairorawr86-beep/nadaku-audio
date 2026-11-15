@@ -1,0 +1,12 @@
+{
+ "id": "nk-186",
+ "artist": "Bruno Mars",
+ "title": "Grenade",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.57,
+ "drift_max": 0.6,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "ok"
+}

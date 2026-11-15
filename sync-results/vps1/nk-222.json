@@ -1,0 +1,13 @@
+{
+ "id": "nk-222",
+ "artist": "Fiersa Besari",
+ "title": "Aprilia",
+ "lang": "id",
+ "n_anchor": 19,
+ "median_offset": -14.73,
+ "drift_max": 1.41,
+ "audio_dur": 146.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -14.75
+}
