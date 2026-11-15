@@ -1,0 +1,13 @@
+{
+ "id": "nk-276",
+ "artist": "Drake",
+ "title": "Hotline Bling",
+ "lang": "en",
+ "n_anchor": 55,
+ "median_offset": 19.92,
+ "drift_max": 0.59,
+ "audio_dur": 233.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 20.0
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-251",
+ "artist": "Aerosmith",
+ "title": "I Don't Want to Miss a Thing",
+ "lang": "la",
+ "n_anchor": 50,
+ "median_offset": -1.06,
+ "drift_max": 0.64,
+ "audio_dur": 292.7,
+ "path": "fast",
+ "mode": "ok"
+}
