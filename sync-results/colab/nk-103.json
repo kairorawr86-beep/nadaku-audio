@@ -1,0 +1,13 @@
+{
+ "id": "nk-103",
+ "artist": "Maroon 5",
+ "title": "Payphone ft. Wiz Khalifa",
+ "lang": "en",
+ "n_anchor": 58,
+ "median_offset": 39.03,
+ "drift_max": 0.63,
+ "audio_dur": 268.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 39.0
+}

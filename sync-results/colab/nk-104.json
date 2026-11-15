@@ -1,0 +1,13 @@
+{
+ "id": "nk-104",
+ "artist": "Maroon 5",
+ "title": "Sugar",
+ "lang": "en",
+ "n_anchor": 36,
+ "median_offset": 33.7,
+ "drift_max": 1.06,
+ "audio_dur": 291.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 33.75
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-98",
+ "artist": "Letto",
+ "title": "Ruang Rindu",
+ "lang": "jw",
+ "n_anchor": 17,
+ "median_offset": 6.27,
+ "drift_max": 0.78,
+ "audio_dur": 229.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.25
+}

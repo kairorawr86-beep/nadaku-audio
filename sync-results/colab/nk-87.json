@@ -1,0 +1,13 @@
+{
+ "id": "nk-87",
+ "artist": "Geisha",
+ "title": "Selalu Salah",
+ "lang": "jw",
+ "n_anchor": 23,
+ "median_offset": 1.59,
+ "drift_max": 2.15,
+ "audio_dur": 242.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}
