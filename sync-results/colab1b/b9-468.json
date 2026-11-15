@@ -1,0 +1,12 @@
+{
+ "id": "b9-468",
+ "artist": "The Beatles",
+ "title": "Blackbird",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -0.45,
+ "drift_max": 1.39,
+ "audio_dur": 134.2,
+ "path": "fast",
+ "mode": "ok"
+}

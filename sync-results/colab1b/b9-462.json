@@ -1,0 +1,12 @@
+{
+ "id": "b9-462",
+ "artist": "Taylor Swift",
+ "title": "All Too Well",
+ "lang": "en",
+ "n_anchor": 45,
+ "median_offset": -0.66,
+ "drift_max": 0.46,
+ "audio_dur": 322.8,
+ "path": "fast",
+ "mode": "ok"
+}
