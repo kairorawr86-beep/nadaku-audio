@@ -1,0 +1,13 @@
+{
+ "id": "b9-329",
+ "artist": "Labrinth",
+ "title": "Jealous",
+ "lang": "en",
+ "n_anchor": 34,
+ "median_offset": -1.55,
+ "drift_max": 2.34,
+ "audio_dur": 274.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

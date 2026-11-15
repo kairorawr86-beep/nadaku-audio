@@ -1,0 +1,12 @@
+{
+ "id": "b9-293",
+ "artist": "James Blunt",
+ "title": "Goodbye My Lover",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": -0.36,
+ "drift_max": 0.87,
+ "audio_dur": 226.9,
+ "path": "fast",
+ "mode": "ok"
+}

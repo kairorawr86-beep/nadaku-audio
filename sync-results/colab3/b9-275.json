@@ -1,0 +1,12 @@
+{
+ "id": "b9-275",
+ "artist": "George Harrison",
+ "title": "My Sweet Lord",
+ "lang": "km",
+ "n_anchor": 20,
+ "median_offset": 0.01,
+ "drift_max": 2.11,
+ "audio_dur": 280.6,
+ "path": "fast",
+ "mode": "ok"
+}
