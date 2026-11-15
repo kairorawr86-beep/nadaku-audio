@@ -1,0 +1,12 @@
+{
+ "id": "b8-172",
+ "artist": "Taylor Swift",
+ "title": "August",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.39,
+ "drift_max": 1.41,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

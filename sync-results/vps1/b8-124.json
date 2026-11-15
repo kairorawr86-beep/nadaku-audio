@@ -1,0 +1,14 @@
+{
+ "id": "b8-124",
+ "artist": "Celine Dion",
+ "title": "The Power of Love",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -5.64,
+ "drift_max": 20.08,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:00.00] The whispers in the morning\n[00:05.74] Of lovers sleeping tight\n[00:11.03] Are rolling by like thunder now\n[00:15.32] As I look in your eyes\n[00:21.58] I hold on to your whole body\n[00:28.40] And feel each move you make\n[00:35.38] Your voice is warm and tender\n[00:39.18] A love that I could not forsake\n[00:46.52] 'Cause I'm your lady\n[00:55.36] And you are my man\n[01:03.12] Whenever you reach for me\n[01:09.64] I'll do all that I can\n[01:17.12] Lost is how I'm feeling lying in your arms\n[01:21.83] When the world outside's too much to take\n[01:23.39] That all ends when I'm with you\n[01:24.99] Even though there may be times\n[01:50.26] It seems I'm far away\n[01:57.72] Never wonder where I am\n[02:02.52] 'Cause I am always by your side\n[02:03.70] 'Cause I'm your lady\n[02:04.66] And you are my man\n[02:05.54] Whenever you reach for me\n[02:06.54] I'll do all that I can\n[02:07.64] We're heading for something\n[02:08.59] Somewhere I've never been\n[02:09.39] Sometimes I am frightened\n[02:10.19] But I'm ready to learn\n[02:10.66] Of the power of love\n[02:11.84] The sound of your heart beating\n[02:12.87] Made it clear suddenly\n[02:13.85] The feeling that I can't go on\n[02:15.00] Is light years away\n[02:16.14] 'Cause I'm your lady\n[02:16.90] And you are my man\n[02:25.20] Whenever you reach for me\n[02:32.25] I'll do all that I can\n[02:38.70] We're heading for something\n[02:45.25] Somewhere I've never been\n[02:51.30] Sometimes I am frightened\n[02:55.38] But I'm ready to learn\n[02:58.75] Of the power of love\n[03:08.59] The power of love\n[03:18.25] The power of love\n[03:36.84] Sometimes I am frightened\n[03:37.56] But I'm ready to learn\n[03:37.73] Of the power of love\n[03:38.02] The power of love\n[03:38.23] As I look in your eyes\n[03:38.82] The power of love",
+ "warn": "last cue melewati durasi"
+}

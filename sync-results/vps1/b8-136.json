@@ -1,0 +1,12 @@
+{
+ "id": "b8-136",
+ "artist": "Led Zeppelin",
+ "title": "Black Dog",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": -0.36,
+ "drift_max": 2.41,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

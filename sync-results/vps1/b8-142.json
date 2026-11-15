@@ -1,0 +1,12 @@
+{
+ "id": "b8-142",
+ "artist": "Metallica",
+ "title": "The Unforgiven",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": 0.08,
+ "drift_max": 0.68,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "ok"
+}

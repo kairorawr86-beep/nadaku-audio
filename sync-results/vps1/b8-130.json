@@ -1,0 +1,12 @@
+{
+ "id": "b8-130",
+ "artist": "George Michael",
+ "title": "Faith",
+ "lang": "la",
+ "n_anchor": 18,
+ "median_offset": -1.13,
+ "drift_max": 0.42,
+ "audio_dur": 147.6,
+ "path": "fast",
+ "mode": "ok"
+}
