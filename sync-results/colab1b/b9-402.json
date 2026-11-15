@@ -1,0 +1,12 @@
+{
+ "id": "b9-402",
+ "artist": "Puddle Of Mudd",
+ "title": "Blurry",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": -0.6,
+ "drift_max": 0.79,
+ "audio_dur": 258.0,
+ "path": "fast",
+ "mode": "ok"
+}

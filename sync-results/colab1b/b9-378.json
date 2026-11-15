@@ -1,0 +1,12 @@
+{
+ "id": "b9-378",
+ "artist": "Nirvana",
+ "title": "The Man Who Sold The World",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": 0.06,
+ "drift_max": 1.22,
+ "audio_dur": 204.8,
+ "path": "fast",
+ "mode": "ok"
+}
