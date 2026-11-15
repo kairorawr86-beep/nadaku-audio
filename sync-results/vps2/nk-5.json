@@ -1,0 +1,13 @@
+{
+ "id": "nk-5",
+ "artist": "Batas Senja",
+ "title": "Nanti Kita Seperti Ini",
+ "lang": "jw",
+ "n_anchor": 14,
+ "median_offset": 3.47,
+ "drift_max": 1.2,
+ "audio_dur": 149.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}

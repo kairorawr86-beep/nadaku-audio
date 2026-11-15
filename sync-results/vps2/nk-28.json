@@ -1,0 +1,14 @@
+{
+ "id": "nk-28",
+ "artist": "Nadin Amizah",
+ "title": "Bertaut",
+ "lang": "jw",
+ "n_anchor": 10,
+ "median_offset": -1.2,
+ "drift_max": 22.3,
+ "audio_dur": 148.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:20.80] Bun, hidup berjalan seperti bajingan\n[00:30.70] Seperti landak yang tak punya teman\n[00:41.94] Ia menggonggong bak suara hujan\n[00:50.98] Dan kau pangeranku, mengambil peran\n[01:02.76] Bun, kalau saat hancur ku disayang\n[01:14.80] Apalagi saat ku jadi juara\n[01:24.50] Saat tak tahu arah kau di sana\n[01:35.16] Menjadi gagah saat ku tak bisa\n[01:37.49] Sedikit kujelaskan tentangku dan kamu\n[01:38.77] Agar seisi dunia tahu\n[01:40.04] Keras kepalaku sama denganmu\n[01:41.23] Caraku marah, caraku tersenyum\n[01:42.47] Seperti detak jantung yang bertaut\n[01:43.69] Nyawaku nyala karena denganmu\n[01:44.92] Aku masih ada sampai di sini\n[01:46.16] Melihatmu kuat setengah mati\n[01:47.39] Seperti detak jantung yang bertaut\n[01:48.59] Nyawaku nyala karena denganmu\n[01:52.36] Bun, aku masih tak mengerti banyak hal\n[01:54.75] Semuanya berenang di kepala\n[01:57.17] Dan kau dan semua yang kau tahu tentangnya\n[01:59.67] Menjadi jawab saat ku bertanya\n[02:02.00] Sedikit kujelaskan tentangku dan kamu\n[02:03.32] Agar seisi dunia tahu\n[02:04.53] Keras kepalaku sama denganmu\n[02:05.72] Caraku marah, caraku tersenyum\n[02:06.98] Seperti detak jantung yang bertaut\n[02:12.09] Nyawaku nyala karena denganmu\n[02:17.22] Aku masih ada sampai di sini\n[02:22.86] Melihatmu kuat setengah mati\n[02:28.01] Seperti detak jantung yang bertaut\n[02:33.13] Nyawaku nyala karena denganmu\n[02:38.16] Semoga lama hidupmu di sini\n[02:43.07] Melihatku berjuang sampai akhir\n[02:48.34] Seperti detak jantung yang bertaut\n[02:53.34] Nyawaku nyala karena denganmu",
+ "warn": "last cue melewati durasi"
+}

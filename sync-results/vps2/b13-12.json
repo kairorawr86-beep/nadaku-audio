@@ -1,0 +1,14 @@
+{
+ "id": "b13-12",
+ "artist": "Repvblik",
+ "title": "Selimut Tetangga",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": -0.97,
+ "drift_max": 5.08,
+ "audio_dur": 143.5,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:28.62] Bersabarlah sayang, aku akan pulang\n[00:34.77] Jangan dengarkan gosip murahan tentang aku\n[00:39.44] Berjanjilah sayang, 'tuk s'lalu setia\n[00:43.96] Meski ku tak s'lalu di sampingmu\n[00:49.28] Tak usah menangis, meratapi aku\n[00:54.40] Tak perlu kau berfikir ku meninggalkanmu\n[01:03.78] Mana mungkin selimut tetangga\n[01:11.38] Hangati tubuhku dalam kedinginan\n[01:16.20] Malam-malam panjang, setiap tidurku\n[01:22.34] S'lalu kesepian\n[01:28.68] Mana mungkin selimut tetangga\n[01:36.97] Hangati tubuhku dalam kedinginan\n[01:45.26] Malam-malam panjang, setiap tidurku\n[01:51.05] S'lalu kesepian\n[01:56.98] Berjanjilah sayang, 'tuk s'lalu setia\n[02:02.40] Meski ku tak s'lalu di sampingmu\n[02:07.29] Tak usah menangis, meratapi aku\n[02:12.33] Tak perlu kau berfikir ku meninggalkanmu\n[02:36.08] Tak usah menangis, meratapi aku\n[02:40.73] Tak perlu kau berfikir ku meninggalkanmu\n[02:47.29] Mana mungkin selimut tetangga\n[02:53.08] Hangati tubuhku dalam kedinginan\n[02:59.16] Malam-malam panjang, setiap tidurku\n[03:05.05] S'lalu kesepian\n[03:11.18] Mana mungkin selimut tetangga\n[03:17.02] Hangati tubuhku dalam kedinginan\n[03:22.91] Malam-malam panjang, setiap tidurku\n[03:28.80] S'lalu kesepian\n[03:36.83] Bersabarlah sayang, aku akan pulang\n[03:49.75] Jujurlah sayang, aku tak mengapa\n[03:56.78] Biar semua jelas tak berbeda",
+ "warn": "last cue melewati durasi"
+}
