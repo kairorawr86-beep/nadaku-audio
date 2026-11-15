@@ -1,0 +1,13 @@
+{
+ "id": "b7-263",
+ "artist": "Ed Sheeran, Khalid",
+ "title": "Beautiful People",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": 13.33,
+ "drift_max": 1.45,
+ "audio_dur": 200.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 13.25
+}

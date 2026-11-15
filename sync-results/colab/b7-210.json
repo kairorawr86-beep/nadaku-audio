@@ -1,0 +1,13 @@
+{
+ "id": "b7-210",
+ "artist": "Chappell Roan",
+ "title": "Pink Pony Club",
+ "lang": "en",
+ "n_anchor": 44,
+ "median_offset": 12.73,
+ "drift_max": 0.44,
+ "audio_dur": 277.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 12.75
+}

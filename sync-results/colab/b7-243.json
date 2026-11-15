@@ -1,0 +1,13 @@
+{
+ "id": "b7-243",
+ "artist": "Ariana Grande",
+ "title": "yes, and?",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": 33.27,
+ "drift_max": 0.75,
+ "audio_dur": 266.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 33.25
+}

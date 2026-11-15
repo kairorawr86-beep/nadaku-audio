@@ -1,0 +1,13 @@
+{
+ "id": "b7-256",
+ "artist": "Taylor Swift",
+ "title": "Lover",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": 7.47,
+ "drift_max": 1.02,
+ "audio_dur": 238.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.5
+}
