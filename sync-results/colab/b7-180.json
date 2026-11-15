@@ -1,0 +1,12 @@
+{
+ "id": "b7-180",
+ "artist": "Bruno Mars",
+ "title": "I Just Might",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": -0.81,
+ "drift_max": 1.19,
+ "audio_dur": 209.0,
+ "path": "fast",
+ "mode": "ok"
+}
