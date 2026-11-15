@@ -1,0 +1,13 @@
+{
+ "id": "nk-178",
+ "artist": "Harry Styles",
+ "title": "Sign of the Times",
+ "lang": "en",
+ "n_anchor": 43,
+ "median_offset": 3.18,
+ "drift_max": 2.7,
+ "audio_dur": 338.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-196",
+ "artist": "The Weeknd",
+ "title": "Starboy",
+ "lang": "en",
+ "n_anchor": 53,
+ "median_offset": 41.14,
+ "drift_max": 1.22,
+ "audio_dur": 268.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 41.25
+}
