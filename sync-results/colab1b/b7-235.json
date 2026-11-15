@@ -1,0 +1,12 @@
+{
+ "id": "b7-235",
+ "artist": "SZA",
+ "title": "Saturn",
+ "lang": "en",
+ "n_anchor": 39,
+ "median_offset": 0.31,
+ "drift_max": 2.3,
+ "audio_dur": 161.8,
+ "path": "fast",
+ "mode": "ok"
+}

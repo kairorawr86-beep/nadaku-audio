@@ -1,0 +1,13 @@
+{
+ "id": "b7-205",
+ "artist": "Sabrina Carpenter",
+ "title": "Espresso",
+ "lang": "en",
+ "n_anchor": 47,
+ "median_offset": 13.22,
+ "drift_max": 0.7,
+ "audio_dur": 184.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 13.25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-150",
+ "artist": "Potret",
+ "title": "Mak Comblang",
+ "lang": "id",
+ "n_anchor": 24,
+ "median_offset": 2.94,
+ "drift_max": 1.03,
+ "audio_dur": 132.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}

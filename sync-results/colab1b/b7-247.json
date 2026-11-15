@@ -1,0 +1,13 @@
+{
+ "id": "b7-247",
+ "artist": "Ariana Grande",
+ "title": "Into You",
+ "lang": "en",
+ "n_anchor": 56,
+ "median_offset": 1.65,
+ "drift_max": 0.98,
+ "audio_dur": 238.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.75
+}
