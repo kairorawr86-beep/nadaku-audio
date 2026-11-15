@@ -1,0 +1,12 @@
+{
+ "id": "b8-177",
+ "artist": "Billie Eilish",
+ "title": "When The Party's Over",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.41,
+ "drift_max": 0.7,
+ "audio_dur": 183.0,
+ "path": "fast",
+ "mode": "ok"
+}
