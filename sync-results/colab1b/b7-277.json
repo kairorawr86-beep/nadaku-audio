@@ -1,0 +1,12 @@
+{
+ "id": "b7-277",
+ "artist": "James Arthur",
+ "title": "Train Wreck",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": -0.64,
+ "drift_max": 2.79,
+ "audio_dur": 200.6,
+ "path": "fast",
+ "mode": "ok"
+}

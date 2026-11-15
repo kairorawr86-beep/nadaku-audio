@@ -1,0 +1,12 @@
+{
+ "id": "b7-289",
+ "artist": "Lady Gaga",
+ "title": "Paparazzi",
+ "lang": "en",
+ "n_anchor": 43,
+ "median_offset": -0.44,
+ "drift_max": 0.43,
+ "audio_dur": 199.6,
+ "path": "fast",
+ "mode": "ok"
+}

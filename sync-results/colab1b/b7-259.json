@@ -1,0 +1,12 @@
+{
+ "id": "b7-259",
+ "artist": "Miley Cyrus",
+ "title": "Wrecking Ball",
+ "lang": "en",
+ "n_anchor": 49,
+ "median_offset": 0.39,
+ "drift_max": 0.66,
+ "audio_dur": 211.6,
+ "path": "fast",
+ "mode": "ok"
+}
