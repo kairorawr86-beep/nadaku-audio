@@ -1,0 +1,12 @@
+{
+ "id": "b9-446",
+ "artist": "Snow Patrol",
+ "title": "Run",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -1.11,
+ "drift_max": 0.87,
+ "audio_dur": 341.2,
+ "path": "fast",
+ "mode": "ok"
+}

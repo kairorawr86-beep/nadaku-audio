@@ -1,0 +1,12 @@
+{
+ "id": "b9-434",
+ "artist": "Shawn Mendes",
+ "title": "Mercy",
+ "lang": "en",
+ "n_anchor": 45,
+ "median_offset": -0.28,
+ "drift_max": 0.81,
+ "audio_dur": 196.3,
+ "path": "fast",
+ "mode": "ok"
+}

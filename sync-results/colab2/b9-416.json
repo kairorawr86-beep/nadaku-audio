@@ -1,0 +1,13 @@
+{
+ "id": "b9-416",
+ "artist": "Richard Marx",
+ "title": "Now And Forever",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -2.57,
+ "drift_max": 1.93,
+ "audio_dur": 209.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.5
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b9-398",
+ "artist": "Poison",
+ "title": "Every Rose Has Its Thorn",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -1.03,
+ "drift_max": 1.01,
+ "audio_dur": 257.1,
+ "path": "fast",
+ "mode": "ok"
+}

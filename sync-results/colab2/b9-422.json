@@ -1,0 +1,12 @@
+{
+ "id": "b9-422",
+ "artist": "Sam Smith",
+ "title": "Lay Me Down",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": -0.93,
+ "drift_max": 0.95,
+ "audio_dur": 234.6,
+ "path": "fast",
+ "mode": "ok"
+}
