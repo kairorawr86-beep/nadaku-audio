@@ -1,0 +1,12 @@
+{
+ "id": "b9-100",
+ "artist": "Blue",
+ "title": "One Love",
+ "lang": "en",
+ "n_anchor": 50,
+ "median_offset": -0.1,
+ "drift_max": 0.36,
+ "audio_dur": 204.6,
+ "path": "fast",
+ "mode": "ok"
+}

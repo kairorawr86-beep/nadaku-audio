@@ -1,0 +1,12 @@
+{
+ "id": "b9-88",
+ "artist": "Beyonce",
+ "title": "XO",
+ "lang": "en",
+ "n_anchor": 46,
+ "median_offset": -0.19,
+ "drift_max": 0.81,
+ "audio_dur": 204.3,
+ "path": "fast",
+ "mode": "ok"
+}
