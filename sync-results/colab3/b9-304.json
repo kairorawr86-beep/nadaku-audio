@@ -1,0 +1,12 @@
+{
+ "id": "b9-304",
+ "artist": "Joe",
+ "title": "I Wanna Know",
+ "lang": "en",
+ "n_anchor": 51,
+ "median_offset": -0.91,
+ "drift_max": 1.09,
+ "audio_dur": 290.0,
+ "path": "fast",
+ "mode": "ok"
+}

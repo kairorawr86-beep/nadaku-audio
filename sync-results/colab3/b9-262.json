@@ -1,0 +1,13 @@
+{
+ "id": "b9-262",
+ "artist": "Fleetwood Mac",
+ "title": "Landslide",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -1.67,
+ "drift_max": 1.04,
+ "audio_dur": 197.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}
