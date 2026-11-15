@@ -1,0 +1,13 @@
+{
+ "id": "nk-4",
+ "artist": "Banda Neira",
+ "title": "Sampai Jadi Debu",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": -5.95,
+ "drift_max": 1.18,
+ "audio_dur": 402.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -6.0
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-1",
+ "artist": "Adrian Khalif",
+ "title": "2001x",
+ "lang": "id",
+ "n_anchor": 23,
+ "median_offset": -1.04,
+ "drift_max": 1.29,
+ "audio_dur": 195.3,
+ "path": "fast",
+ "mode": "ok"
+}

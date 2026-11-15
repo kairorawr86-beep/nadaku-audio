@@ -1,0 +1,13 @@
+{
+ "id": "nk-8",
+ "artist": "Denny Caknan",
+ "title": "Kartonyono Medot Janji",
+ "lang": "jw",
+ "n_anchor": 6,
+ "median_offset": -1.27,
+ "drift_max": 1.21,
+ "audio_dur": 288.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
