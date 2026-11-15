@@ -1,0 +1,13 @@
+{
+ "id": "b7-249",
+ "artist": "Ariana Grande",
+ "title": "No Tears Left to Cry",
+ "lang": "en",
+ "n_anchor": 54,
+ "median_offset": 19.64,
+ "drift_max": 0.86,
+ "audio_dur": 228.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 19.75
+}

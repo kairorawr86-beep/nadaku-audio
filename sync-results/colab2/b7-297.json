@@ -1,0 +1,12 @@
+{
+ "id": "b7-297",
+ "artist": "Rihanna",
+ "title": "Take a Bow",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": 0.11,
+ "drift_max": 0.9,
+ "audio_dur": 220.8,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-261",
+ "artist": "Lewis Capaldi",
+ "title": "Bruises",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": 5.06,
+ "drift_max": 0.84,
+ "audio_dur": 201.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.0
+}
