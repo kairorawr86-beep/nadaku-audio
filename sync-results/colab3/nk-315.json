@@ -1,0 +1,13 @@
+{
+ "id": "nk-315",
+ "artist": "Lifehouse",
+ "title": "You And Me",
+ "lang": "nn",
+ "n_anchor": 35,
+ "median_offset": 20.71,
+ "drift_max": 1.12,
+ "audio_dur": 209.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 20.75
+}
