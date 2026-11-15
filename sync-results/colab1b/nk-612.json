@@ -1,0 +1,12 @@
+{
+ "id": "nk-612",
+ "artist": "Crosby Stills Nash & Young",
+ "title": "Teach Your Children",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.53,
+ "drift_max": 0.96,
+ "audio_dur": 157.9,
+ "path": "fast",
+ "mode": "ok"
+}

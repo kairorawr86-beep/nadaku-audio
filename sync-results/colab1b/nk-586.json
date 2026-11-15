@@ -1,0 +1,12 @@
+{
+ "id": "nk-586",
+ "artist": "Abba",
+ "title": "Mamma Mia",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -0.56,
+ "drift_max": 0.61,
+ "audio_dur": 204.7,
+ "path": "fast",
+ "mode": "ok"
+}

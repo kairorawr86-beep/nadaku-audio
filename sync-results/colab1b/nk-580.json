@@ -1,0 +1,13 @@
+{
+ "id": "nk-580",
+ "artist": "Westlife",
+ "title": "Flying Without Wings",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": 10.19,
+ "drift_max": 0.88,
+ "audio_dur": 213.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 10.25
+}
