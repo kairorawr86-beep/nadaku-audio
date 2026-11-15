@@ -1,0 +1,12 @@
+{
+ "id": "nk-502",
+ "artist": "Maroon 5",
+ "title": "This Love",
+ "lang": "en",
+ "n_anchor": 36,
+ "median_offset": 0.26,
+ "drift_max": 0.54,
+ "audio_dur": 202.4,
+ "path": "fast",
+ "mode": "ok"
+}

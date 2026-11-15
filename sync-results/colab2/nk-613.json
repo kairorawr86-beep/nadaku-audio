@@ -1,0 +1,12 @@
+{
+ "id": "nk-613",
+ "artist": "David Bowie",
+ "title": "Starman",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.5,
+ "drift_max": 0.77,
+ "audio_dur": 230.5,
+ "path": "fast",
+ "mode": "ok"
+}

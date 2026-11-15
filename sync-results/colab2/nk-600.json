@@ -1,0 +1,13 @@
+{
+ "id": "nk-600",
+ "artist": "Billy Joel",
+ "title": "Piano Man",
+ "lang": "br",
+ "n_anchor": 43,
+ "median_offset": -5.25,
+ "drift_max": 0.57,
+ "audio_dur": 311.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -5.25
+}

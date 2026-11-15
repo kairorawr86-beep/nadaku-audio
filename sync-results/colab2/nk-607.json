@@ -1,0 +1,12 @@
+{
+ "id": "nk-607",
+ "artist": "Carole King",
+ "title": "You've Got a Friend",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.3,
+ "drift_max": 0.98,
+ "audio_dur": 301.6,
+ "path": "fast",
+ "mode": "ok"
+}

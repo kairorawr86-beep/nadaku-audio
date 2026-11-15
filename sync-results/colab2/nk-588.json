@@ -1,0 +1,13 @@
+{
+ "id": "nk-588",
+ "artist": "Afgan",
+ "title": "Bawalah Cintaku",
+ "lang": "nn",
+ "n_anchor": 19,
+ "median_offset": 26.76,
+ "drift_max": 1.48,
+ "audio_dur": 292.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 26.75
+}

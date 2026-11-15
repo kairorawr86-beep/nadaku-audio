@@ -1,0 +1,13 @@
+{
+ "id": "nk-514",
+ "artist": "No Doubt",
+ "title": "Don't Speak",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": 28.78,
+ "drift_max": 0.95,
+ "audio_dur": 286.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 28.75
+}

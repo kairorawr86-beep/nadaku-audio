@@ -1,0 +1,12 @@
+{
+ "id": "nk-581",
+ "artist": "Whitney Houston",
+ "title": "I Will Always Love You",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 0.35,
+ "drift_max": 2.0,
+ "audio_dur": 258.5,
+ "path": "fast",
+ "mode": "ok"
+}

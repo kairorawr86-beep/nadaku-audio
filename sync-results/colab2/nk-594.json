@@ -1,0 +1,13 @@
+{
+ "id": "nk-594",
+ "artist": "Badfinger",
+ "title": "Day After Day",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": 3.48,
+ "drift_max": 1.47,
+ "audio_dur": 175.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}

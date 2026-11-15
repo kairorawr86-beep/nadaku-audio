@@ -1,0 +1,12 @@
+{
+ "id": "nk-526",
+ "artist": "Pink Floyd",
+ "title": "Wish You Were Here",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.48,
+ "drift_max": 1.07,
+ "audio_dur": 337.5,
+ "path": "fast",
+ "mode": "ok"
+}

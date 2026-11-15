@@ -1,0 +1,13 @@
+{
+ "id": "nk-532",
+ "artist": "Rhoma Irama",
+ "title": "Begadang",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": 1.56,
+ "drift_max": 1.29,
+ "audio_dur": 187.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}
