@@ -1,0 +1,13 @@
+{
+ "id": "nk-249",
+ "artist": "Tulus",
+ "title": "Gajah",
+ "lang": "jw",
+ "n_anchor": 27,
+ "median_offset": 2.36,
+ "drift_max": 0.64,
+ "audio_dur": 239.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.25
+}

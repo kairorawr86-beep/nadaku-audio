@@ -1,0 +1,14 @@
+{
+ "id": "nk-231",
+ "artist": "Peterpan",
+ "title": "Di Belakangku",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": -0.86,
+ "drift_max": 3.7,
+ "audio_dur": 180.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:09.66] Kau peluk aku\n[00:15.26] Sebelum membunuhku\n[00:23.27] Tersenyum melihatku\n[00:28.73] Merenung melihatmu\n[00:51.38] Kau menungguku\n[01:01.95] Menunggu kuterjatuh\n[01:05.75] Setiap langkah tertuju\n[01:08.96] Setia dalam renungku\n[01:12.97] Aku\n[01:15.80] Menunggumu\n[01:18.76] Menunggumu\n[01:20.16] Menunggumu\n[01:22.95] Mati\n[01:25.55] Di depanku\n[01:27.86] Di depanku\n[01:30.21] Di depanku\n[01:33.16] Ho-oo\n[01:54.92] Kau peluk aku\n[01:58.02] Sebelum membunuhku\n[02:00.81] Tersenyum melihatku\n[02:06.86] Merenung melihatmu\n[02:11.79] Aku\n[02:13.75] Menunggumu\n[02:15.78] Menunggumu\n[02:18.88] Menunggumu\n[02:20.49] Mati\n[02:22.02] Di depanku\n[02:23.46] Di depanku\n[02:25.11] Di depanku\n[02:27.02] Di depanku\n[02:28.54] Oh-wa\n[02:34.63] Apa yang kau lakukan di belakangku\n[02:56.46] Mengapa tak kau tunjukkan\n[03:00.59] Dihadapanku\n[03:06.68] Apa yang kau lakukan di belakangku\n[03:14.74] Di belakangku\n[03:19.58] Di belakangku wo-oo\n[03:24.41] Di belakangku wo-oo\n[03:29.74] Di belakangku\n[03:33.02] Wo-oo\n[03:54.67] Aku\n[03:56.62] Menunggumu\n[03:58.95] Menunggumu\n[04:01.46] Menunggumu\n[04:03.78] Mati\n[04:06.28] Di depanku\n[04:08.60] Di depanku\n[04:11.44] Di depanku\n[04:13.45] Ho-oo\n[04:14.94] Aa-aa-aa-aa\n[04:20.28] Aa-aa-aa-aa",
+ "warn": "last cue melewati durasi"
+}
