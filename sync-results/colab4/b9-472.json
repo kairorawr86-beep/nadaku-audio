@@ -1,0 +1,12 @@
+{
+ "id": "b9-472",
+ "artist": "The Cure",
+ "title": "Just Like Heaven",
+ "lang": "km",
+ "n_anchor": 20,
+ "median_offset": 0.27,
+ "drift_max": 0.52,
+ "audio_dur": 209.9,
+ "path": "fast",
+ "mode": "ok"
+}
