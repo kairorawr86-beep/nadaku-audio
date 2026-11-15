@@ -1,0 +1,13 @@
+{
+ "id": "nk-637",
+ "artist": "Elvis Presley",
+ "title": "Suspicious Minds",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -10.25,
+ "drift_max": 1.32,
+ "audio_dur": 148.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -10.25
+}

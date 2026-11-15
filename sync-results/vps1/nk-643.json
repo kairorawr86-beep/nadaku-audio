@@ -1,0 +1,12 @@
+{
+ "id": "nk-643",
+ "artist": "Feeder",
+ "title": "Buck Rogers",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -0.99,
+ "drift_max": 0.36,
+ "audio_dur": 144.1,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-604",
+ "artist": "Bryan Ferry",
+ "title": "Slave To Love",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": -0.24,
+ "drift_max": 0.44,
+ "audio_dur": 144.6,
+ "path": "fast",
+ "mode": "ok"
+}

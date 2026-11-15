@@ -1,0 +1,12 @@
+{
+ "id": "nk-610",
+ "artist": "Commodores",
+ "title": "Easy",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": -0.6,
+ "drift_max": 0.85,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "ok"
+}
