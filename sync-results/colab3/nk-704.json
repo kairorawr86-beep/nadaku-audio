@@ -1,0 +1,12 @@
+{
+ "id": "nk-704",
+ "artist": "Nike Ardilla",
+ "title": "Panggung Sandiwara",
+ "lang": "id",
+ "n_anchor": 22,
+ "median_offset": -0.94,
+ "drift_max": 0.89,
+ "audio_dur": 250.3,
+ "path": "fast",
+ "mode": "ok"
+}

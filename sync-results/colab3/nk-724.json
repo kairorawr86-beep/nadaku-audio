@@ -1,0 +1,13 @@
+{
+ "id": "nk-724",
+ "artist": "Rossa",
+ "title": "Sakura",
+ "lang": "id",
+ "n_anchor": 19,
+ "median_offset": 5.89,
+ "drift_max": 1.37,
+ "audio_dur": 204.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.0
+}

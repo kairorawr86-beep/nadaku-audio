@@ -1,0 +1,12 @@
+{
+ "id": "nk-763",
+ "artist": "The Smiths",
+ "title": "There Is A Light That Never Goes Out",
+ "lang": "cy",
+ "n_anchor": 21,
+ "median_offset": -0.7,
+ "drift_max": 0.52,
+ "audio_dur": 232.2,
+ "path": "fast",
+ "mode": "ok"
+}
