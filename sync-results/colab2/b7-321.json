@@ -1,0 +1,13 @@
+{
+ "id": "b7-321",
+ "artist": "R.E.M.",
+ "title": "Everybody Hurts",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": 3.62,
+ "drift_max": 1.84,
+ "audio_dur": 334.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}

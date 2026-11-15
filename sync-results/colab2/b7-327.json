@@ -1,0 +1,13 @@
+{
+ "id": "b7-327",
+ "artist": "Queen",
+ "title": "We Are the Champions",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": 1.55,
+ "drift_max": 0.92,
+ "audio_dur": 172.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}
