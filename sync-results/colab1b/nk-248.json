@@ -1,0 +1,13 @@
+{
+ "id": "nk-248",
+ "artist": "Tulus",
+ "title": "Labirin",
+ "lang": "id",
+ "n_anchor": 13,
+ "median_offset": 3.26,
+ "drift_max": 1.82,
+ "audio_dur": 183.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.25
+}

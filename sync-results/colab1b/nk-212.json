@@ -1,0 +1,13 @@
+{
+ "id": "nk-212",
+ "artist": "Coldplay",
+ "title": "Paradise",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": -21.24,
+ "drift_max": 1.2,
+ "audio_dur": 251.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -21.25
+}
