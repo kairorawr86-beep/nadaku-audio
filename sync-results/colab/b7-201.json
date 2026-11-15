@@ -1,0 +1,13 @@
+{
+ "id": "b7-201",
+ "artist": "Katy Perry",
+ "title": "the one that got away",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": 16.47,
+ "drift_max": 0.6,
+ "audio_dur": 278.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 16.5
+}

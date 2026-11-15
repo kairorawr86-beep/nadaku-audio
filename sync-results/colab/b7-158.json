@@ -1,0 +1,13 @@
+{
+ "id": "b7-158",
+ "artist": "Slank",
+ "title": "Terlalu Manis",
+ "lang": "br",
+ "n_anchor": 14,
+ "median_offset": 9.09,
+ "drift_max": 2.0,
+ "audio_dur": 265.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 9.0
+}

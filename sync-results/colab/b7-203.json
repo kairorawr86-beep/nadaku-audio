@@ -1,0 +1,12 @@
+{
+ "id": "b7-203",
+ "artist": "Lady Gaga, Bruno Mars",
+ "title": "Die With A Smile",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.93,
+ "drift_max": 1.35,
+ "audio_dur": 241.9,
+ "path": "fast",
+ "mode": "ok"
+}
