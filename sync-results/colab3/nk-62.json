@@ -1,0 +1,13 @@
+{
+ "id": "nk-62",
+ "artist": "Backstreet Boys",
+ "title": "I Want It That Way",
+ "lang": "en",
+ "n_anchor": 44,
+ "median_offset": 5.8,
+ "drift_max": 0.63,
+ "audio_dur": 214.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.75
+}
