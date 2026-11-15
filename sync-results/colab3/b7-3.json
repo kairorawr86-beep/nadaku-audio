@@ -1,0 +1,13 @@
+{
+ "id": "b7-3",
+ "artist": "Tulus",
+ "title": "Teh Hijau",
+ "lang": "id",
+ "n_anchor": 34,
+ "median_offset": 13.75,
+ "drift_max": 0.9,
+ "audio_dur": 218.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 13.75
+}
