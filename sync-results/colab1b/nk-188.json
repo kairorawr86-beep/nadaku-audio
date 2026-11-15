@@ -1,0 +1,13 @@
+{
+ "id": "nk-188",
+ "artist": "OneRepublic",
+ "title": "Apologize",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -17.14,
+ "drift_max": 1.94,
+ "audio_dur": 190.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -17.25
+}

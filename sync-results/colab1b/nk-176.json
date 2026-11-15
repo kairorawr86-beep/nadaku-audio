@@ -1,0 +1,12 @@
+{
+ "id": "nk-176",
+ "artist": "Justin Bieber",
+ "title": "Peaches",
+ "lang": "en",
+ "n_anchor": 34,
+ "median_offset": -0.25,
+ "drift_max": 1.26,
+ "audio_dur": 169.5,
+ "path": "fast",
+ "mode": "ok"
+}

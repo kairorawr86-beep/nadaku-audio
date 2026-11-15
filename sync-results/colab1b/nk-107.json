@@ -1,0 +1,12 @@
+{
+ "id": "nk-107",
+ "artist": "Michael Jackson",
+ "title": "Billie Jean",
+ "lang": "nn",
+ "n_anchor": 40,
+ "median_offset": 0.4,
+ "drift_max": 1.37,
+ "audio_dur": 290.1,
+ "path": "fast",
+ "mode": "ok"
+}

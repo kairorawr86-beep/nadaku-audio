@@ -1,0 +1,12 @@
+{
+ "id": "nk-170",
+ "artist": "Linkin Park",
+ "title": "Numb",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": 0.56,
+ "drift_max": 0.55,
+ "audio_dur": 176.0,
+ "path": "fast",
+ "mode": "ok"
+}
