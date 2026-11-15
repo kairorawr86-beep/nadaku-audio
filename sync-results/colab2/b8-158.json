@@ -1,0 +1,13 @@
+{
+ "id": "b8-158",
+ "artist": "Ryan Gosling, Emma Stone",
+ "title": "City of Stars",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -3.47,
+ "drift_max": 1.35,
+ "audio_dur": 139.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.5
+}

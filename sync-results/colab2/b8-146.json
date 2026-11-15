@@ -1,0 +1,13 @@
+{
+ "id": "b8-146",
+ "artist": "Green Day",
+ "title": "Good Riddance (Time of Your Life)",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": -1.39,
+ "drift_max": 1.48,
+ "audio_dur": 137.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

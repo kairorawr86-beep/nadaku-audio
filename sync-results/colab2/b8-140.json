@@ -1,0 +1,13 @@
+{
+ "id": "b8-140",
+ "artist": "Bon Jovi",
+ "title": "Runaway",
+ "lang": "km",
+ "n_anchor": 8,
+ "median_offset": 12.87,
+ "drift_max": 1.92,
+ "audio_dur": 246.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 12.75
+}

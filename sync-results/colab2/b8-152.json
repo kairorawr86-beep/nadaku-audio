@@ -1,0 +1,12 @@
+{
+ "id": "b8-152",
+ "artist": "The Goo Goo Dolls",
+ "title": "Black Balloon",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.22,
+ "drift_max": 1.28,
+ "audio_dur": 250.1,
+ "path": "demucs",
+ "mode": "ok"
+}
