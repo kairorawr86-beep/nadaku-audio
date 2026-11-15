@@ -1,0 +1,13 @@
+{
+ "id": "b9-407",
+ "artist": "Queen",
+ "title": "Play The Game",
+ "lang": "nn",
+ "n_anchor": 21,
+ "median_offset": 29.49,
+ "drift_max": 2.21,
+ "audio_dur": 230.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 29.5
+}
