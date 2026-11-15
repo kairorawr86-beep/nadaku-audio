@@ -1,0 +1,13 @@
+{
+ "id": "b8-5",
+ "artist": "Bernadya",
+ "title": "Lama-Lama",
+ "lang": "jw",
+ "n_anchor": 21,
+ "median_offset": -1.5,
+ "drift_max": 1.28,
+ "audio_dur": 176.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
