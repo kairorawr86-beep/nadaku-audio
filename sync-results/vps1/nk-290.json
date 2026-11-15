@@ -1,0 +1,13 @@
+{
+ "id": "nk-290",
+ "artist": "Gorillaz",
+ "title": "Feel Good Inc.",
+ "lang": "en",
+ "n_anchor": 8,
+ "median_offset": 16.72,
+ "drift_max": 0.44,
+ "audio_dur": 139.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 16.75
+}

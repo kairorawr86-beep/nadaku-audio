@@ -1,0 +1,14 @@
+{
+ "id": "nk-321",
+ "artist": "Metallica",
+ "title": "Nothing Else Matters",
+ "lang": "en",
+ "n_anchor": 10,
+ "median_offset": 0.02,
+ "drift_max": 15.42,
+ "audio_dur": 148.1,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:58.10] So close, no matter how far\n[01:02.94] Couldn't be much more from the heart\n[01:10.78] Forever trusting who we are\n[01:15.40] And nothing else matters\n[01:23.12] Never opened myself this way\n[01:28.10] Life is ours, we live it our way\n[01:32.78] All these words, I don't just say\n[01:38.26] And nothing else matters\n[01:45.38] Trust I seek and I find in you\n[01:50.96] Every day for us something new\n[01:56.08] Open mind for a different view\n[01:57.96] And nothing else matters\n[02:00.78] Never cared for what they do\n[02:02.47] Never cared for what they know\n[02:04.34] But I know\n[02:06.76] So close, no matter how far\n[02:08.58] It couldn't be much more from the heart\n[02:10.48] Forever trusting who we are\n[02:12.26] And nothing else matters\n[02:15.03] Never cared for what they do\n[02:16.82] Never cared for what they know\n[02:18.68] But I know\n[03:02.92] I never opened myself this way\n[03:08.01] Life is ours, we live it our way\n[03:12.23] All these words, I don't just say\n[03:17.37] And nothing else matters\n[03:24.32] Trust I seek and I find in you\n[03:29.46] Every day for us something new\n[03:34.37] Open mind for a different view\n[03:39.15] And nothing else matters\n[03:46.40] Never cared for what they say\n[03:51.01] Never cared for games they play\n[03:55.79] Never cared for what they do\n[04:00.43] Never cared for what they know\n[04:05.41] And I know, yeah, yeah\n[04:38.12] So close, no matter how far\n[04:42.53] Couldn't be much more from the heart\n[04:47.57] Forever trusting who we are\n[04:52.30] No, nothing else matters",
+ "warn": "last cue melewati durasi"
+}

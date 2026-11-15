@@ -1,0 +1,13 @@
+{
+ "id": "nk-302",
+ "artist": "John Denver",
+ "title": "Take Me Home Country Roads (from The Wildlife Concert)",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -2.01,
+ "drift_max": 1.51,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}

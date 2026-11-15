@@ -1,0 +1,13 @@
+{
+ "id": "nk-296",
+ "artist": "Insomniacks",
+ "title": "Pulang",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": 5.23,
+ "drift_max": 1.55,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.25
+}
