@@ -1,0 +1,13 @@
+{
+ "id": "nk-466",
+ "artist": "Eric Clapton",
+ "title": "Tears In Heaven",
+ "lang": "haw",
+ "n_anchor": 23,
+ "median_offset": -1.35,
+ "drift_max": 2.81,
+ "audio_dur": 262.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-472",
+ "artist": "Foreigner",
+ "title": "I Want To Know What Love Is",
+ "lang": "en",
+ "n_anchor": 36,
+ "median_offset": 1.27,
+ "drift_max": 2.25,
+ "audio_dur": 298.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.25
+}
