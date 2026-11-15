@@ -1,0 +1,12 @@
+{
+ "id": "b10-46",
+ "artist": "Radiohead",
+ "title": "High and Dry",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": 0.76,
+ "drift_max": 0.53,
+ "audio_dur": 253.2,
+ "path": "fast",
+ "mode": "ok"
+}

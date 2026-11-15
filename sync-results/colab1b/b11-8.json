@@ -1,0 +1,12 @@
+{
+ "id": "b11-8",
+ "artist": "Guyon Waton",
+ "title": "Pelanggaran",
+ "lang": "jw",
+ "n_anchor": 7,
+ "median_offset": -0.5,
+ "drift_max": 2.43,
+ "audio_dur": 280.2,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b10-40",
+ "artist": "Panic! At The Disco",
+ "title": "I Write Sins Not Tragedies",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.15,
+ "drift_max": 1.42,
+ "audio_dur": 159.4,
+ "path": "fast",
+ "mode": "ok"
+}
