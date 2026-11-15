@@ -1,0 +1,12 @@
+{
+ "id": "nk-719",
+ "artist": "Johnny Cash",
+ "title": "Ring of Fire",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -0.7,
+ "drift_max": 1.93,
+ "audio_dur": 151.3,
+ "path": "fast",
+ "mode": "ok"
+}

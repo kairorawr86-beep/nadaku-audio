@@ -1,0 +1,12 @@
+{
+ "id": "nk-746",
+ "artist": "Stevie Wonder",
+ "title": "Superstition",
+ "lang": "km",
+ "n_anchor": 8,
+ "median_offset": -0.85,
+ "drift_max": 0.7,
+ "audio_dur": 266.0,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-732",
+ "artist": "Marcell",
+ "title": "Semusim",
+ "lang": "id",
+ "n_anchor": 20,
+ "median_offset": -0.44,
+ "drift_max": 2.26,
+ "audio_dur": 301.4,
+ "path": "fast",
+ "mode": "ok"
+}
