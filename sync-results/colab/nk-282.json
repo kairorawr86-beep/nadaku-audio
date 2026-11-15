@@ -1,0 +1,13 @@
+{
+ "id": "nk-282",
+ "artist": "Fleetwood Mac",
+ "title": "Dreams",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": 2.09,
+ "drift_max": 1.76,
+ "audio_dur": 252.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.0
+}

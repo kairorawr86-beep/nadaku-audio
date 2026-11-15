@@ -1,0 +1,13 @@
+{
+ "id": "nk-266",
+ "artist": "Brian McKnight",
+ "title": "Back At One (Short Version)",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": 13.5,
+ "drift_max": 1.06,
+ "audio_dur": 233.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 13.5
+}

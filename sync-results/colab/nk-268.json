@@ -1,0 +1,13 @@
+{
+ "id": "nk-268",
+ "artist": "Chrisye & Sophia Latjuba",
+ "title": "Kangen",
+ "lang": "ms",
+ "n_anchor": 17,
+ "median_offset": -4.05,
+ "drift_max": 1.2,
+ "audio_dur": 303.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -4.0
+}
