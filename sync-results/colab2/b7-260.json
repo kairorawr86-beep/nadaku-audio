@@ -1,0 +1,13 @@
+{
+ "id": "b7-260",
+ "artist": "Calvin Harris, Dua Lipa",
+ "title": "One Kiss",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": 7.7,
+ "drift_max": 1.02,
+ "audio_dur": 222.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.75
+}

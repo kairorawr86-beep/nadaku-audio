@@ -1,0 +1,12 @@
+{
+ "id": "b7-254",
+ "artist": "Taylor Swift",
+ "title": "Cruel Summer",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": 0.28,
+ "drift_max": 1.48,
+ "audio_dur": 170.1,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b7-284",
+ "artist": "Selena Gomez",
+ "title": "Back to You",
+ "lang": "la",
+ "n_anchor": 40,
+ "median_offset": -0.34,
+ "drift_max": 1.09,
+ "audio_dur": 256.4,
+ "path": "fast",
+ "mode": "ok"
+}

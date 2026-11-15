@@ -1,0 +1,13 @@
+{
+ "id": "b7-290",
+ "artist": "Lady Gaga, Beyoncé",
+ "title": "Telephone",
+ "lang": "en",
+ "n_anchor": 44,
+ "median_offset": -27.8,
+ "drift_max": 2.39,
+ "audio_dur": 218.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -27.75
+}

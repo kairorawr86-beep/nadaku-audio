@@ -1,0 +1,12 @@
+{
+ "id": "b7-320",
+ "artist": "Wham!",
+ "title": "Last Christmas",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": 0.83,
+ "drift_max": 1.49,
+ "audio_dur": 257.4,
+ "path": "fast",
+ "mode": "ok"
+}

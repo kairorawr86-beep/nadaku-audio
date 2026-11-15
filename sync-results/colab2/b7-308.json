@@ -1,0 +1,13 @@
+{
+ "id": "b7-308",
+ "artist": "Linkin Park",
+ "title": "Crawling",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": 2.61,
+ "drift_max": 1.65,
+ "audio_dur": 203.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.5
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b7-326",
+ "artist": "Queen",
+ "title": "We Will Rock You",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -0.17,
+ "drift_max": 1.96,
+ "audio_dur": 98.4,
+ "path": "fast",
+ "mode": "ok"
+}
