@@ -1,0 +1,13 @@
+{
+ "id": "b10-44",
+ "artist": "Lady Gaga",
+ "title": "Shallow",
+ "lang": "en",
+ "n_anchor": 10,
+ "median_offset": -1.51,
+ "drift_max": 2.23,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
