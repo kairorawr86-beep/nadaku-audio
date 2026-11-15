@@ -1,0 +1,13 @@
+{
+ "id": "b9-310",
+ "artist": "Jon Secada",
+ "title": "Just Another Day",
+ "lang": "km",
+ "n_anchor": 5,
+ "median_offset": -170.88,
+ "drift_max": 0.0,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -171.0
+}
