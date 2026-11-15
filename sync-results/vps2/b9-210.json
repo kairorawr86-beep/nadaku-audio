@@ -1,0 +1,12 @@
+{
+ "id": "b9-210",
+ "artist": "Dido",
+ "title": "White Flag",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -0.78,
+ "drift_max": 0.85,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}
