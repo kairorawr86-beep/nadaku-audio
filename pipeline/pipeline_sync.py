@@ -269,13 +269,27 @@ def process(track, model):
         return {**base, "mode": "retimed_clamp", "lrc": new_lrc, "warn": "last cue melewati durasi"}
     return {**base, "mode": "offset", "offset": round(round(med * 4) / 4, 2)}
 
+def _push_checkpoint(label):
+    token_file = os.environ.get("TOKEN_FILE", "/root/.github_token")
+    if not os.path.exists(token_file):
+        return
+    cp_sh = os.path.join(WORK, "checkpoint_push.sh")
+    if not os.path.exists(cp_sh):
+        cp_sh = os.path.join(os.path.dirname(os.path.abspath(__file__)), "checkpoint_push.sh")
+    try:
+        r = subprocess.run(["bash", cp_sh, label], capture_output=True, timeout=120)
+        msg = ((r.stdout or b"") + (b" " + r.stderr if r.returncode else b"")).decode(errors="replace").strip()[-120:]
+        print(f"CHECKPOINT(rc={r.returncode}):", msg, flush=True)
+    except Exception as e:
+        print("CHECKPOINT gagal:", str(e)[:80], flush=True)
+
 def main():
     tracks_file = sys.argv[1]
     tracks = json.load(open(tracks_file, encoding="utf-8"))
     label = os.environ.get("VPS_LABEL", "vps1")
     from faster_whisper import WhisperModel
     model = WhisperModel("large-v3", device=NADAKU_DEVICE, compute_type=NADAKU_COMPUTE, cpu_threads=4)
-    done, total = 0, len(tracks)
+    done, new_done, total = 0, 0, len(tracks)
     for tr in tracks:
         outp = os.path.join(OUT, tr["id"] + ".json")
         if os.path.exists(outp):
@@ -288,16 +302,13 @@ def main():
             res = {"id": tr["id"], "mode": "error", "reason": str(e)[:150]}
         json.dump(res, open(outp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         done += 1
+        new_done += 1
         print(f"[{done}/{total}] {tr['id']} mode={res.get('mode')} off={res.get('median_offset')} drift={res.get('drift_max')} | {str(res.get('reason',''))[:40]}", flush=True)
         # Checkpoint GitHub tiap 10 lagu selesai (aman dari kejadian tak terduga)
-        token_file = os.environ.get("TOKEN_FILE", "/root/.github_token")
-        if done % 10 == 0 and os.path.exists(token_file):
-            try:
-                r = subprocess.run(["bash", os.path.join(WORK, "checkpoint_push.sh"), label],
-                                   capture_output=True, timeout=120)
-                print("CHECKPOINT:", (r.stdout or b"").decode().strip()[-80:], flush=True)
-            except Exception as e:
-                print("CHECKPOINT gagal:", str(e)[:80], flush=True)
+        if new_done % 10 == 0:
+            _push_checkpoint(label)
+    if new_done > 0:
+        _push_checkpoint(label)
     print("PIPELINE DONE")
 
 if __name__ == "__main__":
