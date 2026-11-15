@@ -1,0 +1,13 @@
+{
+ "id": "b7-310",
+ "artist": "Linkin Park",
+ "title": "Breaking the Habit",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": -1.47,
+ "drift_max": 1.01,
+ "audio_dur": 178.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

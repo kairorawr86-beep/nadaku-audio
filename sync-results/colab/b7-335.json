@@ -1,0 +1,13 @@
+{
+ "id": "b7-335",
+ "artist": "Aerosmith",
+ "title": "Cryin'",
+ "lang": "en",
+ "n_anchor": 49,
+ "median_offset": -1.45,
+ "drift_max": 2.67,
+ "audio_dur": 320.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
