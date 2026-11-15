@@ -1,0 +1,12 @@
+{
+ "id": "b7-258",
+ "artist": "Taylor Swift",
+ "title": "The Man",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": -0.38,
+ "drift_max": 0.66,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "ok"
+}

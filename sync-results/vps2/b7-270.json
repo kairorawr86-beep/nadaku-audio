@@ -1,0 +1,13 @@
+{
+ "id": "b7-270",
+ "artist": "Duncan Laurence",
+ "title": "Arcade",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -1.7,
+ "drift_max": 0.98,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

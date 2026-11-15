@@ -1,0 +1,13 @@
+{
+ "id": "b7-234",
+ "artist": "SZA",
+ "title": "Kill Bill",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": 57.69,
+ "drift_max": 1.26,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 57.75
+}

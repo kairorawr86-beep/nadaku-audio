@@ -1,0 +1,13 @@
+{
+ "id": "b7-222",
+ "artist": "Noah Kahan",
+ "title": "Stick Season",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 12.75,
+ "drift_max": 1.45,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 12.75
+}
