@@ -1,0 +1,13 @@
+{
+ "id": "b8-93",
+ "artist": "Letto",
+ "title": "Permintaan Hati",
+ "lang": "jw",
+ "n_anchor": 32,
+ "median_offset": 4.25,
+ "drift_max": 2.9,
+ "audio_dur": 314.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.25
+}
