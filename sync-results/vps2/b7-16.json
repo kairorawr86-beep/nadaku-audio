@@ -1,0 +1,12 @@
+{
+ "id": "b7-16",
+ "artist": "Aziz Hedra",
+ "title": "Backseat",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.54,
+ "drift_max": 0.78,
+ "audio_dur": 147.4,
+ "path": "fast",
+ "mode": "ok"
+}

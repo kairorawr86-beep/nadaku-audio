@@ -1,0 +1,12 @@
+{
+ "id": "nk-711",
+ "artist": "Prince",
+ "title": "Purple Rain",
+ "lang": "en",
+ "n_anchor": 10,
+ "median_offset": -1.19,
+ "drift_max": 0.67,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}

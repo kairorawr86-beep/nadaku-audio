@@ -1,0 +1,13 @@
+{
+ "id": "nk-322",
+ "artist": "Michael Learns To Rock",
+ "title": "Paint My Love",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": 3.55,
+ "drift_max": 0.69,
+ "audio_dur": 148.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}

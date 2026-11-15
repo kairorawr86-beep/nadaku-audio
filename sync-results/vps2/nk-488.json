@@ -1,0 +1,14 @@
+{
+ "id": "nk-488",
+ "artist": "Judika",
+ "title": "Bukan Rayuan Gombal",
+ "lang": "jw",
+ "n_anchor": 18,
+ "median_offset": -0.08,
+ "drift_max": 37.75,
+ "audio_dur": 145.8,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:00.00] Duhai kekasih pujaan yang s'lalu di hati\n[00:08.00] Aku menunggumu\n[00:17.06] Engkau gadis yang s'lalu hadir dalam mimpiku\n[00:23.12] Di setiap tidurku\n[00:38.56] Dengarkanlah, aku cinta\n[00:48.42] Ingin aku selalu menjaga dirimu\n[00:56.20] Menemani di setiap waktu\n[01:00.62] Dengarlah, Sayangku, tiada yang lain saat ini\n[01:05.66] Engkaulah yang ada di hati\n[01:09.00] Engkaulah yang ada di hati\n[01:12.48] Duhai Kekasihku, hanyalah dirimu yang kumau\n[01:17.46] Tiada yang lain di hati\n[01:21.27] Selamanya hanya dirimu\n[01:27.58] Dengarlah puisi yang akan aku berikan\n[01:37.50] Ungkapan hatiku\n[01:43.10] Tiada lain yang bisa kuberikan, oh-oh-ho-oh\n[01:52.52] Hanyalah cintaku, ye-ee-ah\n[01:54.29] Dengarlah, Sayangku, tiada yang lain saat ini\n[01:55.31] Engkaulah yang ada di hati\n[01:55.94] Engkaulah yang ada di hati\n[01:57.03] Duhai Kekasihku, hanyalah dirimu yang kumau\n[01:57.99] Tiada yang lain di hati\n[01:58.69] Selamanya hanya dirimu, oh-ho-ho\n[02:00.60] Aku ingin\n[02:01.74] Menemani harimu\n[02:02.41] Dan mencoba mengisi rasa kesepian di hatimu\n[02:03.60] Wo-oh, sampai nanti\n[02:05.09] Hanya s'lalu namamu\n[02:05.87] Selalu namamu yang ada di dalam lubuk hatiku, ye-ee-ah\n[02:07.22] (Dengarlah, Sayangku, tiada yang lain saat ini)\n[02:08.25] (Engkaulah yang ada di hati)\n[02:08.91] (Engkaulah yang ada di hati)\n[02:09.92] Duhai Kekasihku, hanyalah dirimu yang kumau\n[02:10.96] Tiada yang lain di hati\n[02:11.60] Selamanya hanya dirimu, oh-oh, ye-ye-ye-ye-yeah\n[02:15.26] Dengarlah, Sayangku, tiada yang lain saat ini\n[02:16.41] Engkaulah yang ada di hati\n[02:17.08] Engkaulah yang ada di hati (di hati)\n[02:18.09] Duhai Kekasihku, hanyalah dirimu yang kumau\n[02:19.14] Tiada yang lain di hati\n[02:22.72] Selamanya hanya dirimu (dirimu, oh)\n[02:27.56] (Dengarlah, Sayangku, tiada yang lain saat ini)\n[02:32.44] (Engkaulah yang ada di hati) yeah-yeah\n[02:35.70] (Engkaulah yang ada di hati)\n[02:38.74] Selamanya hanya dirimu, oh",
+ "warn": "last cue melewati durasi"
+}

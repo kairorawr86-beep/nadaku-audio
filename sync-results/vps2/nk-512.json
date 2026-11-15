@@ -1,0 +1,12 @@
+{
+ "id": "nk-512",
+ "artist": "Niall Horan",
+ "title": "Slow Hands",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.35,
+ "drift_max": 1.53,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

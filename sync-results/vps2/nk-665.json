@@ -1,0 +1,13 @@
+{
+ "id": "nk-665",
+ "artist": "Jodeci",
+ "title": "Forever My Lady",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -2.71,
+ "drift_max": 1.26,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.75
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-692",
+ "artist": "Marvin Gaye",
+ "title": "What's Going On",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": 7.15,
+ "drift_max": 2.59,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.25
+}

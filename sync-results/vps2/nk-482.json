@@ -1,0 +1,14 @@
+{
+ "id": "nk-482",
+ "artist": "Ipang Lazuardi",
+ "title": "Sahabat Kecil",
+ "lang": "jw",
+ "n_anchor": 16,
+ "median_offset": 1.62,
+ "drift_max": 9.61,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:21.00] Baru saja berakhir\n[00:25.00] Hujan di sore ini\n[00:30.66] Menyisakan keajaiban\n[00:33.46] Kilauan indahnya pelangi\n[00:41.74] Tak pernah terlewatkan\n[00:46.20] Dan tetap mengaguminya\n[00:50.94] Kesempatan seperti ini\n[00:55.68] Nggak akan bisa di beli\n[01:05.08] Bersamamu kuhabiskan waktu\n[01:08.18] Senang bisa mengenal dirimu\n[01:12.76] Rasanya semua begitu sempurna\n[01:17.18] Sayang untuk mengakhirinya\n[01:43.70] Melawan keterbatasan\n[01:47.02] Walau sedikit kemungkinan\n[01:51.83] Tak akan menyerah untuk hadapi\n[01:56.32] Hingga sedih tak mau datang lagi\n[02:13.50] Bersamamu kuhabiskan waktu\n[02:22.40] Senang bisa mengenal dirimu\n[02:26.96] Rasanya semua begitu sempurna\n[02:31.09] Sayang untuk mengakhirinya\n[02:37.10] Janganlah berganti\n[02:41.48] Janganlah berganti\n[02:45.29] Janganlah berganti\n[02:50.04] Tetaplah seperti ini, oh\n[02:58.78] Janganlah berganti, iyee ah\n[03:02.76] Janganlah berganti\n[03:06.74] Tetaplah seperti ini\n[03:12.50] Hu-uu-uu, huu-uu-uu\n[03:20.67] Hu-uu-uu, huu-uu-uu\n[03:30.06] Jangan, jangan\n[03:34.50] Janganlah berganti, yee-ee-ahh\n[03:41.49] Oooo-ooh\n[03:45.33] Janganlah berganti\n[03:49.80] Janganlah berganti\n[03:54.00] Janganlah berganti\n[03:58.37] Tetaplah seperti ini",
+ "warn": "last cue melewati durasi"
+}

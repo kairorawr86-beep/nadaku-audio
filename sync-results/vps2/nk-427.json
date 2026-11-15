@@ -1,0 +1,12 @@
+{
+ "id": "nk-427",
+ "artist": "Bob Dylan",
+ "title": "Knockin' On Heaven's Door",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": 0.09,
+ "drift_max": 0.74,
+ "audio_dur": 135.8,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-752",
+ "artist": "The Animals",
+ "title": "House Of The Rising Sun",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": -4.58,
+ "drift_max": 0.63,
+ "audio_dur": 149.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -4.5
+}

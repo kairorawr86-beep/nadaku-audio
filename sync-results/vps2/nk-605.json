@@ -1,0 +1,12 @@
+{
+ "id": "nk-605",
+ "artist": "Buddy Holly",
+ "title": "Everyday",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": -0.3,
+ "drift_max": 0.91,
+ "audio_dur": 121.0,
+ "path": "fast",
+ "mode": "ok"
+}

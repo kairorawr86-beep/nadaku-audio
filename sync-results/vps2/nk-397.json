@@ -1,0 +1,13 @@
+{
+ "id": "nk-397",
+ "artist": "50 Cent",
+ "title": "In Da Club",
+ "lang": "nn",
+ "n_anchor": 35,
+ "median_offset": 42.29,
+ "drift_max": 0.48,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 42.25
+}

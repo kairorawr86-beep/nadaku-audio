@@ -1,0 +1,12 @@
+{
+ "id": "nk-452",
+ "artist": "Daniel Powter",
+ "title": "Bad Day",
+ "lang": "en",
+ "n_anchor": 29,
+ "median_offset": 0.25,
+ "drift_max": 1.06,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

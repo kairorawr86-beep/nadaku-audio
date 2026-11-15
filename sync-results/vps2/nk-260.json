@@ -1,0 +1,14 @@
+{
+ "id": "nk-260",
+ "artist": "Fariz RM",
+ "title": "Barcelona",
+ "lang": "id",
+ "n_anchor": 6,
+ "median_offset": -0.91,
+ "drift_max": 4.88,
+ "audio_dur": 149.2,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:52.36] Gemerlap Pesta Kota\n[00:53.83] Seolah Getar Flamenco Mengalun Jiwa\n[00:58.60] Kududuk Terhanyut Nuansa\n[01:00.31] Disudut Semarak Plaza Catalonia\n[01:02.99] Kala Sepasang Mata...\n[01:06.47] Menatapku Manja...\n[01:09.00] Mengajak Berdansa\n[01:12.30] Sapanya Quiere Usted Bailar Conmigo?\n[01:28.56] Quiere Darme Su Direccion Senorita?\n[01:30.32] Kuingin Kau Ajak Serta Malam Ini\n[01:35.38] Como Se Pronucia Oh Juwita\n[01:37.20] Ingin Kunyatakan Cinta Sepenuh Hati\n[01:40.98] Mungkin Esok Kukan Pergi\n[01:45.58] Tapi Kuberjanji\n[01:49.64] Pasti Diriku Kembali\n[01:53.56] Untuk Cinta Yang Tertinggal\n[01:56.76] Dijantung Barcelona\n[01:59.10] Peluklah Diriku Mesra... Dalam Cinta\n[02:07.98] Sebagai Pengikat Rindu\n[02:12.24] Akan Kukenang Slalu\n[02:13.99] Cintaku Di Barcelona\n[02:31.94] Lo Siento Mucho Senorita\n[02:34.15] Kuharus Meninggalkanmu Sejenak Waktu\n[02:40.69] Hapuslah Airmatamu Kini\n[02:42.63] Dua Hati Tlah Terpadu Satu Janji\n[02:47.40] Usaikan Cerita\n[02:51.82] Malam Yang Tersisa\n[02:54.63] Ku Tak Kuasa Lagi\n[02:59.33] Tuk Menunda Waktu\n[03:02.06] Hidupku Bersamamu\n[03:04.51] Kecuplah Diriku Kasih... Malam Ini\n[03:12.52] Angan Yang Tergoda Resah\n[03:16.81] Srasa Smakin Gelisah\n[03:18.87] Melupakan Fajar Tiba ...\n[05:20.67] Mungkin Esok Kukan Pergi\n[05:25.52] Tapi Kuberjanji\n[05:29.31] Pasti Diriku Kembali\n[05:32.64] Untuk Cinta Yang Tertinggal\n[05:35.84] Dijantung Barcelona\n[05:38.37] Hasta La Vista Mi Amor... Penuh Cinta\n[05:46.77] Dihariku Kan Kembali\n[05:50.59] Kan Kuingatkan Janji\n[05:53.04] Cintamu Di Barcelona\n[05:54.71] Peluklah Diriku Mesra... Dalam Cinta\n[06:02.83] Sebagai Pengikat Rindu\n[06:06.71] Akan Kukenang Slalu\n[06:08.81] Cintaku Di Barcelona\n[06:16.58] Cintaku Di Barcelona ...\n[06:32.98] Barcelona ...",
+ "warn": "last cue melewati durasi"
+}

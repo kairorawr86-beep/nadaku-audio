@@ -1,0 +1,12 @@
+{
+ "id": "nk-611",
+ "artist": "Creedence Clearwater Revival",
+ "title": "Proud Mary",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": 0.91,
+ "drift_max": 1.38,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-705",
+ "artist": "Oasis",
+ "title": "Live Forever",
+ "lang": "en",
+ "n_anchor": 11,
+ "median_offset": 1.02,
+ "drift_max": 0.81,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

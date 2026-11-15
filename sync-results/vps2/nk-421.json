@@ -1,0 +1,14 @@
+{
+ "id": "nk-421",
+ "artist": "Bette Midler",
+ "title": "The Rose",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -7.56,
+ "drift_max": 6.39,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:05.96] Some say love, it is a river\n[00:16.25] That drowns the tender reed\n[00:20.74] Some say love, it is a razor\n[00:27.77] That leaves your soul to bleed\n[00:35.80] Some say love, it is a hunger\n[00:43.62] An endless aching need\n[00:51.36] I say love, it is a flower\n[01:00.96] And you, its only seed\n[01:11.90] It's the heart, afraid of breaking\n[01:19.50] That never learns to dance\n[01:26.86] It's the dream, afraid of waking\n[01:33.18] That never takes the chance\n[01:40.14] It's the one who won't be taken\n[01:47.98] Who cannot seem to give\n[01:55.92] And the soul, afraid of dying\n[02:03.62] That never learns to live\n[02:14.20] When the night has been too lonely\n[02:20.68] And the road has been too long\n[02:29.27] And you think that love is only\n[02:35.95] For the lucky and the strong\n[02:41.59] Just remember in the winter\n[02:49.35] Far beneath the bitter snows\n[02:56.01] Lies the seed that with the sun's love\n[03:04.59] In the spring becomes the rose",
+ "warn": "last cue melewati durasi"
+}

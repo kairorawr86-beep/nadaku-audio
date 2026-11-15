@@ -1,0 +1,13 @@
+{
+ "id": "b7-10",
+ "artist": "Akbar Chalay, Mingse",
+ "title": "Astaga Bercanda",
+ "lang": "jw",
+ "n_anchor": 25,
+ "median_offset": 1.83,
+ "drift_max": 1.36,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.75
+}

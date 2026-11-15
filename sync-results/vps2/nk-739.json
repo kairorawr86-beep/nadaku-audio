@@ -1,0 +1,12 @@
+{
+ "id": "nk-739",
+ "artist": "Simon & Garfunkel",
+ "title": "Bridge Over Troubled Water",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -1.24,
+ "drift_max": 1.02,
+ "audio_dur": 149.0,
+ "path": "fast",
+ "mode": "ok"
+}

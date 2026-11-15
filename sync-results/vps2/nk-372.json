@@ -1,0 +1,13 @@
+{
+ "id": "nk-372",
+ "artist": "The Cranberries",
+ "title": "Zombie",
+ "lang": "id",
+ "n_anchor": 3,
+ "median_offset": -96.16,
+ "drift_max": 0.0,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -96.25
+}

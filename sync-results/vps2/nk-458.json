@@ -1,0 +1,12 @@
+{
+ "id": "nk-458",
+ "artist": "Don McLean",
+ "title": "American Pie",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": -0.64,
+ "drift_max": 0.92,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

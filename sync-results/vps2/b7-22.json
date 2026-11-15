@@ -1,0 +1,13 @@
+{
+ "id": "b7-22",
+ "artist": "The Lantis",
+ "title": "Bunga Maaf",
+ "lang": "jw",
+ "n_anchor": 14,
+ "median_offset": -1.55,
+ "drift_max": 1.56,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

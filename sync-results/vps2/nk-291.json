@@ -1,0 +1,13 @@
+{
+ "id": "nk-291",
+ "artist": "Guns N' Roses",
+ "title": "November Rain",
+ "lang": "nn",
+ "n_anchor": 8,
+ "median_offset": 15.3,
+ "drift_max": 1.05,
+ "audio_dur": 147.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 15.25
+}

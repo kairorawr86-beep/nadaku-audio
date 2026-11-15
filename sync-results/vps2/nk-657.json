@@ -1,0 +1,13 @@
+{
+ "id": "nk-657",
+ "artist": "Hootie & The Blowfish",
+ "title": "Only Wanna Be with You",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": 26.16,
+ "drift_max": 0.58,
+ "audio_dur": 142.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 26.25
+}

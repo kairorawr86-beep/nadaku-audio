@@ -1,0 +1,13 @@
+{
+ "id": "nk-309",
+ "artist": "Krisdayanti",
+ "title": "Menghitung Hari",
+ "lang": "jw",
+ "n_anchor": 16,
+ "median_offset": 7.14,
+ "drift_max": 1.75,
+ "audio_dur": 147.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.25
+}

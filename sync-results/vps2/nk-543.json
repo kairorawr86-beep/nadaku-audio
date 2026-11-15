@@ -1,0 +1,12 @@
+{
+ "id": "nk-543",
+ "artist": "Shakira",
+ "title": "Whenever Wherever",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": 0.0,
+ "drift_max": 0.85,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

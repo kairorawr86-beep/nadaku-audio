@@ -1,0 +1,13 @@
+{
+ "id": "nk-567",
+ "artist": "The Doors",
+ "title": "Light My Fire (Ed Sullivan Show 1967)",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": 3.26,
+ "drift_max": 0.92,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.25
+}

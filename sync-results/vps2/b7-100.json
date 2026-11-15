@@ -1,0 +1,12 @@
+{
+ "id": "b7-100",
+ "artist": "Peterpan",
+ "title": "Kota Mati",
+ "lang": "id",
+ "n_anchor": 10,
+ "median_offset": 0.47,
+ "drift_max": 1.85,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "ok"
+}

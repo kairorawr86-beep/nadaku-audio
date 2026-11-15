@@ -1,0 +1,13 @@
+{
+ "id": "nk-279",
+ "artist": "Eric Clapton",
+ "title": "Wonderful Tonight",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": 18.92,
+ "drift_max": 1.21,
+ "audio_dur": 147.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 19.0
+}

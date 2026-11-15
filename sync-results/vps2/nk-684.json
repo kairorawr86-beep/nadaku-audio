@@ -1,0 +1,13 @@
+{
+ "id": "nk-684",
+ "artist": "Letto",
+ "title": "Sandaran Hati",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": 2.55,
+ "drift_max": 0.66,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.5
+}

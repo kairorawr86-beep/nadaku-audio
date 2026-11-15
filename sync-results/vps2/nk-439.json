@@ -1,0 +1,13 @@
+{
+ "id": "nk-439",
+ "artist": "Charlie Puth",
+ "title": "One Call Away",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": 33.2,
+ "drift_max": 0.98,
+ "audio_dur": 148.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 33.25
+}

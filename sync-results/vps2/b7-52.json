@@ -1,0 +1,13 @@
+{
+ "id": "b7-52",
+ "artist": "Afgan",
+ "title": "Jalan Terus",
+ "lang": "id",
+ "n_anchor": 14,
+ "median_offset": 20.72,
+ "drift_max": 0.74,
+ "audio_dur": 148.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 20.75
+}

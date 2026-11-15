@@ -1,0 +1,13 @@
+{
+ "id": "nk-335",
+ "artist": "One Direction",
+ "title": "What Makes You Beautiful",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": 3.08,
+ "drift_max": 0.9,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}

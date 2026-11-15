@@ -1,0 +1,13 @@
+{
+ "id": "nk-433",
+ "artist": "Britney Spears",
+ "title": "...Baby One More Time",
+ "lang": "ja",
+ "n_anchor": 8,
+ "median_offset": 17.88,
+ "drift_max": 2.6,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 18.0
+}

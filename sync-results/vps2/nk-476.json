@@ -1,0 +1,13 @@
+{
+ "id": "nk-476",
+ "artist": "George Michael",
+ "title": "Careless Whisper",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -1.74,
+ "drift_max": 0.52,
+ "audio_dur": 147.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-415",
+ "artist": "Backstreet Boys",
+ "title": "Show Me The Meaning Of Being Lonely",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 22.93,
+ "drift_max": 0.87,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 23.0
+}

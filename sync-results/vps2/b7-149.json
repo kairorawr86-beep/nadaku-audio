@@ -1,0 +1,13 @@
+{
+ "id": "b7-149",
+ "artist": "Potret",
+ "title": "Salah",
+ "lang": "id",
+ "n_anchor": 14,
+ "median_offset": 14.34,
+ "drift_max": 1.33,
+ "audio_dur": 143.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 14.25
+}

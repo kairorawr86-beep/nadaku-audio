@@ -1,0 +1,14 @@
+{
+ "id": "nk-506",
+ "artist": "Modern Talking",
+ "title": "You're My Heart You're My Soul",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -43.36,
+ "drift_max": 3.98,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:19.94] Deep in my heart, there's a fire, a burnin' heart\n[00:28.50] Deep in my heart, there's desire for a start\n[00:34.97] I'm dying in emotion\n[00:38.68] It's my world in fantasy\n[00:44.66] I'm livin' in my, livin' in my dreams\n[00:52.64] You're my heart, you're my soul\n[00:56.08] I keep it shining everywhere I go\n[01:00.10] You're my heart, you're my soul\n[01:04.22] I'll be holding you forever\n[01:07.47] Stay with you together\n[01:11.04] You're my heart, you're my soul\n[01:14.94] Yeah, a feelin' that our love will grow\n[01:18.48] You're my heart, you're my soul\n[01:22.64] That is the only thing I really know\n[01:38.22] Let's close the door and believe my burnin' heart\n[01:46.32] Feeling all right come on, open up your heart\n[01:54.24] I'll keep the candles burning\n[01:57.54] Let your body melt in mine\n[02:02.72] I'm livin' in my, livin' in my dreams\n[02:10.30] You're my heart, you're my soul\n[02:13.76] I keep it shining everywhere I go\n[02:17.78] You're my heart, you're my soul\n[02:21.94] I'll be holding you forever\n[02:25.14] Stay with you together\n[02:27.67] You're my heart, you're my soul\n[02:31.82] Yeah, a feelin' that our love will grow\n[02:35.88] You're my heart, you're my soul\n[02:39.37] That is the only thing I really know\n[02:43.81] You're my heart, you're my soul\n[02:46.83] Yeah, a feelin' that our love will grow\n[02:51.53] You're my heart, you're my soul\n[02:55.20] That is the only thing I really know\n[02:59.53] You're my heart, you're my soul\n[03:04.13] Yeah, a feelin' that our love will grow",
+ "warn": "last cue melewati durasi"
+}

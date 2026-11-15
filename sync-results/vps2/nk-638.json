@@ -1,0 +1,12 @@
+{
+ "id": "nk-638",
+ "artist": "Embrace",
+ "title": "Gravity",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": 0.06,
+ "drift_max": 1.96,
+ "audio_dur": 149.3,
+ "path": "demucs",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-136",
+ "artist": "Shaggy Dog",
+ "title": "Hey Cantik",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": 3.4,
+ "drift_max": 0.86,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}

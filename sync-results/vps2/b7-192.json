@@ -1,0 +1,13 @@
+{
+ "id": "b7-192",
+ "artist": "KATSEYE",
+ "title": "Animal",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": 4.13,
+ "drift_max": 0.47,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.25
+}
