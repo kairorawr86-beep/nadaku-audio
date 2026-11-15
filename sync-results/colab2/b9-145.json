@@ -1,0 +1,13 @@
+{
+ "id": "b9-145",
+ "artist": "Padi",
+ "title": "Kasih Tak Sampai",
+ "lang": "id",
+ "n_anchor": 19,
+ "median_offset": -1.6,
+ "drift_max": 1.22,
+ "audio_dur": 293.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

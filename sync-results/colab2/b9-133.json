@@ -1,0 +1,13 @@
+{
+ "id": "b9-133",
+ "artist": "Opick",
+ "title": "Tombo Ati",
+ "lang": "sa",
+ "n_anchor": 12,
+ "median_offset": -1.54,
+ "drift_max": 1.15,
+ "audio_dur": 305.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
