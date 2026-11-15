@@ -1,0 +1,12 @@
+{
+ "id": "b8-181",
+ "artist": "Charli xcx",
+ "title": "Boom Clap",
+ "lang": "en",
+ "n_anchor": 46,
+ "median_offset": 0.03,
+ "drift_max": 0.4,
+ "audio_dur": 164.5,
+ "path": "fast",
+ "mode": "ok"
+}

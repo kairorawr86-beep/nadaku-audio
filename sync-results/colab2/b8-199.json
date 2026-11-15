@@ -1,0 +1,12 @@
+{
+ "id": "b8-199",
+ "artist": "Coldplay",
+ "title": "Magic",
+ "lang": "en",
+ "n_anchor": 34,
+ "median_offset": -1.09,
+ "drift_max": 1.05,
+ "audio_dur": 282.9,
+ "path": "fast",
+ "mode": "ok"
+}

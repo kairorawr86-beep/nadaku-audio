@@ -1,0 +1,12 @@
+{
+ "id": "b8-193",
+ "artist": "The Weeknd",
+ "title": "Dancing in the Flames",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": -0.69,
+ "drift_max": 0.68,
+ "audio_dur": 193.7,
+ "path": "fast",
+ "mode": "ok"
+}

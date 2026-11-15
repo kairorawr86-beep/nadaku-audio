@@ -1,0 +1,12 @@
+{
+ "id": "b8-175",
+ "artist": "Gracie Abrams",
+ "title": "That's So True",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": -0.28,
+ "drift_max": 0.95,
+ "audio_dur": 165.5,
+ "path": "fast",
+ "mode": "ok"
+}

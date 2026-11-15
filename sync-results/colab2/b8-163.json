@@ -1,0 +1,12 @@
+{
+ "id": "b8-163",
+ "artist": "Daft Punk",
+ "title": "Digital Love",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.54,
+ "drift_max": 0.97,
+ "audio_dur": 295.5,
+ "path": "fast",
+ "mode": "ok"
+}
