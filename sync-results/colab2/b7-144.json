@@ -1,0 +1,13 @@
+{
+ "id": "b7-144",
+ "artist": "Chrisye",
+ "title": "Baju Pengantin",
+ "lang": "la",
+ "n_anchor": 7,
+ "median_offset": 4.97,
+ "drift_max": 0.77,
+ "audio_dur": 247.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.0
+}

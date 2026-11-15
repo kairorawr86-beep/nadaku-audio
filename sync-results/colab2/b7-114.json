@@ -1,0 +1,13 @@
+{
+ "id": "b7-114",
+ "artist": "Mulan Jameela",
+ "title": "Wonder Woman",
+ "lang": "jw",
+ "n_anchor": 22,
+ "median_offset": 2.02,
+ "drift_max": 0.89,
+ "audio_dur": 261.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.0
+}

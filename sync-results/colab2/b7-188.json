@@ -1,0 +1,12 @@
+{
+ "id": "b7-188",
+ "artist": "Luke Combs",
+ "title": "Rethink Some Things",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.31,
+ "drift_max": 0.5,
+ "audio_dur": 145.3,
+ "path": "fast",
+ "mode": "ok"
+}
