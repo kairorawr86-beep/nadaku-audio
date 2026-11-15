@@ -1,0 +1,13 @@
+{
+ "id": "b7-43",
+ "artist": "Jaz",
+ "title": "Katakan",
+ "lang": "id",
+ "n_anchor": 26,
+ "median_offset": -1.32,
+ "drift_max": 0.44,
+ "audio_dur": 245.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

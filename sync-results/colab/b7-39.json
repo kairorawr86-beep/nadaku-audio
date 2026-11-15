@@ -1,0 +1,13 @@
+{
+ "id": "b7-39",
+ "artist": "Isyana Sarasvati",
+ "title": "IL SOGNO",
+ "lang": "la",
+ "n_anchor": 9,
+ "median_offset": -2.6,
+ "drift_max": 0.93,
+ "audio_dur": 209.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.5
+}
