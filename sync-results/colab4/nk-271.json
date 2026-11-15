@@ -1,0 +1,12 @@
+{
+ "id": "nk-271",
+ "artist": "Céline Dion",
+ "title": "My Heart Will Go On",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": 0.05,
+ "drift_max": 0.94,
+ "audio_dur": 279.8,
+ "path": "fast",
+ "mode": "ok"
+}
