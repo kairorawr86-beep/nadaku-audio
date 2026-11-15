@@ -1,0 +1,12 @@
+{
+ "id": "b10-41",
+ "artist": "Post Malone",
+ "title": "Sunflower",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": -0.34,
+ "drift_max": 0.71,
+ "audio_dur": 154.8,
+ "path": "fast",
+ "mode": "ok"
+}
