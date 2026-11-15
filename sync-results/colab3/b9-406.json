@@ -1,0 +1,12 @@
+{
+ "id": "b9-406",
+ "artist": "Queen",
+ "title": "You're My Best Friend",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.45,
+ "drift_max": 1.01,
+ "audio_dur": 172.5,
+ "path": "fast",
+ "mode": "ok"
+}
