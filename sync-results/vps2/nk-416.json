@@ -1,0 +1,12 @@
+{
+ "id": "nk-416",
+ "artist": "Bad English",
+ "title": "When I See You Smile",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 0.76,
+ "drift_max": 0.98,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

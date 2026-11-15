@@ -1,0 +1,12 @@
+{
+ "id": "nk-428",
+ "artist": "Bob Marley & The Wailers",
+ "title": "Three Little Birds",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.94,
+ "drift_max": 1.15,
+ "audio_dur": 147.0,
+ "path": "fast",
+ "mode": "ok"
+}

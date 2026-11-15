@@ -1,0 +1,12 @@
+{
+ "id": "nk-465",
+ "artist": "Enrique Iglesias",
+ "title": "Hero",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.86,
+ "drift_max": 0.54,
+ "audio_dur": 139.6,
+ "path": "fast",
+ "mode": "ok"
+}

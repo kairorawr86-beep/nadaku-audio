@@ -1,0 +1,13 @@
+{
+ "id": "nk-447",
+ "artist": "Creedence Clearwater Revival",
+ "title": "Have You Ever Seen The Rain",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 15.66,
+ "drift_max": 2.17,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 15.75
+}
