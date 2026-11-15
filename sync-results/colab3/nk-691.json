@@ -1,0 +1,13 @@
+{
+ "id": "nk-691",
+ "artist": "Manic Street Preachers",
+ "title": "If You Tolerate This Your Children Will Be Next",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": 6.31,
+ "drift_max": 0.9,
+ "audio_dur": 305.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.25
+}
