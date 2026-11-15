@@ -1,0 +1,12 @@
+{
+ "id": "b9-92",
+ "artist": "Billy Joel",
+ "title": "She's Always A Woman",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": 0.04,
+ "drift_max": 1.85,
+ "audio_dur": 148.7,
+ "path": "fast",
+ "mode": "ok"
+}

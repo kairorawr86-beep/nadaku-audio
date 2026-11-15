@@ -1,0 +1,13 @@
+{
+ "id": "b9-50",
+ "artist": "Amy Winehouse",
+ "title": "Valerie",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -7.66,
+ "drift_max": 0.93,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -7.75
+}

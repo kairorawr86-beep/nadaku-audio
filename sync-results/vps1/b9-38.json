@@ -1,0 +1,12 @@
+{
+ "id": "b9-38",
+ "artist": "Alicia Keys",
+ "title": "No One",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 0.17,
+ "drift_max": 1.26,
+ "audio_dur": 138.0,
+ "path": "fast",
+ "mode": "ok"
+}
