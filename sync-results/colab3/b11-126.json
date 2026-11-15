@@ -1,0 +1,13 @@
+{
+ "id": "b11-126",
+ "artist": "Katy Perry",
+ "title": "Dark Horse",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": 4.12,
+ "drift_max": 1.46,
+ "audio_dur": 225.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.0
+}
