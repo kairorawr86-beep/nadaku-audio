@@ -1,0 +1,13 @@
+{
+ "id": "nk-597",
+ "artist": "Bee Gees",
+ "title": "Tragedy",
+ "lang": "en",
+ "n_anchor": 49,
+ "median_offset": -1.35,
+ "drift_max": 1.75,
+ "audio_dur": 300.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
