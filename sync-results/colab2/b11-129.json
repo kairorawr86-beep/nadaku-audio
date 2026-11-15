@@ -1,0 +1,12 @@
+{
+ "id": "b11-129",
+ "artist": "Linkin Park",
+ "title": "One Step Closer",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": -0.27,
+ "drift_max": 1.02,
+ "audio_dur": 154.0,
+ "path": "fast",
+ "mode": "ok"
+}

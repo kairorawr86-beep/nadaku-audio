@@ -1,0 +1,12 @@
+{
+ "id": "b11-123",
+ "artist": "Maroon 5",
+ "title": "Maps",
+ "lang": "en",
+ "n_anchor": 44,
+ "median_offset": -0.28,
+ "drift_max": 0.3,
+ "audio_dur": 187.7,
+ "path": "fast",
+ "mode": "ok"
+}
