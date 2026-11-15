@@ -1,0 +1,13 @@
+{
+ "id": "b11-55",
+ "artist": "Dewa 19",
+ "title": "Angin",
+ "lang": "jw",
+ "n_anchor": 22,
+ "median_offset": -1.66,
+ "drift_max": 0.99,
+ "audio_dur": 251.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}
