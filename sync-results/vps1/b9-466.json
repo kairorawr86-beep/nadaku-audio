@@ -1,0 +1,12 @@
+{
+ "id": "b9-466",
+ "artist": "The Beatles",
+ "title": "Come Together",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": -0.7,
+ "drift_max": 1.5,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}

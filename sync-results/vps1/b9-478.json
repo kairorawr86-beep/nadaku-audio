@@ -1,0 +1,13 @@
+{
+ "id": "b9-478",
+ "artist": "The Rolling Stones",
+ "title": "Angie",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": -1.28,
+ "drift_max": 2.1,
+ "audio_dur": 134.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
