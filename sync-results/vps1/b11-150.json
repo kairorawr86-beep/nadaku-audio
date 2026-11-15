@@ -1,0 +1,12 @@
+{
+ "id": "b11-150",
+ "artist": "Bruno Mars",
+ "title": "24K Magic",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": -0.31,
+ "drift_max": 0.75,
+ "audio_dur": 148.7,
+ "path": "fast",
+ "mode": "ok"
+}

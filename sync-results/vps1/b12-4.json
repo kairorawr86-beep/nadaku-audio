@@ -1,0 +1,12 @@
+{
+ "id": "b12-4",
+ "artist": "Al Ghazali",
+ "title": "Kurayu Bidadari",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": -0.32,
+ "drift_max": 1.5,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "ok"
+}

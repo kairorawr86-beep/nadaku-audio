@@ -1,0 +1,13 @@
+{
+ "id": "b11-180",
+ "artist": "Mariya Takeuchi",
+ "title": "Plastic Love",
+ "lang": "km",
+ "n_anchor": 4,
+ "median_offset": -78.36,
+ "drift_max": 0.0,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -78.25
+}
