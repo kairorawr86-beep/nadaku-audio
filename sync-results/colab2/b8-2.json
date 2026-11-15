@@ -1,0 +1,13 @@
+{
+ "id": "b8-2",
+ "artist": "Raim Laode",
+ "title": "Iqro'",
+ "lang": "jw",
+ "n_anchor": 22,
+ "median_offset": -1.53,
+ "drift_max": 1.03,
+ "audio_dur": 220.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
