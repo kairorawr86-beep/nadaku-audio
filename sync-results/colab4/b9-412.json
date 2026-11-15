@@ -1,0 +1,12 @@
+{
+ "id": "b9-412",
+ "artist": "Red Hot Chili Peppers",
+ "title": "Under The Bridge",
+ "lang": "de",
+ "n_anchor": 13,
+ "median_offset": -0.87,
+ "drift_max": 1.6,
+ "audio_dur": 263.4,
+ "path": "fast",
+ "mode": "ok"
+}
