@@ -1,0 +1,13 @@
+{
+ "id": "b12-7",
+ "artist": "The Rock",
+ "title": "Munajat Cinta",
+ "lang": "jw",
+ "n_anchor": 22,
+ "median_offset": 1.44,
+ "drift_max": 1.52,
+ "audio_dur": 215.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}

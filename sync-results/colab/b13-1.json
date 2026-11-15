@@ -1,0 +1,12 @@
+{
+ "id": "b13-1",
+ "artist": "Dewi Dewi",
+ "title": "Dokter Cinta",
+ "lang": "jw",
+ "n_anchor": 30,
+ "median_offset": -0.66,
+ "drift_max": 1.07,
+ "audio_dur": 231.0,
+ "path": "fast",
+ "mode": "ok"
+}
