@@ -1,0 +1,13 @@
+{
+ "id": "b9-230",
+ "artist": "Duran Duran",
+ "title": "A View To A Kill",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": -1.31,
+ "drift_max": 2.28,
+ "audio_dur": 209.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

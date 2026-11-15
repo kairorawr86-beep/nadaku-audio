@@ -1,0 +1,12 @@
+{
+ "id": "b9-224",
+ "artist": "Drake",
+ "title": "One Dance",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.45,
+ "drift_max": 0.78,
+ "audio_dur": 168.3,
+ "path": "fast",
+ "mode": "ok"
+}

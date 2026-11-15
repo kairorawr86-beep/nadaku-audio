@@ -1,0 +1,13 @@
+{
+ "id": "b9-248",
+ "artist": "Elvis Presley",
+ "title": "Love Me Tender",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": -1.41,
+ "drift_max": 0.67,
+ "audio_dur": 160.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
