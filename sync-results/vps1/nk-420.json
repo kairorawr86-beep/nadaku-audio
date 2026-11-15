@@ -1,0 +1,13 @@
+{
+ "id": "nk-420",
+ "artist": "Betharia Sonatha",
+ "title": "Hati Yang Luka",
+ "lang": "jw",
+ "n_anchor": 10,
+ "median_offset": 2.05,
+ "drift_max": 2.43,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.0
+}

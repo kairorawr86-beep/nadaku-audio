@@ -1,0 +1,13 @@
+{
+ "id": "nk-457",
+ "artist": "Dire Straits",
+ "title": "Brothers In Arms",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": -35.85,
+ "drift_max": 0.4,
+ "audio_dur": 145.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -35.75
+}

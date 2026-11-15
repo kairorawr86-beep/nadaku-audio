@@ -1,0 +1,13 @@
+{
+ "id": "nk-463",
+ "artist": "Elvis Presley",
+ "title": "Can't Help Falling In Love",
+ "lang": "la",
+ "n_anchor": 11,
+ "median_offset": -1.4,
+ "drift_max": 0.21,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
