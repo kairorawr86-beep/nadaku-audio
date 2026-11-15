@@ -1,0 +1,13 @@
+{
+ "id": "nk-158",
+ "artist": "Bernadya",
+ "title": "Ambang Pintu",
+ "lang": "jw",
+ "n_anchor": 16,
+ "median_offset": -1.61,
+ "drift_max": 0.72,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

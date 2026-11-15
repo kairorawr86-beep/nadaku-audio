@@ -1,0 +1,13 @@
+{
+ "id": "nk-164",
+ "artist": "Nadhif Basalamah",
+ "title": "Penjaga Hati",
+ "lang": "nn",
+ "n_anchor": 13,
+ "median_offset": 18.17,
+ "drift_max": 2.33,
+ "audio_dur": 145.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 18.25
+}

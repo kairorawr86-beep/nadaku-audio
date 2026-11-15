@@ -1,0 +1,13 @@
+{
+ "id": "nk-134",
+ "artist": "Taylor Swift",
+ "title": "Love Story",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -1.41,
+ "drift_max": 0.51,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
