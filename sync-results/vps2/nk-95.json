@@ -1,0 +1,13 @@
+{
+ "id": "nk-95",
+ "artist": "John Legend",
+ "title": "All of Me",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": 7.86,
+ "drift_max": 1.33,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.75
+}

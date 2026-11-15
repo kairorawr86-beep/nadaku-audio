@@ -1,0 +1,14 @@
+{
+ "id": "nk-64",
+ "artist": "Banda Neira",
+ "title": "Yang Patah Tumbuh yang Hilang Berganti (Live)",
+ "lang": "id",
+ "n_anchor": 7,
+ "median_offset": -0.89,
+ "drift_max": 14.3,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[01:20.14] Jatuh dan tersungkur di tanah aku\n[01:31.54] Berselimut debu sekujur tubuhku\n[01:40.04] Panas dan menyengat\n[01:44.78] Rebah dan berkarat\n[01:45.61] Yang...\n[01:45.81] Yang patah tumbuh, yang hilang berganti\n[01:46.53] Yang hancur lebur akan terobati\n[01:47.31] Yang sia-sia akan jadi makna\n[01:48.07] Yang terus berulang suatu saat henti\n[01:48.89] Yang pernah jatuh 'kan berdiri lagi\n[01:49.66] Yang patah tumbuh, yang hilang berganti\n[01:56.28] Di mana ada musim yang menunggu?\n[01:57.72] Meranggas merapuh\n[01:58.24] Berganti dan luruh\n[01:59.23] Bayang yang berserah\n[01:59.93] T'rang di ujung sana\n[02:00.72] Yang...\n[02:00.93] Yang patah tumbuh, yang hilang berganti\n[02:01.59] Yang hancur lebur akan terobati\n[02:02.43] Yang sia-sia akan jadi makna\n[02:03.19] Yang terus berulang suatu saat henti\n[02:03.97] Yang pernah jatuh 'kan berdiri lagi\n[02:04.75] Yang patah tumbuh, yang hilang berganti\n[02:05.55] Yang patah tumbuh, yang hilang berganti\n[02:06.27] Yang hancur lebur akan terobati\n[02:07.04] Yang sia-sia akan jadi makna\n[02:07.82] Yang terus berulang suatu saat henti\n[02:12.62] Yang pernah jatuh 'kan berdiri lagi\n[02:17.88] Yang patah tumbuh, yang hilang berganti\n[02:22.63] Yang patah tumbuh, yang hilang berganti\n[02:26.98] Yang hancur lebur akan terobati\n[02:32.26] Yang sia-sia akan jadi makna\n[02:36.59] Yang terus berulang suatu saat henti\n[02:41.39] Yang pernah jatuh 'kan berdiri lagi\n[02:45.97] Yang patah tumbuh, yang hilang berganti",
+ "warn": "last cue melewati durasi"
+}

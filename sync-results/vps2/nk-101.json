@@ -1,0 +1,13 @@
+{
+ "id": "nk-101",
+ "artist": "Marcell",
+ "title": "Peri Cintaku",
+ "lang": "jw",
+ "n_anchor": 15,
+ "median_offset": 8.29,
+ "drift_max": 1.93,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 8.25
+}
