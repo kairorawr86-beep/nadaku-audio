@@ -1,0 +1,13 @@
+{
+ "id": "nk-538",
+ "artist": "Samsons",
+ "title": "Kenangan Terindah",
+ "lang": "id",
+ "n_anchor": 16,
+ "median_offset": 8.6,
+ "drift_max": 1.01,
+ "audio_dur": 249.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 8.5
+}

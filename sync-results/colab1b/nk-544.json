@@ -1,0 +1,13 @@
+{
+ "id": "nk-544",
+ "artist": "Shania Twain",
+ "title": "You’re Still The One",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": -13.24,
+ "drift_max": 0.81,
+ "audio_dur": 195.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -13.25
+}

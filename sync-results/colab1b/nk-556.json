@@ -1,0 +1,12 @@
+{
+ "id": "nk-556",
+ "artist": "Survivor",
+ "title": "Eye Of The Tiger",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.16,
+ "drift_max": 1.52,
+ "audio_dur": 228.3,
+ "path": "fast",
+ "mode": "ok"
+}
