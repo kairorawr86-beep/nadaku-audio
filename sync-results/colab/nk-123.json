@@ -1,0 +1,12 @@
+{
+ "id": "nk-123",
+ "artist": "Rossa",
+ "title": "Ayat Ayat Cinta",
+ "lang": "jw",
+ "n_anchor": 25,
+ "median_offset": -0.21,
+ "drift_max": 0.94,
+ "audio_dur": 225.7,
+ "path": "fast",
+ "mode": "ok"
+}
