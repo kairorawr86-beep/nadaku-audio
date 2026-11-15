@@ -1,0 +1,14 @@
+{
+ "id": "b11-90",
+ "artist": "Juicy Luicy",
+ "title": "Tampar",
+ "lang": "jw",
+ "n_anchor": 15,
+ "median_offset": -0.48,
+ "drift_max": 3.33,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:10.70] Entah sudah Selasa yang keberapa\n[00:16.00] Masih saja kau ada, lekat di kepala\n[00:21.66] Hari ini janji, esok mesti lupa\n[00:26.38] Tetapi hati tak tepati\n[00:32.66] Tampar aku di pipi\n[00:37.90] Biar sadar dan ku mengerti\n[00:47.76] Hujan samarkan derasnya, tutup air mata\n[00:54.01] Temani kecewaku yang t'lah lama\n[00:58.84] Berdosakah ku berdoa, minta kau terluka\n[01:03.71] Dan tinggalkan dirinya?\n[01:13.90] Hari ini janji, esok mesti lupa\n[01:20.02] Tetapi hati tak tepati\n[01:26.68] Tampar aku di pipi\n[01:31.66] Biar sadar dan ku mengerti\n[01:41.42] Hujan samarkan derasnya, tutup air mata\n[01:46.53] Temani kecewa (temani kecewa) ku yang t'lah lama\n[01:50.50] Berdosakah ku berdoa, minta kau terluka\n[01:55.50] Dan tinggalkan dirinya?\n[02:00.30] Ho-oh-ho-oh (ho-oh-oh)\n[02:05.90] Bukan ku tak berupaya (berusaha), hu-uh, hu-uh\n[02:18.15] Hujan samarkan derasnya, tutup air mata (air mata)\n[02:25.04] Temani kecewa (kecewa) ku yang t'lah lama\n[02:29.70] Berdosakah ku berdoa, minta kau terluka\n[02:35.76] Dan tinggalkan dirinya?\n[02:39.14] Hujan samarkan derasnya (derasnya)\n[02:43.96] Tutup air mata\n[02:48.46] Tiga tahun tak terasa, masih kau yang ada\n[02:54.61] Bodoh yang sebenarnya\n[02:59.20] Tampar aku di pipi\n[03:04.52] Sadarkan kau-aku takkan terjadi",
+ "warn": "last cue melewati durasi"
+}

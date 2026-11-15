@@ -1,0 +1,14 @@
+{
+ "id": "b11-102",
+ "artist": "Oasis",
+ "title": "Don't Go Away",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": -0.46,
+ "drift_max": 16.96,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:26.02] Cold and frosty morning\n[00:28.60] There's not a lot to say\n[00:31.22] About the things caught in my mind\n[00:37.78] And as the day was dawning\n[00:40.68] My plane flew away\n[00:43.02] With all the things caught in my mind\n[00:50.52] I don't wanna be there when you're...\n[01:05.68] Coming down\n[01:19.10] I don't wanna be there when you hit the ground\n[01:36.96] So don't go away\n[01:52.48] Say what you say\n[02:08.34] Say that you'll stay\n[02:11.16] Forever and a day...\n[02:13.24] In the time of my life\n[02:16.98] 'Cause I need more time, yes I need more time\n[02:21.96] Just to make things right\n[02:29.84] Damn my situation\n[02:32.43] And the games I have to play\n[02:34.45] With all the things caught in my mind\n[02:40.87] Damn my education\n[02:43.82] I can't find the words to say\n[02:46.08] With all the things caught in my mind\n[03:26.43] Me and you, what's going on?\n[03:34.60] All we seem to know is how to show\n[03:38.32] The feelings that are wrong",
+ "warn": "last cue melewati durasi"
+}

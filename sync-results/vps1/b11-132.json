@@ -1,0 +1,12 @@
+{
+ "id": "b11-132",
+ "artist": "Coldplay",
+ "title": "Talk",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": -0.27,
+ "drift_max": 0.81,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "ok"
+}

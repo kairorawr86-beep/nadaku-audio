@@ -1,0 +1,12 @@
+{
+ "id": "b11-108",
+ "artist": "Arctic Monkeys",
+ "title": "Fluorescent Adolescent",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.94,
+ "drift_max": 2.42,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}
