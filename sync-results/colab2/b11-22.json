@@ -1,0 +1,13 @@
+{
+ "id": "b11-22",
+ "artist": "Gilga Sahid",
+ "title": "Nemu",
+ "lang": "jw",
+ "n_anchor": 3,
+ "median_offset": -6.87,
+ "drift_max": 0.0,
+ "audio_dur": 264.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -6.75
+}

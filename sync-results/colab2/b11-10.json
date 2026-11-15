@@ -1,0 +1,13 @@
+{
+ "id": "b11-10",
+ "artist": "Guyon Waton",
+ "title": "Klebus",
+ "lang": "jw",
+ "n_anchor": 3,
+ "median_offset": -1.49,
+ "drift_max": 0.0,
+ "audio_dur": 287.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

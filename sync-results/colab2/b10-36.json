@@ -1,0 +1,12 @@
+{
+ "id": "b10-36",
+ "artist": "Fall Out Boy",
+ "title": "Sugar, We're Goin Down",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": -0.39,
+ "drift_max": 0.52,
+ "audio_dur": 227.1,
+ "path": "fast",
+ "mode": "ok"
+}
