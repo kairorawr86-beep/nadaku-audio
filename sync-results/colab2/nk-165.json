@@ -1,0 +1,13 @@
+{
+ "id": "nk-165",
+ "artist": "Tulus",
+ "title": "Satu Hari di Bulan Juni",
+ "lang": "jw",
+ "n_anchor": 10,
+ "median_offset": 2.99,
+ "drift_max": 1.46,
+ "audio_dur": 182.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}

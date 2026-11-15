@@ -1,0 +1,12 @@
+{
+ "id": "nk-183",
+ "artist": "Sam Smith",
+ "title": "Unholy",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": -0.39,
+ "drift_max": 1.19,
+ "audio_dur": 153.2,
+ "path": "fast",
+ "mode": "ok"
+}

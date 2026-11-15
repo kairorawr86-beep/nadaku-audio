@@ -1,0 +1,12 @@
+{
+ "id": "nk-171",
+ "artist": "Green Day",
+ "title": "American Idiot",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.24,
+ "drift_max": 0.29,
+ "audio_dur": 175.9,
+ "path": "fast",
+ "mode": "ok"
+}

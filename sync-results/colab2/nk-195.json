@@ -1,0 +1,13 @@
+{
+ "id": "nk-195",
+ "artist": "The Weeknd",
+ "title": "Die For You",
+ "lang": "en",
+ "n_anchor": 49,
+ "median_offset": -14.79,
+ "drift_max": 0.57,
+ "audio_dur": 226.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -14.75
+}

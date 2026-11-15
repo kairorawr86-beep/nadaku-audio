@@ -1,0 +1,12 @@
+{
+ "id": "nk-201",
+ "artist": "Taylor Swift",
+ "title": "Cardigan",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": -0.23,
+ "drift_max": 1.35,
+ "audio_dur": 232.8,
+ "path": "fast",
+ "mode": "ok"
+}

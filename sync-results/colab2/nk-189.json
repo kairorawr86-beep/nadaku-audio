@@ -1,0 +1,12 @@
+{
+ "id": "nk-189",
+ "artist": "Imagine Dragons",
+ "title": "Thunder",
+ "lang": "en",
+ "n_anchor": 36,
+ "median_offset": -0.63,
+ "drift_max": 1.36,
+ "audio_dur": 183.1,
+ "path": "fast",
+ "mode": "ok"
+}
