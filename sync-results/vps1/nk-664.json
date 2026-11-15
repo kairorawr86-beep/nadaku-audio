@@ -1,0 +1,12 @@
+{
+ "id": "nk-664",
+ "artist": "Jim Croce",
+ "title": "Time In A Bottle",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": -0.76,
+ "drift_max": 2.9,
+ "audio_dur": 126.0,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-676",
+ "artist": "Kool & The Gang",
+ "title": "Cherish",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": 8.89,
+ "drift_max": 1.45,
+ "audio_dur": 147.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 9.0
+}
