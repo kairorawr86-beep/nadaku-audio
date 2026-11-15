@@ -1,0 +1,13 @@
+{
+ "id": "b9-371",
+ "artist": "Mumford & Sons",
+ "title": "Little Lion Man",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": 17.61,
+ "drift_max": 0.64,
+ "audio_dur": 254.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 17.5
+}
