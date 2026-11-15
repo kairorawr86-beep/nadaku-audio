@@ -1,0 +1,13 @@
+{
+ "id": "b9-14",
+ "artist": "ABBA",
+ "title": "Dancing Queen",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -1.83,
+ "drift_max": 2.04,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b9-8",
+ "artist": "50 Cent",
+ "title": "21 Questions",
+ "lang": "en",
+ "n_anchor": 48,
+ "median_offset": -0.89,
+ "drift_max": 0.63,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

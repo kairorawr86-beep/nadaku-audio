@@ -1,0 +1,12 @@
+{
+ "id": "b9-2",
+ "artist": "2Pac",
+ "title": "Dear Mama",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -0.7,
+ "drift_max": 0.57,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}
