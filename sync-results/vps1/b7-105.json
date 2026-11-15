@@ -1,0 +1,13 @@
+{
+ "id": "b7-105",
+ "artist": "Sheila on 7",
+ "title": "Betapa",
+ "lang": "nn",
+ "n_anchor": 8,
+ "median_offset": 22.2,
+ "drift_max": 1.93,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 22.25
+}

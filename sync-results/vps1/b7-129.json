@@ -1,0 +1,14 @@
+{
+ "id": "b7-129",
+ "artist": "Nidji",
+ "title": "Hapus Aku",
+ "lang": "ms",
+ "n_anchor": 8,
+ "median_offset": 0.6,
+ "drift_max": 3.7,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:16.38] Tuliskan kesedihan\n[00:19.95] Semua tak bisa kau ungkapkan\n[00:23.06] Dan kita 'kan bicara\n[00:27.16] Dengar hatiku\n[00:31.52] Buang semua puisi antara kita berdua\n[00:39.50] Kau bunuh dia, sesuatu yang kusebut itu cinta\n[00:49.82] Yakinkan aku, Tuhan, dia bukan milikku\n[00:56.01] Biarkan waktu, waktu\n[00:59.72] Hapus aku\n[01:02.74] Sadarkan aku, Tuhan, dia bukan milikku\n[01:10.07] Biarkan waktu, waktu\n[01:14.34] Hapus aku\n[01:33.59] Tuliskan kesedihan\n[01:37.60] Semua tak bisa kau hentikan\n[01:40.79] Dan kita 'kan bicara\n[01:44.99] Dengar jiwaku\n[01:49.78] Buang semua puisi antara kita berdua\n[01:57.34] Kau bunuh dia, sesuatu yang kusebut itu cinta\n[02:02.46] Yakinkan aku, Tuhan, dia bukan milikku\n[02:06.62] Biarkan waktu, waktu\n[02:09.29] Hapus aku\n[02:10.84] Yakinkan aku, Tuhan, dia bukan milikku\n[02:18.03] Biarkan waktu, waktu\n[02:22.31] Hapus aku\n[02:53.57] Yakinkan aku, Tuhan, dia bukan milikku\n[03:00.24] Biarkan waktu, waktu\n[03:04.60] Hapus aku\n[03:07.47] Sadarkan aku, Tuhan, dia bukan milikku\n[03:14.66] Biarkan waktu, waktu\n[03:18.81] Hapus aku\n[03:22.67] Ho-oh-oh, oh-ho-ho-ho\n[03:29.72] Oh-ho-oh, oh-ho-ho-ho\n[03:37.04] Oh-oh-ho, oh-ho-ho-ho\n[03:44.04] Oh-oh-ho, oh, oh, oh-ho",
+ "warn": "last cue melewati durasi"
+}

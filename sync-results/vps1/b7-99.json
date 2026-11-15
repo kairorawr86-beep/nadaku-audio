@@ -1,0 +1,13 @@
+{
+ "id": "b7-99",
+ "artist": "Peterpan",
+ "title": "Langit Tak Mendengar",
+ "lang": "la",
+ "n_anchor": 8,
+ "median_offset": 16.97,
+ "drift_max": 0.54,
+ "audio_dur": 149.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 17.0
+}

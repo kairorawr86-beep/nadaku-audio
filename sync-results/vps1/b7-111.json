@@ -1,0 +1,13 @@
+{
+ "id": "b7-111",
+ "artist": "Vierra",
+ "title": "Kesepian",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": 4.18,
+ "drift_max": 1.22,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.25
+}
