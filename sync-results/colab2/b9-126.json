@@ -1,0 +1,13 @@
+{
+ "id": "b9-126",
+ "artist": "Bread",
+ "title": "Everything I Own",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -1.26,
+ "drift_max": 1.24,
+ "audio_dur": 198.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

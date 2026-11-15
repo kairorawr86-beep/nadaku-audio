@@ -1,0 +1,12 @@
+{
+ "id": "b9-102",
+ "artist": "Blue",
+ "title": "Sorry Seems To Be The Hardest Word",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 0.09,
+ "drift_max": 2.77,
+ "audio_dur": 200.3,
+ "path": "fast",
+ "mode": "ok"
+}

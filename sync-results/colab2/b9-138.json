@@ -1,0 +1,12 @@
+{
+ "id": "b9-138",
+ "artist": "Bryan Adams",
+ "title": "Summer Of '69",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.5,
+ "drift_max": 0.56,
+ "audio_dur": 206.4,
+ "path": "fast",
+ "mode": "ok"
+}
