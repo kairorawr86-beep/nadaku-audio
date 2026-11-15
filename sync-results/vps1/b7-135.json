@@ -1,0 +1,13 @@
+{
+ "id": "b7-135",
+ "artist": "Samsons",
+ "title": "Di Ujung Jalan",
+ "lang": "id",
+ "n_anchor": 8,
+ "median_offset": 23.12,
+ "drift_max": 2.8,
+ "audio_dur": 143.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 23.0
+}

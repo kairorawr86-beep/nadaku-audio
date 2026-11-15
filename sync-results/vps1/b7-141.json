@@ -1,0 +1,14 @@
+{
+ "id": "b7-141",
+ "artist": "Chrisye",
+ "title": "Kisah Kasih di Sekolah",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": -7.85,
+ "drift_max": 5.71,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:11.20] Resah dan gelisah\n[00:17.26] Menunggu di sini\n[00:23.36] Di sudut sekolah\n[00:26.54] Tempat yang kau janjikan\n[00:30.22] Ingin jumpa denganku\n[00:33.16] Walau mencuri waktu\n[00:39.70] Berdusta pada guru\n[00:46.72] Malu aku malu\n[00:53.04] Pada semut merah\n[00:58.80] Yang berbaris di dinding\n[01:02.38] Menatapku curiga\n[01:05.61] Seakan penuh tanya\n[01:09.02] \"Sedang apa di sini?\"\n[01:15.70] \"Menanti pacar,\" jawabku\n[01:22.04] Sungguh aneh tapi nyata\n[01:25.88] Takkan terlupa\n[01:31.82] Kisah-kasih di sekolah\n[01:35.70] Dengan si dia\n[01:38.64] Tiada masa paling indah\n[01:42.24] Masa-masa di sekolah\n[01:45.78] Tiada kisah paling indah\n[01:49.12] Kisah-kasih di sekolah\n[01:59.31] Malu aku malu\n[02:03.83] Pada semut merah\n[02:07.52] Yang berbaris di dinding\n[02:09.55] Menatapku curiga\n[02:11.62] Seakan penuh tanya\n[02:14.99] \"Sedang apa di sini?\"\n[02:21.46] \"Menanti pacar,\" jawabku\n[02:27.90] Sungguh aneh tapi nyata\n[02:32.32] Takkan terlupa\n[02:37.14] Kisah-kasih di sekolah\n[02:41.57] Dengan si dia\n[02:44.56] Tiada masa paling indah\n[02:47.65] Masa-masa di sekolah\n[02:50.82] Tiada kisah paling indah\n[02:53.71] Kisah kasih di sekolah\n[02:56.63] (Sungguh aneh tapi nyata)\n[03:05.33] (Kisah-kasih di sekolah)\n[03:12.77] Tiada masa paling indah\n[03:15.71] Masa-masa di sekolah\n[03:18.71] Tiada kisah paling indah\n[03:21.92] Kisah-kasih di sekolah",
+ "warn": "last cue melewati durasi"
+}
