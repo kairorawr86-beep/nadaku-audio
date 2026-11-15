@@ -1,0 +1,13 @@
+{
+ "id": "nk-258",
+ "artist": "Ayu Ting Ting",
+ "title": "Sambalado",
+ "lang": "id",
+ "n_anchor": 24,
+ "median_offset": 4.86,
+ "drift_max": 1.68,
+ "audio_dur": 228.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.75
+}
