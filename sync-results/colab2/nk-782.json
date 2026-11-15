@@ -1,0 +1,13 @@
+{
+ "id": "nk-782",
+ "artist": "Yusuf Cat Stevens",
+ "title": "Father & Son",
+ "lang": "en",
+ "n_anchor": 29,
+ "median_offset": 1.42,
+ "drift_max": 0.87,
+ "audio_dur": 215.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}

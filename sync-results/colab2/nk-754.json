@@ -1,0 +1,13 @@
+{
+ "id": "nk-754",
+ "artist": "The Cure",
+ "title": "Friday I'm In Love",
+ "lang": "en",
+ "n_anchor": 37,
+ "median_offset": 2.59,
+ "drift_max": 0.61,
+ "audio_dur": 210.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.5
+}

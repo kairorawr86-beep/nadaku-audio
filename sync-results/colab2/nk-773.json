@@ -1,0 +1,13 @@
+{
+ "id": "nk-773",
+ "artist": "Ultravox",
+ "title": "Vienna",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": 19.57,
+ "drift_max": 2.28,
+ "audio_dur": 284.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 19.5
+}
