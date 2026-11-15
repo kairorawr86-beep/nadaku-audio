@@ -1,0 +1,13 @@
+{
+ "id": "nk-652",
+ "artist": "Gin Blossoms",
+ "title": "Hey Jealousy",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -1.94,
+ "drift_max": 0.63,
+ "audio_dur": 209.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}
