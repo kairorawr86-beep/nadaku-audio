@@ -1,0 +1,12 @@
+{
+ "id": "nk-89",
+ "artist": "Guns N' Roses",
+ "title": "Sweet Child O' Mine",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.5,
+ "drift_max": 1.44,
+ "audio_dur": 278.2,
+ "path": "fast",
+ "mode": "ok"
+}

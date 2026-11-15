@@ -1,0 +1,12 @@
+{
+ "id": "nk-83",
+ "artist": "Ed Sheeran",
+ "title": "Shape of You",
+ "lang": "en",
+ "n_anchor": 59,
+ "median_offset": -0.45,
+ "drift_max": 0.43,
+ "audio_dur": 263.2,
+ "path": "fast",
+ "mode": "ok"
+}
