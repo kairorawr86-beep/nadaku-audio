@@ -1,0 +1,12 @@
+{
+ "id": "b11-113",
+ "artist": "Paramore",
+ "title": "Misery Business",
+ "lang": "en",
+ "n_anchor": 50,
+ "median_offset": -0.3,
+ "drift_max": 1.4,
+ "audio_dur": 206.3,
+ "path": "fast",
+ "mode": "ok"
+}

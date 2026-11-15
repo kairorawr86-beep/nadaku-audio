@@ -1,0 +1,12 @@
+{
+ "id": "b11-107",
+ "artist": "Arctic Monkeys",
+ "title": "Why'd You Only Call Me When You're High?",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": 0.04,
+ "drift_max": 2.96,
+ "audio_dur": 156.9,
+ "path": "fast",
+ "mode": "ok"
+}

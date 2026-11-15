@@ -1,0 +1,12 @@
+{
+ "id": "b11-101",
+ "artist": "Oasis",
+ "title": "Stand By Me",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": -0.81,
+ "drift_max": 1.43,
+ "audio_dur": 345.2,
+ "path": "fast",
+ "mode": "ok"
+}

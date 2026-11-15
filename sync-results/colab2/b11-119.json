@@ -1,0 +1,12 @@
+{
+ "id": "b11-119",
+ "artist": "Maroon 5",
+ "title": "Sunday Morning",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.87,
+ "drift_max": 2.11,
+ "audio_dur": 226.8,
+ "path": "fast",
+ "mode": "ok"
+}
