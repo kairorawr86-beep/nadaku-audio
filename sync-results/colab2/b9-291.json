@@ -1,0 +1,13 @@
+{
+ "id": "b9-291",
+ "artist": "James Bay",
+ "title": "Let It Go",
+ "lang": "en",
+ "n_anchor": 43,
+ "median_offset": -1.51,
+ "drift_max": 1.28,
+ "audio_dur": 254.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

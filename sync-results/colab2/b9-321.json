@@ -1,0 +1,13 @@
+{
+ "id": "b9-321",
+ "artist": "Kelly Clarkson",
+ "title": "Breakaway",
+ "lang": "en",
+ "n_anchor": 34,
+ "median_offset": -1.25,
+ "drift_max": 1.32,
+ "audio_dur": 227.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
