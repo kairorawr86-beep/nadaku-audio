@@ -1,0 +1,12 @@
+{
+ "id": "b9-226",
+ "artist": "Dua Lipa",
+ "title": "Love Again",
+ "lang": "la",
+ "n_anchor": 24,
+ "median_offset": -0.55,
+ "drift_max": 0.45,
+ "audio_dur": 149.0,
+ "path": "fast",
+ "mode": "ok"
+}

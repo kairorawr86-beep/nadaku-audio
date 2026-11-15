@@ -1,0 +1,12 @@
+{
+ "id": "b9-268",
+ "artist": "Fort Minor",
+ "title": "Where'd You Go",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -1.09,
+ "drift_max": 1.08,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}
