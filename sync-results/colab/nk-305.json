@@ -1,0 +1,13 @@
+{
+ "id": "nk-305",
+ "artist": "Katy Perry",
+ "title": "Firework",
+ "lang": "en",
+ "n_anchor": 53,
+ "median_offset": 6.06,
+ "drift_max": 0.43,
+ "audio_dur": 229.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.0
+}

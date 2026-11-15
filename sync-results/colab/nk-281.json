@@ -1,0 +1,13 @@
+{
+ "id": "nk-281",
+ "artist": "Five Minutes",
+ "title": "Bertahan",
+ "lang": "nn",
+ "n_anchor": 16,
+ "median_offset": 7.72,
+ "drift_max": 2.09,
+ "audio_dur": 276.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.75
+}

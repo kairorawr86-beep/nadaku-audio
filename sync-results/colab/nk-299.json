@@ -1,0 +1,13 @@
+{
+ "id": "nk-299",
+ "artist": "James Blunt",
+ "title": "You're Beautiful",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -10.68,
+ "drift_max": 1.68,
+ "audio_dur": 192.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -10.75
+}
