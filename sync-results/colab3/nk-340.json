@@ -1,0 +1,13 @@
+{
+ "id": "nk-340",
+ "artist": "R.e.m.",
+ "title": "Losing My Religion",
+ "lang": "en",
+ "n_anchor": 43,
+ "median_offset": 17.05,
+ "drift_max": 1.53,
+ "audio_dur": 283.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 17.0
+}

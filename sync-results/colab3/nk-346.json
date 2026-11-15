@@ -1,0 +1,13 @@
+{
+ "id": "nk-346",
+ "artist": "Reza Artamevia",
+ "title": "Keabadian",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": -1.46,
+ "drift_max": 0.59,
+ "audio_dur": 236.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
