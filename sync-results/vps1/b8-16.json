@@ -1,0 +1,14 @@
+{
+ "id": "b8-16",
+ "artist": "Afgan",
+ "title": "Bukan Cinta Biasa",
+ "lang": "jw",
+ "n_anchor": 10,
+ "median_offset": 5.72,
+ "drift_max": 4.65,
+ "audio_dur": 148.3,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:25.60] Kali ini kusadari\n[00:35.18] Aku telah jatuh cinta\n[00:40.10] Dari hatiku terdalam\n[00:45.20] Sungguh, aku cinta padamu, ho-oh\n[00:54.10] Cintaku bukanlah cinta biasa\n[01:06.20] Jika kamu yang memiliki\n[01:12.30] Dan kamu yang temaniku seumur hidupku, oh\n[01:25.06] T'rimalah pengakuanku\n[01:38.86] Percayalah kepadaku\n[01:43.36] Semua ini kulakukan\n[01:48.22] Karena kamu memang untukku\n[01:59.08] Cintaku bukanlah cinta biasa\n[02:05.52] Jika kamu yang memiliki\n[02:09.34] Dan kamu yang temaniku seumur hidupku, oh\n[02:17.18] Seumur hidupku\n[02:24.23] Uh-oh, uh-oh, uh-oh-oh\n[02:42.17] Hu-uh\n[02:45.34] Cintaku bukanlah cinta biasa\n[02:54.41] Jika kamu yang memiliki\n[02:59.92] Dan kamu yang temaniku seumur hidupku, wo-wo-wo-uh\n[03:12.38] Cintaku bukan cinta biasa, oh\n[03:21.09] Jika kamu yang mempunyai\n[03:27.90] Dan kamu yang temaniku seumur hidupku\n[03:38.25] T'rimalah pengakuanku",
+ "warn": "last cue melewati durasi"
+}

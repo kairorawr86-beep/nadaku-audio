@@ -1,0 +1,13 @@
+{
+ "id": "b8-46",
+ "artist": "Nike Ardilla",
+ "title": "Sandiwara Cinta",
+ "lang": "id",
+ "n_anchor": 10,
+ "median_offset": -2.12,
+ "drift_max": 1.49,
+ "audio_dur": 148.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}

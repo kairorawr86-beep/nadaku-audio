@@ -1,0 +1,12 @@
+{
+ "id": "b7-334",
+ "artist": "Aerosmith",
+ "title": "Dream On",
+ "lang": "en",
+ "n_anchor": 11,
+ "median_offset": -0.47,
+ "drift_max": 0.99,
+ "audio_dur": 136.4,
+ "path": "fast",
+ "mode": "ok"
+}

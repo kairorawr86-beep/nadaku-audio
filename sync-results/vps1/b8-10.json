@@ -1,0 +1,14 @@
+{
+ "id": "b8-10",
+ "artist": "Suara Kayu, Feby Putri",
+ "title": "Kembali Pulang",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": -0.55,
+ "drift_max": 7.19,
+ "audio_dur": 148.7,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:20.96] Sekedar berandai\n[00:23.63] Menatapi diri ini\n[00:29.57] Berpencar pergi 'tuk mencari\n[00:33.34] Apa yang lama dicari\n[00:40.76] Pergi tanpa pamrih\n[00:43.62] Pergi tanpa pamit akan\n[00:49.92] Ke sana-kemari tanpa arah\n[00:53.86] Serta ratusan makian\n[01:02.18] Kembali pulang\n[01:04.98] 'Tuk menenangi\n[01:10.56] Banyaknya luka yang berantakan\n[01:15.46] Peluk hangat, sigap 'tuk sembuhkan\n[01:20.02] Kembali pulang\n[01:25.15] Bersama terang\n[01:30.20] Menghiasi diri, merayakan\n[01:35.60] Genggaman tangan yang masih ada\n[02:08.53] Kembali pulang\n[02:12.20] 'Tuk menenangi\n[02:15.92] Banyaknya luka yang berantakan\n[02:19.57] Peluk hangat, sigap 'tuk sembuhkan\n[02:23.40] Kembali pulang\n[02:28.12] Bersama terang\n[02:32.89] Menghiasi diri, merayakan\n[02:37.60] Genggaman tangan yang masih ada",
+ "warn": "last cue melewati durasi"
+}
