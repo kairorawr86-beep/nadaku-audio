@@ -1,0 +1,13 @@
+{
+ "id": "b8-127",
+ "artist": "Enrique Iglesias",
+ "title": "Bailamos",
+ "lang": "es",
+ "n_anchor": 22,
+ "median_offset": -3.87,
+ "drift_max": 2.76,
+ "audio_dur": 206.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.75
+}

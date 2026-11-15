@@ -1,0 +1,13 @@
+{
+ "id": "b8-157",
+ "artist": "Lady Gaga",
+ "title": "I'll Never Love Again",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -1.48,
+ "drift_max": 1.45,
+ "audio_dur": 273.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

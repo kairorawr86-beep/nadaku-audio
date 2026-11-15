@@ -1,0 +1,12 @@
+{
+ "id": "b8-151",
+ "artist": "Michael Bublé",
+ "title": "Sway",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.52,
+ "drift_max": 0.92,
+ "audio_dur": 182.9,
+ "path": "fast",
+ "mode": "ok"
+}

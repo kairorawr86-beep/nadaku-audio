@@ -1,0 +1,12 @@
+{
+ "id": "b8-133",
+ "artist": "Led Zeppelin",
+ "title": "Stairway to Heaven",
+ "lang": "br",
+ "n_anchor": 39,
+ "median_offset": -0.85,
+ "drift_max": 0.89,
+ "audio_dur": 475.9,
+ "path": "fast",
+ "mode": "ok"
+}

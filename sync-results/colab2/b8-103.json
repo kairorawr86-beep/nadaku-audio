@@ -1,0 +1,12 @@
+{
+ "id": "b8-103",
+ "artist": "Felipe e Rodrigo",
+ "title": "Pós - Ao Vivo",
+ "lang": "pt",
+ "n_anchor": 23,
+ "median_offset": 0.2,
+ "drift_max": 2.9,
+ "audio_dur": 171.6,
+ "path": "fast",
+ "mode": "ok"
+}

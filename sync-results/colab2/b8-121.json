@@ -1,0 +1,12 @@
+{
+ "id": "b8-121",
+ "artist": "Oasis",
+ "title": "Wonderwall",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -1.16,
+ "drift_max": 2.64,
+ "audio_dur": 258.6,
+ "path": "fast",
+ "mode": "ok"
+}
