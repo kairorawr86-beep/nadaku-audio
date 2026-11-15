@@ -1,0 +1,12 @@
+{
+ "id": "nk-509",
+ "artist": "Nat King Cole",
+ "title": "L-o-v-e",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -0.54,
+ "drift_max": 0.7,
+ "audio_dur": 140.3,
+ "path": "fast",
+ "mode": "ok"
+}

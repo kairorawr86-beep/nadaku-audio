@@ -1,0 +1,13 @@
+{
+ "id": "nk-521",
+ "artist": "Panic! At The Disco",
+ "title": "High Hopes",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": 5.24,
+ "drift_max": 0.57,
+ "audio_dur": 191.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-485",
+ "artist": "Jason Mraz",
+ "title": "I Won't Give Up",
+ "lang": "nn",
+ "n_anchor": 38,
+ "median_offset": 20.67,
+ "drift_max": 1.72,
+ "audio_dur": 255.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 20.75
+}
