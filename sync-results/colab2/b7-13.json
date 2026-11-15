@@ -1,0 +1,13 @@
+{
+ "id": "b7-13",
+ "artist": "For Revenge",
+ "title": "Penyangkalan",
+ "lang": "id",
+ "n_anchor": 17,
+ "median_offset": 21.11,
+ "drift_max": 2.0,
+ "audio_dur": 278.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 21.0
+}

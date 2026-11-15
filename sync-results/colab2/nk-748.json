@@ -1,0 +1,13 @@
+{
+ "id": "nk-748",
+ "artist": "Swv",
+ "title": "Weak",
+ "lang": "en",
+ "n_anchor": 39,
+ "median_offset": 16.49,
+ "drift_max": 0.73,
+ "audio_dur": 273.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 16.5
+}

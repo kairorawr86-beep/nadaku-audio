@@ -1,0 +1,12 @@
+{
+ "id": "nk-755",
+ "artist": "The Doors",
+ "title": "Break On Through (To The Other Side)",
+ "lang": "en",
+ "n_anchor": 10,
+ "median_offset": 1.08,
+ "drift_max": 0.55,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}
