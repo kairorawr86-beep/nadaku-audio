@@ -1,0 +1,13 @@
+{
+ "id": "b9-411",
+ "artist": "Red Hot Chili Peppers",
+ "title": "Otherside",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -1.92,
+ "drift_max": 1.68,
+ "audio_dur": 247.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}

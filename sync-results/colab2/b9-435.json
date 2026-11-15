@@ -1,0 +1,13 @@
+{
+ "id": "b9-435",
+ "artist": "Sheryl Crow",
+ "title": "If It Makes You Happy",
+ "lang": "cy",
+ "n_anchor": 13,
+ "median_offset": -2.04,
+ "drift_max": 0.53,
+ "audio_dur": 323.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}
