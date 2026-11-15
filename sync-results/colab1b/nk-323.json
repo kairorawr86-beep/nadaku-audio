@@ -1,0 +1,12 @@
+{
+ "id": "nk-323",
+ "artist": "Michael Learns To Rock",
+ "title": "Take Me To Your Heart",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.83,
+ "drift_max": 1.86,
+ "audio_dur": 238.0,
+ "path": "fast",
+ "mode": "ok"
+}
