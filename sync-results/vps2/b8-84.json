@@ -1,0 +1,12 @@
+{
+ "id": "b8-84",
+ "artist": "Gigi",
+ "title": "Pintu Sorga",
+ "lang": "id",
+ "n_anchor": 14,
+ "median_offset": -0.71,
+ "drift_max": 0.35,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

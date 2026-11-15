@@ -1,0 +1,12 @@
+{
+ "id": "b8-114",
+ "artist": "Justin Bieber, Ludacris",
+ "title": "Baby",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -1.05,
+ "drift_max": 0.96,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

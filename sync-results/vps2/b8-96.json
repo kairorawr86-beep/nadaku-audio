@@ -1,0 +1,14 @@
+{
+ "id": "b8-96",
+ "artist": "Kerispatih",
+ "title": "Tertatih",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": -10.28,
+ "drift_max": 5.39,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:03.26] Aku berjalan di dalam kesendirian\n[00:16.04] Aku mencoba tak mengingatmu dan mengenangmu\n[00:28.48] Aku t'lah hancur lebih dari berkeping-keping\n[00:38.84] Karena cintaku, karena rasaku yang tulus padamu\n[00:52.10] Begitu dalamnya aku terjatuh\n[00:58.54] Dalam kesalahan rasa ini\n[01:10.74] Jujur, aku tak sanggup, aku tak bisa\n[01:16.42] Aku tak mampu dan aku tertatih\n[01:27.86] Semua yang pernah kita lewati\n[01:36.02] Tak mungkin dapat kudustai\n[01:44.04] Meskipun harus tertatih\n[01:54.94] Oh-hmm, begitu dalamnya aku terjatuh\n[02:02.20] Dalam kesalahan rasa ini\n[02:09.64] Uh-wo-uh-hu-oh-ho-oh-wo-wo\n[02:26.17] Hu-wo, wo-wo-oh-wo-oh-uh\n[02:40.54] Jujur, aku tak sanggup, aku tak bisa\n[02:49.50] Aku tak mampu dan aku tertatih\n[02:57.04] Semua yang pernah kita lewati\n[03:04.56] Tak mungkin dapat kudustai\n[03:12.42] Meskipun harus tertatih\n[03:17.94] Aku tak sanggup (aku tak sanggup), aku tak bisa (aku tak bisa)\n[03:25.31] Aku tak mampu dan aku tertatih\n[03:31.54] Semua yang pernah kita lewati\n[03:39.67] Tak mungkin dapat kudustai\n[03:47.81] Meskipun harus tertatih\n[03:56.44] Oh-ho-uh-uh",
+ "warn": "last cue melewati durasi"
+}
