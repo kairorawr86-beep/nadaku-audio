@@ -1,0 +1,13 @@
+{
+ "id": "nk-68",
+ "artist": "Bondan Prakoso Fade2Black",
+ "title": "Ya Sudahlah",
+ "lang": "id",
+ "n_anchor": 35,
+ "median_offset": -4.9,
+ "drift_max": 1.05,
+ "audio_dur": 240.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -5.0
+}

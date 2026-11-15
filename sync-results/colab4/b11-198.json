@@ -1,0 +1,13 @@
+{
+ "id": "b11-198",
+ "artist": "BLACKPINK",
+ "title": "How You Like That",
+ "lang": "ko",
+ "n_anchor": 19,
+ "median_offset": -1.31,
+ "drift_max": 2.96,
+ "audio_dur": 174.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

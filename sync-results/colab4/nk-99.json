@@ -1,0 +1,13 @@
+{
+ "id": "nk-99",
+ "artist": "Luis Fonsi",
+ "title": "Despacito ft. Daddy Yankee",
+ "lang": "es",
+ "n_anchor": 63,
+ "median_offset": 21.33,
+ "drift_max": 1.25,
+ "audio_dur": 268.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 21.25
+}

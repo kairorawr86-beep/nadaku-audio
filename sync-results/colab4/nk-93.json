@@ -1,0 +1,12 @@
+{
+ "id": "nk-93",
+ "artist": "Linkin Park",
+ "title": "In The End",
+ "lang": "en",
+ "n_anchor": 46,
+ "median_offset": -0.63,
+ "drift_max": 0.8,
+ "audio_dur": 205.1,
+ "path": "fast",
+ "mode": "ok"
+}
