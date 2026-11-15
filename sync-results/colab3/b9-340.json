@@ -1,0 +1,13 @@
+{
+ "id": "b9-340",
+ "artist": "Live",
+ "title": "Lightning Crashes",
+ "lang": "en",
+ "n_anchor": 37,
+ "median_offset": -1.75,
+ "drift_max": 1.35,
+ "audio_dur": 320.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}
