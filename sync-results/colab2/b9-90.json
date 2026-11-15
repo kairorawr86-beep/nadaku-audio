@@ -1,0 +1,13 @@
+{
+ "id": "b9-90",
+ "artist": "BIGBANG",
+ "title": "Haru Haru",
+ "lang": "ko",
+ "n_anchor": 5,
+ "median_offset": -1.99,
+ "drift_max": 0.0,
+ "audio_dur": 251.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}
