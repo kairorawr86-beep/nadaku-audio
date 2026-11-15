@@ -1,0 +1,13 @@
+{
+ "id": "nk-371",
+ "artist": "The Calling",
+ "title": "Wherever You Will Go",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -2.12,
+ "drift_max": 0.8,
+ "audio_dur": 206.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}
