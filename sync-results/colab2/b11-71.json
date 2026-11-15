@@ -1,0 +1,13 @@
+{
+ "id": "b11-71",
+ "artist": "Bernadya",
+ "title": "Masa Sepi",
+ "lang": "jw",
+ "n_anchor": 28,
+ "median_offset": -1.5,
+ "drift_max": 0.91,
+ "audio_dur": 208.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

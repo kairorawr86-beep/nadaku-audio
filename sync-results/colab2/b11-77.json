@@ -1,0 +1,13 @@
+{
+ "id": "b11-77",
+ "artist": "Ada Band",
+ "title": "Pemain Cinta",
+ "lang": "jw",
+ "n_anchor": 32,
+ "median_offset": -1.7,
+ "drift_max": 1.62,
+ "audio_dur": 241.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}
