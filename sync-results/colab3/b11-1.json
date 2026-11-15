@@ -1,0 +1,13 @@
+{
+ "id": "b11-1",
+ "artist": "Denny Caknan",
+ "title": "Cundamani",
+ "lang": "jw",
+ "n_anchor": 4,
+ "median_offset": -1.65,
+ "drift_max": 0.0,
+ "audio_dur": 276.5,
+ "path": "demucs",
+ "mode": "offset",
+ "offset": -1.75
+}

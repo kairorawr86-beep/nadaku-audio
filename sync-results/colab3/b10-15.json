@@ -1,0 +1,13 @@
+{
+ "id": "b10-15",
+ "artist": "Vierratale",
+ "title": "Dengarkan Curhatku",
+ "lang": "jw",
+ "n_anchor": 22,
+ "median_offset": 1.37,
+ "drift_max": 1.74,
+ "audio_dur": 145.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.25
+}
