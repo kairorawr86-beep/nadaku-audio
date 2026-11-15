@@ -1,0 +1,12 @@
+{
+ "id": "b9-427",
+ "artist": "Sarah McLachlan",
+ "title": "Adia",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.64,
+ "drift_max": 1.14,
+ "audio_dur": 241.0,
+ "path": "fast",
+ "mode": "ok"
+}

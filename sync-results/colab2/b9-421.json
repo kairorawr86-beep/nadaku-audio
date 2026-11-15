@@ -1,0 +1,13 @@
+{
+ "id": "b9-421",
+ "artist": "Roxette",
+ "title": "The Look",
+ "lang": "en",
+ "n_anchor": 48,
+ "median_offset": -25.62,
+ "drift_max": 1.9,
+ "audio_dur": 228.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -25.5
+}

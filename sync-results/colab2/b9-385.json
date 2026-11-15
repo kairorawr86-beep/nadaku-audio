@@ -1,0 +1,12 @@
+{
+ "id": "b9-385",
+ "artist": "One Direction",
+ "title": "Little Things",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.04,
+ "drift_max": 0.41,
+ "audio_dur": 221.2,
+ "path": "fast",
+ "mode": "ok"
+}
