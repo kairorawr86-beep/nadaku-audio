@@ -1,0 +1,12 @@
+{
+ "id": "nk-198",
+ "artist": "Billie Eilish",
+ "title": "Happier Than Ever",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.72,
+ "drift_max": 0.64,
+ "audio_dur": 313.6,
+ "path": "fast",
+ "mode": "ok"
+}

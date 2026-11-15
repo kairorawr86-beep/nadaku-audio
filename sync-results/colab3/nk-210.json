@@ -1,0 +1,13 @@
+{
+ "id": "nk-210",
+ "artist": "Ed Sheeran",
+ "title": "Thinking Out Loud",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": 6.89,
+ "drift_max": 0.94,
+ "audio_dur": 279.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.0
+}
