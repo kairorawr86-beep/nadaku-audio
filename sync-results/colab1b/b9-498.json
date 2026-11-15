@@ -1,0 +1,12 @@
+{
+ "id": "b9-498",
+ "artist": "Tyrese",
+ "title": "Sweet Lady",
+ "lang": "en",
+ "n_anchor": 45,
+ "median_offset": -0.64,
+ "drift_max": 1.01,
+ "audio_dur": 286.0,
+ "path": "fast",
+ "mode": "ok"
+}

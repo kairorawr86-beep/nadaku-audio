@@ -1,0 +1,12 @@
+{
+ "id": "b9-480",
+ "artist": "The Rolling Stones",
+ "title": "Paint It Black",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.22,
+ "drift_max": 0.98,
+ "audio_dur": 190.8,
+ "path": "fast",
+ "mode": "ok"
+}

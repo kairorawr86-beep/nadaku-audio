@@ -1,0 +1,12 @@
+{
+ "id": "b10-4",
+ "artist": "Gigi",
+ "title": "Terbang",
+ "lang": "id",
+ "n_anchor": 13,
+ "median_offset": -0.4,
+ "drift_max": 2.38,
+ "audio_dur": 293.2,
+ "path": "fast",
+ "mode": "ok"
+}

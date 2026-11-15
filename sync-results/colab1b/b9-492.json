@@ -1,0 +1,12 @@
+{
+ "id": "b9-492",
+ "artist": "Tom Odell",
+ "title": "Another Love",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": -0.56,
+ "drift_max": 0.52,
+ "audio_dur": 231.2,
+ "path": "fast",
+ "mode": "ok"
+}

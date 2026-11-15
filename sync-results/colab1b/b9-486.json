@@ -1,0 +1,12 @@
+{
+ "id": "b9-486",
+ "artist": "The Weeknd",
+ "title": "The Hills",
+ "lang": "en",
+ "n_anchor": 45,
+ "median_offset": -0.47,
+ "drift_max": 1.6,
+ "audio_dur": 229.6,
+ "path": "fast",
+ "mode": "ok"
+}
