@@ -1,0 +1,13 @@
+{
+ "id": "b7-191",
+ "artist": "Olivia Rodrigo",
+ "title": "Drop Dead",
+ "lang": "en",
+ "n_anchor": 45,
+ "median_offset": 28.36,
+ "drift_max": 1.72,
+ "audio_dur": 227.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 28.25
+}

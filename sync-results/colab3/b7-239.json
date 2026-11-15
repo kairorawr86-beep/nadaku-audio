@@ -1,0 +1,13 @@
+{
+ "id": "b7-239",
+ "artist": "Tate McRae",
+ "title": "Greedy",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": 4.4,
+ "drift_max": 1.88,
+ "audio_dur": 154.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.5
+}
