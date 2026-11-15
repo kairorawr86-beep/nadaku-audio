@@ -1,0 +1,13 @@
+{
+ "id": "nk-11",
+ "artist": "Dewa 19",
+ "title": "Kangen",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": 15.27,
+ "drift_max": 1.32,
+ "audio_dur": 283.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 15.25
+}
