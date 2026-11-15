@@ -1,0 +1,13 @@
+{
+ "id": "nk-52",
+ "artist": "Adele",
+ "title": "Rolling in the Deep",
+ "lang": "en",
+ "n_anchor": 36,
+ "median_offset": -1.33,
+ "drift_max": 1.11,
+ "audio_dur": 224.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

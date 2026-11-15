@@ -1,0 +1,12 @@
+{
+ "id": "nk-53",
+ "artist": "Adele",
+ "title": "Someone Like You",
+ "lang": "en",
+ "n_anchor": 37,
+ "median_offset": -0.58,
+ "drift_max": 0.81,
+ "audio_dur": 265.6,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-46",
+ "artist": "Tulus",
+ "title": "Ruang Sendiri",
+ "lang": "jw",
+ "n_anchor": 25,
+ "median_offset": 5.57,
+ "drift_max": 2.08,
+ "audio_dur": 272.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.5
+}
