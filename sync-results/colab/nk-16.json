@@ -1,0 +1,13 @@
+{
+ "id": "nk-16",
+ "artist": "Hindia",
+ "title": "Evaluasi",
+ "lang": "jw",
+ "n_anchor": 30,
+ "median_offset": 14.33,
+ "drift_max": 1.04,
+ "audio_dur": 203.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 14.25
+}

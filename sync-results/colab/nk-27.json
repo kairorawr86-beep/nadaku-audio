@@ -1,0 +1,13 @@
+{
+ "id": "nk-27",
+ "artist": "Mahen",
+ "title": "Pura Pura Lupa",
+ "lang": "jw",
+ "n_anchor": 38,
+ "median_offset": 5.81,
+ "drift_max": 0.87,
+ "audio_dur": 288.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.75
+}

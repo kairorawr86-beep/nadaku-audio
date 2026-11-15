@@ -1,0 +1,13 @@
+{
+ "id": "nk-30",
+ "artist": "Nidji",
+ "title": "Laskar Pelangi",
+ "lang": "jw",
+ "n_anchor": 27,
+ "median_offset": -1.35,
+ "drift_max": 1.79,
+ "audio_dur": 217.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
