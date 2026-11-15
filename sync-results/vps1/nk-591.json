@@ -1,0 +1,14 @@
+{
+ "id": "nk-591",
+ "artist": "Amigdala",
+ "title": "Kukira Kau Rumah",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": -12.4,
+ "drift_max": 5.57,
+ "audio_dur": 144.2,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:15.66] Kau datang tatkala sinar senjaku telah redup\n[00:25.33] Dan pamit ketika purnamaku penuh seutuhnya\n[00:34.92] Kau yang singgah tapi tak sungguh\n[00:40.28] Kau yang singgah tapi tak sungguh\n[00:45.78] Kukira kau rumah\n[00:50.82] Nyatanya kau cuma aku sewa\n[00:54.82] Dari tubuh seorang perempuan yang memintamu untuk pulang\n[01:03.74] Kau bukan rumah\n[01:08.82] Kau bukan rumah\n[01:13.82] Kau bukan rumah\n[01:16.80] Kau bukan rumah\n[01:33.62] Kukira kau rumah\n[01:37.16] Nyatanya kau cuma aku sewa\n[01:41.64] Dari tubuh seorang perempuan yang memintamu untuk pulang\n[01:51.76] Kau bukan rumah\n[01:56.85] Kau bukan rumah\n[02:01.97] Kau bukan rumah\n[02:07.03] Kau bukan rumah\n[02:32.41] Kau bukan rumah\n[02:37.35] Kau bukan rumah\n[02:42.49] Kau bukan rumah\n[02:47.60] Kau bukan rumah",
+ "warn": "last cue melewati durasi"
+}

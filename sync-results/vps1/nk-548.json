@@ -1,0 +1,13 @@
+{
+ "id": "nk-548",
+ "artist": "Simon & Garfunkel",
+ "title": "The Sound of Silence (from The Concert in Central Park)",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": 16.03,
+ "drift_max": 2.62,
+ "audio_dur": 148.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 16.0
+}

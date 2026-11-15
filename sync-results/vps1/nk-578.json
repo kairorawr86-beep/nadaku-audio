@@ -1,0 +1,13 @@
+{
+ "id": "nk-578",
+ "artist": "Vierra",
+ "title": "Dengarkan Curhatku",
+ "lang": "jw",
+ "n_anchor": 15,
+ "median_offset": 3.61,
+ "drift_max": 1.58,
+ "audio_dur": 147.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}

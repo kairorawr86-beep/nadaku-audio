@@ -1,0 +1,13 @@
+{
+ "id": "nk-584",
+ "artist": "Yura Yunita",
+ "title": "Berawal Dari Tatap",
+ "lang": "id",
+ "n_anchor": 13,
+ "median_offset": 10.64,
+ "drift_max": 0.98,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 10.75
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-542",
+ "artist": "Shaggy",
+ "title": "It Wasn't Me",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 3.35,
+ "drift_max": 2.61,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.25
+}

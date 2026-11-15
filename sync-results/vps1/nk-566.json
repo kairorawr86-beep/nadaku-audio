@@ -1,0 +1,13 @@
+{
+ "id": "nk-566",
+ "artist": "The Corrs",
+ "title": "Breathless",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": 5.12,
+ "drift_max": 0.67,
+ "audio_dur": 144.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.0
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-560",
+ "artist": "The All-American Rejects",
+ "title": "Gives You Hell",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": 6.75,
+ "drift_max": 0.91,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.75
+}
