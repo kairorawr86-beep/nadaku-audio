@@ -1,0 +1,12 @@
+{
+ "id": "nk-375",
+ "artist": "The Verve",
+ "title": "Bitter Sweet Symphony",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -1.13,
+ "drift_max": 0.91,
+ "audio_dur": 247.7,
+ "path": "demucs",
+ "mode": "ok"
+}

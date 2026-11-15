@@ -1,0 +1,12 @@
+{
+ "id": "nk-418",
+ "artist": "Bee Gees",
+ "title": "How Deep Is Your Love",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": 0.02,
+ "drift_max": 0.88,
+ "audio_dur": 238.3,
+ "path": "fast",
+ "mode": "ok"
+}

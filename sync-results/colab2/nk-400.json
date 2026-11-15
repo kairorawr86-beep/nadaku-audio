@@ -1,0 +1,13 @@
+{
+ "id": "nk-400",
+ "artist": "Ace of Base",
+ "title": "The Sign",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": 6.82,
+ "drift_max": 1.76,
+ "audio_dur": 193.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.75
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-406",
+ "artist": "Alec Benjamin",
+ "title": "Let Me Down Slowly",
+ "lang": "en",
+ "n_anchor": 43,
+ "median_offset": 4.72,
+ "drift_max": 1.1,
+ "audio_dur": 177.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.75
+}

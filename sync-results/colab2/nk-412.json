@@ -1,0 +1,13 @@
+{
+ "id": "nk-412",
+ "artist": "Ariana Grande",
+ "title": "One Last Time",
+ "lang": "en",
+ "n_anchor": 39,
+ "median_offset": 41.65,
+ "drift_max": 0.69,
+ "audio_dur": 249.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 41.75
+}
