@@ -1,0 +1,12 @@
+{
+ "id": "nk-728",
+ "artist": "Sam Cooke",
+ "title": "You Send Me",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.63,
+ "drift_max": 1.68,
+ "audio_dur": 155.9,
+ "path": "fast",
+ "mode": "ok"
+}

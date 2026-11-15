@@ -1,0 +1,13 @@
+{
+ "id": "nk-702",
+ "artist": "New Order",
+ "title": "Blue Monday",
+ "lang": "km",
+ "n_anchor": 7,
+ "median_offset": 4.12,
+ "drift_max": 1.03,
+ "audio_dur": 448.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.0
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-696",
+ "artist": "Nadin Amizah",
+ "title": "Taruh",
+ "lang": "jw",
+ "n_anchor": 32,
+ "median_offset": -1.73,
+ "drift_max": 0.99,
+ "audio_dur": 237.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

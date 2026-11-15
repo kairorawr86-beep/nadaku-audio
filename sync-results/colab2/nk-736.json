@@ -1,0 +1,13 @@
+{
+ "id": "nk-736",
+ "artist": "Shai",
+ "title": "If I Ever Fall In Love",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": 23.62,
+ "drift_max": 1.67,
+ "audio_dur": 232.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 23.5
+}

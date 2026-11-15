@@ -1,0 +1,12 @@
+{
+ "id": "nk-688",
+ "artist": "Lou Reed",
+ "title": "Perfect Day",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.52,
+ "drift_max": 0.76,
+ "audio_dur": 215.5,
+ "path": "fast",
+ "mode": "ok"
+}
