@@ -1,0 +1,12 @@
+{
+ "id": "b11-134",
+ "artist": "Arctic Monkeys",
+ "title": "Brianstorm",
+ "lang": "cy",
+ "n_anchor": 17,
+ "median_offset": -0.07,
+ "drift_max": 0.51,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

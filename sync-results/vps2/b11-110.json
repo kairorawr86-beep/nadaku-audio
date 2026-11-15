@@ -1,0 +1,13 @@
+{
+ "id": "b11-110",
+ "artist": "The Killers",
+ "title": "When You Were Young",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -3.39,
+ "drift_max": 0.58,
+ "audio_dur": 139.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.5
+}

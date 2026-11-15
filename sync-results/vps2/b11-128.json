@@ -1,0 +1,12 @@
+{
+ "id": "b11-128",
+ "artist": "Coldplay",
+ "title": "Adventure Of A Lifetime",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.14,
+ "drift_max": 0.79,
+ "audio_dur": 146.3,
+ "path": "demucs",
+ "mode": "ok"
+}
