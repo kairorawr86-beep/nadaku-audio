@@ -1,0 +1,13 @@
+{
+ "id": "nk-154",
+ "artist": "Juicy Luicy",
+ "title": "Tak Terbaca",
+ "lang": "id",
+ "n_anchor": 21,
+ "median_offset": 4.58,
+ "drift_max": 0.6,
+ "audio_dur": 207.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.5
+}

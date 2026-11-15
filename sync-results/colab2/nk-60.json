@@ -1,0 +1,13 @@
+{
+ "id": "nk-60",
+ "artist": "Avicii",
+ "title": "Wake Me Up",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": 1.76,
+ "drift_max": 1.72,
+ "audio_dur": 258.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.75
+}
