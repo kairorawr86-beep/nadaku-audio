@@ -1,0 +1,12 @@
+{
+ "id": "b9-136",
+ "artist": "Bruno Mars",
+ "title": "It Will Rain",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.48,
+ "drift_max": 0.68,
+ "audio_dur": 257.1,
+ "path": "fast",
+ "mode": "ok"
+}
