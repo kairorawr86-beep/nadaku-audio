@@ -1,0 +1,14 @@
+{
+ "id": "nk-240",
+ "artist": "Sheila On 7",
+ "title": "Sebuah Kisah Klasik",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": -0.16,
+ "drift_max": 19.88,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:07.70] Jabat tanganku\n[00:11.37] Mungkin untuk yang terakhir kali\n[00:15.46] Kita berbincang\n[00:18.86] Tentang memori di masa itu\n[00:23.36] Peluk tubuhku\n[00:26.76] Usapkan juga air mataku\n[00:30.92] Kita terharu\n[00:35.32] Seakan tiada bertemu lagi\n[00:40.52] Bersenang-senanglah\n[00:43.32] Karena hari ini yang 'kan kita rindukan\n[00:47.52] Di hari nanti\n[00:50.34] Sebuah kisah klasik untuk masa depan\n[00:55.60] Bersenang-senanglah\n[00:59.70] Karena waktu ini yang 'kan kita banggakan\n[01:04.11] Di hari tua\n[01:11.48] Sampai jumpa kawanku\n[01:15.44] S'moga kita selalu\n[01:19.70] Menjadi sebuah kisah klasik untuk masa depan\n[01:21.39] Sampai jumpa kawanku\n[01:22.24] S'moga kita selalu\n[01:23.11] Menjadi sebuah kisah klasik untuk masa depan\n[01:31.13] Bersenang-senanglah\n[01:31.76] Karena hari ini yang 'kan kita rindukan\n[01:32.67] Di hari nanti\n[01:34.19] Sampai jumpa kawanku\n[01:35.04] S'moga kita selalu\n[01:35.92] Menjadi sebuah kisah klasik untuk masa depan\n[01:43.57] Sampai jumpa kawanku\n[01:47.46] S'moga kita selalu\n[01:51.35] Menjadi sebuah kisah klasik untuk masa depan\n[02:32.64] Mungkin diriku masih ingin bersama kalian\n[02:40.29] Mungkin jiwaku masih haus sanjungan kalian",
+ "warn": "last cue melewati durasi"
+}

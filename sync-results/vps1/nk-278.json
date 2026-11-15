@@ -1,0 +1,13 @@
+{
+ "id": "nk-278",
+ "artist": "Elton John",
+ "title": "Your Song (Top Of The Pops 1971)",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -7.69,
+ "drift_max": 2.63,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -7.75
+}
