@@ -1,0 +1,13 @@
+{
+ "id": "nk-469",
+ "artist": "Extreme",
+ "title": "More Than Words",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 5.96,
+ "drift_max": 1.24,
+ "audio_dur": 249.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.0
+}
