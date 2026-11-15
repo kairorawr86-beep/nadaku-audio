@@ -1,0 +1,12 @@
+{
+ "id": "b9-344",
+ "artist": "Lynyrd Skynyrd",
+ "title": "Simple Man",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.7,
+ "drift_max": 2.03,
+ "audio_dur": 352.4,
+ "path": "fast",
+ "mode": "ok"
+}

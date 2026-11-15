@@ -1,0 +1,12 @@
+{
+ "id": "b9-350",
+ "artist": "Mariah Carey",
+ "title": "My All",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": 0.5,
+ "drift_max": 0.8,
+ "audio_dur": 214.6,
+ "path": "fast",
+ "mode": "ok"
+}

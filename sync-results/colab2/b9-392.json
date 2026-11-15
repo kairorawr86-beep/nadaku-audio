@@ -1,0 +1,13 @@
+{
+ "id": "b9-392",
+ "artist": "Paul McCartney",
+ "title": "Maybe I'm Amazed",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -2.56,
+ "drift_max": 1.12,
+ "audio_dur": 227.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.5
+}
