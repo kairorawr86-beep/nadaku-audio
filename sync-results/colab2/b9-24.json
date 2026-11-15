@@ -1,0 +1,12 @@
+{
+ "id": "b9-24",
+ "artist": "Adele",
+ "title": "Send My Love",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.52,
+ "drift_max": 0.56,
+ "audio_dur": 217.8,
+ "path": "fast",
+ "mode": "ok"
+}

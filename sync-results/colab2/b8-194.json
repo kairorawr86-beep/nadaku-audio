@@ -1,0 +1,13 @@
+{
+ "id": "b8-194",
+ "artist": "Dua Lipa",
+ "title": "Dance The Night",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": -2.34,
+ "drift_max": 2.18,
+ "audio_dur": 208.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.25
+}
