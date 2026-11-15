@@ -1,0 +1,12 @@
+{
+ "id": "b11-104",
+ "artist": "Blur",
+ "title": "Parklife",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -0.29,
+ "drift_max": 1.66,
+ "audio_dur": 182.0,
+ "path": "fast",
+ "mode": "ok"
+}

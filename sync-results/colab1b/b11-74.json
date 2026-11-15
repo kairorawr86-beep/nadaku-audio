@@ -1,0 +1,12 @@
+{
+ "id": "b11-74",
+ "artist": ".Feast",
+ "title": "Berita Kehilangan",
+ "lang": "nn",
+ "n_anchor": 29,
+ "median_offset": -0.42,
+ "drift_max": 0.79,
+ "audio_dur": 257.5,
+ "path": "fast",
+ "mode": "ok"
+}
