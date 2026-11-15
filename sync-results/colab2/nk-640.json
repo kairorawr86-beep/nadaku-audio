@@ -1,0 +1,12 @@
+{
+ "id": "nk-640",
+ "artist": "En Vogue",
+ "title": "Don't Let Go (Love)",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.53,
+ "drift_max": 2.05,
+ "audio_dur": 258.3,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "nk-661",
+ "artist": "James Taylor",
+ "title": "Fire and Rain",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.36,
+ "drift_max": 0.38,
+ "audio_dur": 189.9,
+ "path": "fast",
+ "mode": "ok"
+}
