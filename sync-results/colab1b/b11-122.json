@@ -1,0 +1,12 @@
+{
+ "id": "b11-122",
+ "artist": "Maroon 5",
+ "title": "Animals",
+ "lang": "en",
+ "n_anchor": 68,
+ "median_offset": -0.29,
+ "drift_max": 0.4,
+ "audio_dur": 231.2,
+ "path": "fast",
+ "mode": "ok"
+}
