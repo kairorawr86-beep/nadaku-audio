@@ -1,0 +1,14 @@
+{
+ "id": "b9-319",
+ "artist": "Keane",
+ "title": "Everybody's Changing",
+ "lang": "cy",
+ "n_anchor": 6,
+ "median_offset": -0.82,
+ "drift_max": 11.17,
+ "audio_dur": 210.8,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:20.76] You say, you wander your own land\n[00:31.16] But when I think about it, I don't see how you can\n[00:41.78] You're aching, you're breaking\n[00:46.12] And I can see the pain in your eyes\n[00:51.88] Says Everybody's Changing, and I don't know why\n[01:09.05] So little time\n[01:16.85] Try to understand that I'm\n[01:25.29] Trying to make a move just to stay in the game\n[01:33.70] I try to stay awake and remember my name\n[01:41.84] But Everybody's Changing, and I don't feel the same\n[02:15.80] You're gone from here\n[02:20.40] Soon you will disappear, fading into beautiful light\n[02:32.22] 'Cause Everybody's Changing, and I don't feel right\n[02:49.90] So little time\n[02:54.23] Try to understand that I'm\n[02:59.23] Trying to make a move just to stay in the game\n[03:03.90] I try to stay awake and remember my name\n[03:08.77] But Everybody's Changing, and I don't feel the same\n[03:33.50] So little time\n[03:38.23] Try to understand that I'm\n[03:43.15] Trying to make a move just to stay in the game\n[03:47.99] I try to stay awake and remember my name\n[03:52.98] But Everybody's Changing, and I don't feel the same\n[04:01.31] Oh, Everybody's Changing, and I don't feel the same",
+ "warn": "last cue melewati durasi"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b9-307",
+ "artist": "John Lennon",
+ "title": "Jealous Guy",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": -2.78,
+ "drift_max": 1.84,
+ "audio_dur": 240.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.75
+}
