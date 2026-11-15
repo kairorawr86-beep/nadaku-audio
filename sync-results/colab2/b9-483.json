@@ -1,0 +1,12 @@
+{
+ "id": "b9-483",
+ "artist": "The Temptations",
+ "title": "My Girl",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": 0.03,
+ "drift_max": 2.06,
+ "audio_dur": 157.1,
+ "path": "fast",
+ "mode": "ok"
+}
