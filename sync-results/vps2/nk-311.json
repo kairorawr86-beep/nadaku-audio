@@ -1,0 +1,14 @@
+{
+ "id": "nk-311",
+ "artist": "Kunto Aji",
+ "title": "Pilu Membiru",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": -0.57,
+ "drift_max": 22.68,
+ "audio_dur": 148.9,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:11.42] Akhirnya, aku lihat lagi\n[00:21.02] Sederhana, tanpa banyak cela\n[00:28.46] Wangimu berlalu\n[00:34.72] Akhirnya, aku lihat lagi\n[00:39.98] Jemarimu yang bergerak bebas\n[00:44.25] Seiring tawamu\n[00:57.46] Tak ada yang seindah matamu\n[01:03.42] Hanya rembulan\n[01:08.16] Tak ada yang selembut sikapmu\n[01:13.47] Hanya lautan\n[01:18.66] Tak tergantikan\n[01:25.28] Oh, walau kita tak lagi saling menyapa\n[01:38.58] Akhirnya, aku lihat lagi\n[01:43.00] Akhirnya, aku temui, oh-oh\n[01:53.80] Tercekat lidahku\n[02:01.63] Masih banyak yang belum sempat\n[02:03.57] Aku katakan padamu\n[02:06.24] Masih banyak yang belum sempat\n[02:08.24] Aku sampaikan padamu\n[02:10.96] Masih banyak yang belum sempat\n[02:12.91] Aku katakan padamu\n[02:15.72] Masih banyak yang belum sempat\n[02:17.62] Aku sampaikan padamu (padamu)\n[02:20.34] Masih banyak yang belum sempat\n[02:22.26] Aku katakan padamu\n[02:25.00] Masih banyak yang belum sempat\n[02:29.64] Aku sampaikan padamu\n[02:35.93] Tak ada yang seindah matamu\n[02:41.54] Hanya rembulan\n[02:47.03] Tak ada yang selembut sikapmu\n[02:52.66] Hanya lautan\n[02:58.01] Tak tergantikan\n[03:02.33] Oh, walau kita tak lagi saling menyapa",
+ "warn": "last cue melewati durasi"
+}

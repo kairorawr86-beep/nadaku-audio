@@ -1,0 +1,13 @@
+{
+ "id": "nk-304",
+ "artist": "Kahitna",
+ "title": "Cerita Cinta",
+ "lang": "id",
+ "n_anchor": 12,
+ "median_offset": 5.11,
+ "drift_max": 1.16,
+ "audio_dur": 138.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.0
+}

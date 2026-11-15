@@ -1,0 +1,14 @@
+{
+ "id": "nk-342",
+ "artist": "Radja",
+ "title": "Jujur",
+ "lang": "id",
+ "n_anchor": 9,
+ "median_offset": -1.24,
+ "drift_max": 10.23,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:28.01] Hu-uh-hu-uh-hu\n[00:39.00] Duhai kekasih, pujaan hatiku\n[00:44.16] Dapatkah kau memberiku satu arti?\n[00:48.92] Sedikit rasa yang bisa kumengerti\n[00:55.28] Bukan sumpah atau janji\n[01:02.48] Buktikanlah bila kau ada cinta\n[01:08.02] Setulus hatimu bisa menerima\n[01:14.08] Sebatas kejujuran yang kau miliki\n[01:20.34] Bukan sekedar bersama\n[01:29.56] Jujurlah padaku bila kau tak lagi cinta\n[01:31.24] Tinggalkanlah aku bila tak mungkin bersama\n[01:32.90] Jauhi diriku, lupakanlah aku, ho-ho, wo-ho-ho\n[01:36.29] Jujurlah padaku bila kau tak lagi cinta\n[01:38.04] Tinggalkanlah aku bila tak mungkin bersama\n[01:39.74] Jauhi diriku, lupakanlah aku selamanya\n[01:59.37] Buktikanlah bila kau ada cinta\n[02:04.46] Setulus hatimu bisa menerima\n[02:10.69] Sebatas kejujuran yang kau miliki\n[02:16.50] Bukan sekedar bersama\n[02:45.70] Jujurlah padaku bila kau tak lagi cinta\n[02:51.76] Tinggalkanlah aku bila tak mungkin bersama\n[02:57.83] Jauhi diriku, lupakanlah aku, ho-ho-wo-ho-ho\n[03:09.85] Jujurlah padaku bila kau tak lagi cinta\n[03:15.93] Tinggalkanlah aku bila tak mungkin bersama\n[03:21.81] Jauhi diriku, lupakanlah aku selamanya",
+ "warn": "last cue melewati durasi"
+}

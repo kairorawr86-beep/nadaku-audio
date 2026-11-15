@@ -1,0 +1,13 @@
+{
+ "id": "nk-330",
+ "artist": "Nelly",
+ "title": "Dilemma ft. Kelly Rowland",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 21.16,
+ "drift_max": 0.74,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 21.25
+}
