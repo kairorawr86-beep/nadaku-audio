@@ -1,0 +1,12 @@
+{
+ "id": "b8-168",
+ "artist": "Taylor Swift",
+ "title": "Willow",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": -0.52,
+ "drift_max": 0.51,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

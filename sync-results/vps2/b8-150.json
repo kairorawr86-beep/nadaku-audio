@@ -1,0 +1,12 @@
+{
+ "id": "b8-150",
+ "artist": "Michael Bublé",
+ "title": "Feeling Good",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -0.26,
+ "drift_max": 2.07,
+ "audio_dur": 131.7,
+ "path": "fast",
+ "mode": "ok"
+}

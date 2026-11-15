@@ -1,0 +1,12 @@
+{
+ "id": "b8-126",
+ "artist": "Whitney Houston",
+ "title": "Greatest Love of All",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 1.24,
+ "drift_max": 0.71,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "ok"
+}

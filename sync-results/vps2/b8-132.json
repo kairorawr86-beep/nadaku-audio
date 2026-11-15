@@ -1,0 +1,12 @@
+{
+ "id": "b8-132",
+ "artist": "Led Zeppelin",
+ "title": "Whole Lotta Love",
+ "lang": "en",
+ "n_anchor": 4,
+ "median_offset": -1.08,
+ "drift_max": 0.0,
+ "audio_dur": 66.8,
+ "path": "fast",
+ "mode": "ok"
+}
