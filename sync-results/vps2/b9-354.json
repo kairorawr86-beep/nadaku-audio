@@ -1,0 +1,13 @@
+{
+ "id": "b9-354",
+ "artist": "Mariah Carey",
+ "title": "Vision Of Love",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -1.61,
+ "drift_max": 1.54,
+ "audio_dur": 148.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
