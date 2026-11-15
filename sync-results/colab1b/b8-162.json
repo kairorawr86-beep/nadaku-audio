@@ -1,0 +1,13 @@
+{
+ "id": "b8-162",
+ "artist": "Daft Punk",
+ "title": "Harder, Better, Faster, Stronger",
+ "lang": "ja",
+ "n_anchor": 3,
+ "median_offset": -116.71,
+ "drift_max": 0.0,
+ "audio_dur": 219.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -116.75
+}

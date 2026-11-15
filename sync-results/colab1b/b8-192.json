@@ -1,0 +1,12 @@
+{
+ "id": "b8-192",
+ "artist": "Dua Lipa",
+ "title": "Break My Heart",
+ "lang": "en",
+ "n_anchor": 60,
+ "median_offset": -0.43,
+ "drift_max": 0.47,
+ "audio_dur": 218.8,
+ "path": "fast",
+ "mode": "ok"
+}
