@@ -1,0 +1,14 @@
+{
+ "id": "b7-39",
+ "artist": "Isyana Sarasvati",
+ "title": "IL SOGNO",
+ "lang": "la",
+ "n_anchor": 6,
+ "median_offset": -3.11,
+ "drift_max": 3.37,
+ "audio_dur": 141.9,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:10.44] Question every second when I'm dreaming\n[00:15.80] I feel it alive\n[00:23.58] Il sogno\n[00:35.22] Climbing to the top of Himalaya\n[00:39.21] I need to survive\n[00:46.32] All of the scenes they keep on playing\n[00:54.50] Running around in never ending motion\n[00:59.72] Is it a sign of what is coming\n[01:05.06] Either a gift or a burden\n[01:30.16] Question every second when I'm dreaming\n[01:33.36] I feel it alive\n[01:38.56] Blinded by a mist under the moonlight\n[01:41.14] My vision revives\n[01:47.67] Il sogno\n[02:09.51] Il sogno sembra di essere sempre vivo\n[02:28.45] Ho\n[02:47.21] Il sogno sembra di essere sempre vivo",
+ "warn": "last cue melewati durasi"
+}

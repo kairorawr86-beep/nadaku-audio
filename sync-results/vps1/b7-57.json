@@ -1,0 +1,12 @@
+{
+ "id": "b7-57",
+ "artist": "Tulus",
+ "title": "Manusia Kuat",
+ "lang": "nn",
+ "n_anchor": 16,
+ "median_offset": -1.12,
+ "drift_max": 0.32,
+ "audio_dur": 149.0,
+ "path": "fast",
+ "mode": "ok"
+}

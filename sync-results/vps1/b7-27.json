@@ -1,0 +1,12 @@
+{
+ "id": "b7-27",
+ "artist": "Hindia",
+ "title": "Cincin",
+ "lang": "id",
+ "n_anchor": 20,
+ "median_offset": -0.4,
+ "drift_max": 1.26,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "ok"
+}
