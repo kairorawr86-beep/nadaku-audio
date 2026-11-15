@@ -1,0 +1,13 @@
+{
+ "id": "b8-80",
+ "artist": "Chrisye",
+ "title": "Lilin-Lilin Kecil",
+ "lang": "id",
+ "n_anchor": 11,
+ "median_offset": 13.26,
+ "drift_max": 2.14,
+ "audio_dur": 268.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 13.25
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b8-110",
+ "artist": "Doja Cat",
+ "title": "Woman",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": 0.02,
+ "drift_max": 2.36,
+ "audio_dur": 144.3,
+ "path": "fast",
+ "mode": "ok"
+}
