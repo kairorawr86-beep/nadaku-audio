@@ -1,0 +1,14 @@
+{
+ "id": "b12-6",
+ "artist": "T.R.I.A.D",
+ "title": "Selir Hati",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": -0.55,
+ "drift_max": 4.17,
+ "audio_dur": 147.5,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:11.32] Aku cinta kamu\n[00:16.60] Tapi kamu tak cinta aku\n[00:22.82] Ku tak pernah tahu apa salahku\n[00:29.72] Hingga kamu tak suka aku\n[00:33.62] Tak mau aku\n[00:37.24] Mungkin di matamu\n[00:41.54] Aku tak pantas untukmu\n[00:48.23] Tapi tak mengapa\n[00:52.14] Aku sadari kekuranganku ini\n[01:03.94] Aku rela oh aku rela\n[01:09.24] Bila aku hanya menjadi\n[01:16.56] Selir hatimu untuk selamanya\n[01:21.52] Oh, aku rela, kurela\n[01:30.48] Aku sudah bilang\n[01:34.80] Ku 'kan terus mengagumi\n[01:42.08] Ku 'kan terus cinta\n[01:45.81] Terus merindu\n[01:48.72] Meski kau diam saja\n[01:53.38] Kau diam saja\n[01:59.16] Aku rela oh aku rela\n[02:04.22] Bila aku hanya menjadi\n[02:09.08] Selir hatimu untuk selamanya\n[02:12.11] Oh, aku rela, kurela\n[02:16.08] Aku rela oh aku rela\n[02:20.84] Bila aku hanya menjadi\n[02:26.71] Selir hatimu untuk selamanya\n[02:31.68] Oh, aku rela, kurela\n[02:36.85] Oh, aku rela, kurela\n[03:05.37] Aku rela oh aku rela\n[03:10.10] Bila aku hanya menjadi (hanya menjadi)\n[03:16.46] Selir hatimu untuk selamanya\n[03:21.18] Oh, aku rela kurela\n[03:26.59] Oh, aku rela kurela\n[03:32.05] Oh, aku rela kurela\n[03:37.32] Oh, aku rela ku rela",
+ "warn": "last cue melewati durasi"
+}

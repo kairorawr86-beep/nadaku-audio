@@ -1,0 +1,12 @@
+{
+ "id": "b11-200",
+ "artist": "MONO",
+ "title": "EM LÀ",
+ "lang": "vi",
+ "n_anchor": 23,
+ "median_offset": -0.36,
+ "drift_max": 1.27,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "ok"
+}
