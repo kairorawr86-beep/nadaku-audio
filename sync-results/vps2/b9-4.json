@@ -1,0 +1,12 @@
+{
+ "id": "b9-4",
+ "artist": "3 Doors Down",
+ "title": "Here Without You",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.64,
+ "drift_max": 1.26,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

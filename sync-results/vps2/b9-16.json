@@ -1,0 +1,12 @@
+{
+ "id": "b9-16",
+ "artist": "ABBA",
+ "title": "Knowing Me Knowing You",
+ "lang": "mi",
+ "n_anchor": 19,
+ "median_offset": -0.47,
+ "drift_max": 2.52,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "ok"
+}

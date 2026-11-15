@@ -1,0 +1,13 @@
+{
+ "id": "b9-34",
+ "artist": "Alice In Chains",
+ "title": "Nutshell",
+ "lang": "en",
+ "n_anchor": 8,
+ "median_offset": 3.02,
+ "drift_max": 2.82,
+ "audio_dur": 149.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}
