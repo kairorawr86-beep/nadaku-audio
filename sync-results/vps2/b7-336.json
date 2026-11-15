@@ -1,0 +1,13 @@
+{
+ "id": "b7-336",
+ "artist": "Aerosmith",
+ "title": "Janie's Got a Gun",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": 9.07,
+ "drift_max": 1.34,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 9.0
+}

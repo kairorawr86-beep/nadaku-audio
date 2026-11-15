@@ -1,0 +1,13 @@
+{
+ "id": "b8-12",
+ "artist": "Andmesh",
+ "title": "Anugerah Terindah",
+ "lang": "id",
+ "n_anchor": 14,
+ "median_offset": 3.19,
+ "drift_max": 1.13,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.25
+}

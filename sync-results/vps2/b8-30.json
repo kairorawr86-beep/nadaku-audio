@@ -1,0 +1,14 @@
+{
+ "id": "b8-30",
+ "artist": "Aura Kasih",
+ "title": "Asmara",
+ "lang": "jw",
+ "n_anchor": 18,
+ "median_offset": -1.21,
+ "drift_max": 28.14,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:14.22] Ini kisah anak manusia\n[00:20.66] Yang bertemu dengan rasa yang indah\n[00:27.72] Yang bisa buat mabuk\n[00:35.88] Buat melayang\n[00:41.12] Rasa candu tiada tandingannya\n[00:48.08] Rasa ingin selalu mengulanginya\n[00:54.94] Yang bisa buat buta\n[01:03.56] Buat melayang\n[01:06.94] Asmara begitu panggilannya\n[01:11.26] Asmara kadang suka kadang duka\n[01:14.84] Asmara bisa membuat semua orang tergila-gila\n[01:22.50] Asmara begitu panggilannya\n[01:25.00] Asmara kadang suka kadang duka\n[01:28.56] Asmara bisa membuat semua orang tergila-gila\n[01:42.80] Rasa candu tiada tandingannya\n[01:50.00] Rasa ingin selalu mengulanginya\n[01:56.64] Yang bisa buat buta (yang bisa buat buta)\n[01:58.68] Buat melayang\n[02:00.14] Asmara begitu panggilannya\n[02:01.04] Asmara kadang suka kadang duka\n[02:01.96] Asmara bisa membuat semua orang tergila-gila\n[02:03.96] Asmara begitu panggilannya\n[02:04.86] Asmara kadang suka kadang duka\n[02:05.78] Asmara bisa membuat semua orang tergila-gila\n[02:08.11] Tak tertahankan bila sudah\n[02:10.06] Panah asmara menembus jantung hatimu\n[02:18.26] Asmara begitu panggilannya\n[02:19.15] Asmara kadang suka kadang duka\n[02:20.11] Asmara bisa membuat semua orang\n[02:22.12] Asmara begitu panggilannya\n[02:22.92] Asmara kadang suka kadang duka\n[02:23.92] Asmara bisa membuat semua orang tergila-gila\n[02:25.85] Asmara begitu panggilannya\n[02:26.78] Asmara kadang suka kadang duka\n[02:30.01] Asmara bisa membuat semua orang tergila-gila\n[02:40.37] Asmara, asmara\n[02:45.08] Bisa membuat semua orang tergila-gila\n[02:49.87] Asmara, asmara, asmara\n[02:58.60] Bisa membuat semua orang tergila-gila",
+ "warn": "last cue melewati durasi"
+}

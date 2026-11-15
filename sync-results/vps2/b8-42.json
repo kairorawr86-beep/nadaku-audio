@@ -1,0 +1,12 @@
+{
+ "id": "b8-42",
+ "artist": "Samsons",
+ "title": "Akhir Rasa Ini",
+ "lang": "la",
+ "n_anchor": 10,
+ "median_offset": -0.41,
+ "drift_max": 2.35,
+ "audio_dur": 144.5,
+ "path": "fast",
+ "mode": "ok"
+}
