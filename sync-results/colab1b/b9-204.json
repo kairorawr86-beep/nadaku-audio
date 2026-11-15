@@ -1,0 +1,12 @@
+{
+ "id": "b9-204",
+ "artist": "Default",
+ "title": "Wasting My Time",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.5,
+ "drift_max": 1.79,
+ "audio_dur": 249.9,
+ "path": "fast",
+ "mode": "ok"
+}

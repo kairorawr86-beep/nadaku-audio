@@ -1,0 +1,12 @@
+{
+ "id": "b9-222",
+ "artist": "Drake",
+ "title": "God's Plan",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.72,
+ "drift_max": 0.99,
+ "audio_dur": 195.9,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b9-216",
+ "artist": "Doja Cat",
+ "title": "Kiss Me More",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": 0.14,
+ "drift_max": 1.12,
+ "audio_dur": 314.0,
+ "path": "fast",
+ "mode": "ok"
+}
