@@ -1,0 +1,12 @@
+{
+ "id": "b9-244",
+ "artist": "Elton John",
+ "title": "Tiny Dancer",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": -0.64,
+ "drift_max": 2.89,
+ "audio_dur": 397.2,
+ "path": "fast",
+ "mode": "ok"
+}

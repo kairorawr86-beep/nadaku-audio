@@ -1,0 +1,12 @@
+{
+ "id": "b9-232",
+ "artist": "Eagles",
+ "title": "Peaceful Easy Feeling",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -1.21,
+ "drift_max": 1.54,
+ "audio_dur": 249.4,
+ "path": "fast",
+ "mode": "ok"
+}
