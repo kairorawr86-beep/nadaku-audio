@@ -1,0 +1,13 @@
+{
+ "id": "nk-701",
+ "artist": "New Kids On The Block",
+ "title": "Step by step",
+ "lang": "en",
+ "n_anchor": 46,
+ "median_offset": 1.83,
+ "drift_max": 1.69,
+ "audio_dur": 266.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.75
+}
