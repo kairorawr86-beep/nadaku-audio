@@ -1,0 +1,13 @@
+{
+ "id": "b11-36",
+ "artist": "Didi Kempot",
+ "title": "Terminal Tirtonadi",
+ "lang": "jw",
+ "n_anchor": 3,
+ "median_offset": -48.27,
+ "drift_max": 0.0,
+ "audio_dur": 146.5,
+ "path": "demucs",
+ "mode": "offset",
+ "offset": -48.25
+}
