@@ -1,0 +1,13 @@
+{
+ "id": "b9-381",
+ "artist": "Oasis",
+ "title": "Champagne Supernova",
+ "lang": "id",
+ "n_anchor": 5,
+ "median_offset": -104.38,
+ "drift_max": 0.0,
+ "audio_dur": 447.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -104.5
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b9-345",
+ "artist": "M2M",
+ "title": "Mirror Mirror",
+ "lang": "en",
+ "n_anchor": 39,
+ "median_offset": -0.16,
+ "drift_max": 2.22,
+ "audio_dur": 200.0,
+ "path": "fast",
+ "mode": "ok"
+}

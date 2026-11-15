@@ -1,0 +1,12 @@
+{
+ "id": "b9-333",
+ "artist": "Lauryn Hill",
+ "title": "Ex-Factor",
+ "lang": "en",
+ "n_anchor": 44,
+ "median_offset": 0.33,
+ "drift_max": 2.24,
+ "audio_dur": 317.2,
+ "path": "fast",
+ "mode": "ok"
+}
