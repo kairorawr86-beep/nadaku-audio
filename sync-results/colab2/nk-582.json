@@ -1,0 +1,13 @@
+{
+ "id": "nk-582",
+ "artist": "The Beatles",
+ "title": "Yesterday",
+ "lang": "en",
+ "n_anchor": 9,
+ "median_offset": -0.66,
+ "drift_max": 12.7,
+ "audio_dur": 125.6,
+ "path": "fast",
+ "mode": "retimed",
+ "lrc": "[00:28.58] Yesterday\n[00:30.08] All my troubles seemed so far away\n[00:32.24] Now it looks as though they're here to stay\n[00:34.02] Oh, I believe in yesterday\n[00:36.32] Suddenly\n[00:37.33] I'm not half the man I used to be\n[00:39.56] There's a shadow hanging over me\n[00:41.35] Oh, yesterday came suddenly\n[00:43.72] Why she had to go\n[00:45.62] I don't know, she wouldn't say\n[00:47.80] I said something wrong\n[00:53.62] Now I long for yesterday\n[00:57.56] Yesterday\n[01:00.24] Love was such an easy game to play\n[01:05.32] Now I need a place to hide away\n[01:09.86] Oh, I believe in yesterday\n[01:15.55] Why she had to go\n[01:20.48] I don't know, she wouldn't say\n[01:25.18] I said something wrong\n[01:29.04] Now I long for yesterday\n[01:34.02] Yesterday\n[01:39.36] Love was such an easy game to play\n[01:44.10] Now I need a place to hide away\n[01:48.30] Oh, I believe in yesterday"
+}

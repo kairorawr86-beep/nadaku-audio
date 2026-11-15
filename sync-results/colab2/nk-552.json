@@ -1,0 +1,13 @@
+{
+ "id": "nk-552",
+ "artist": "Slank",
+ "title": "Balikin",
+ "lang": "jw",
+ "n_anchor": 30,
+ "median_offset": -1.34,
+ "drift_max": 1.76,
+ "audio_dur": 262.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

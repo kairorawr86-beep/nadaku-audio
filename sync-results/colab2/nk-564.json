@@ -1,0 +1,12 @@
+{
+ "id": "nk-564",
+ "artist": "The Black Eyed Peas",
+ "title": "Where Is The Love?",
+ "lang": "en",
+ "n_anchor": 58,
+ "median_offset": -0.99,
+ "drift_max": 0.8,
+ "audio_dur": 224.5,
+ "path": "fast",
+ "mode": "ok"
+}

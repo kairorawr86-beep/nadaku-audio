@@ -1,0 +1,13 @@
+{
+ "id": "nk-570",
+ "artist": "The TITANS",
+ "title": "Rasa Ini",
+ "lang": "nn",
+ "n_anchor": 17,
+ "median_offset": 41.23,
+ "drift_max": 0.79,
+ "audio_dur": 328.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 41.25
+}
