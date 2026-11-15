@@ -1,0 +1,12 @@
+{
+ "id": "b13-10",
+ "artist": "Drive",
+ "title": "Melepasmu",
+ "lang": "jw",
+ "n_anchor": 29,
+ "median_offset": -1.07,
+ "drift_max": 0.7,
+ "audio_dur": 250.0,
+ "path": "fast",
+ "mode": "ok"
+}
