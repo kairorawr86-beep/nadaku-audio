@@ -1,0 +1,13 @@
+{
+ "id": "b11-181",
+ "artist": "Kenshi Yonezu",
+ "title": "Lemon",
+ "lang": "ja",
+ "n_anchor": 36,
+ "median_offset": -1.31,
+ "drift_max": 0.78,
+ "audio_dur": 241.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

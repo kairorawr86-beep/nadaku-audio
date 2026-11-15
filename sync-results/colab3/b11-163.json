@@ -1,0 +1,13 @@
+{
+ "id": "b11-163",
+ "artist": "Sơn Tùng M-TP",
+ "title": "Nơi Này Có Anh",
+ "lang": "vi",
+ "n_anchor": 9,
+ "median_offset": 1.6,
+ "drift_max": 2.46,
+ "audio_dur": 239.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}
