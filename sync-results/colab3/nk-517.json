@@ -1,0 +1,13 @@
+{
+ "id": "nk-517",
+ "artist": "Outkast",
+ "title": "Hey Ya!",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": 67.66,
+ "drift_max": 1.05,
+ "audio_dur": 298.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 67.75
+}

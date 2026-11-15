@@ -1,0 +1,13 @@
+{
+ "id": "nk-554",
+ "artist": "Dan Hill",
+ "title": "Sometimes When We Touch",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -1.5,
+ "drift_max": 0.64,
+ "audio_dur": 230.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

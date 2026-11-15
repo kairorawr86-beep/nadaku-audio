@@ -1,0 +1,13 @@
+{
+ "id": "nk-511",
+ "artist": "Ne-Yo",
+ "title": "So Sick",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": 1.38,
+ "drift_max": 0.89,
+ "audio_dur": 206.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}

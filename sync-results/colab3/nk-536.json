@@ -1,0 +1,13 @@
+{
+ "id": "nk-536",
+ "artist": "Rod Stewart",
+ "title": "Have I Told You Lately (Live Unplugged)",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 6.24,
+ "drift_max": 1.12,
+ "audio_dur": 239.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.25
+}

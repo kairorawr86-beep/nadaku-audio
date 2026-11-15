@@ -1,0 +1,13 @@
+{
+ "id": "nk-529",
+ "artist": "Ran",
+ "title": "Begitu Saja",
+ "lang": "ms",
+ "n_anchor": 31,
+ "median_offset": 2.53,
+ "drift_max": 1.94,
+ "audio_dur": 254.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.5
+}
