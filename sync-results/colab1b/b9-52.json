@@ -1,0 +1,12 @@
+{
+ "id": "b9-52",
+ "artist": "Amy Winehouse",
+ "title": "Rehab",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": -0.67,
+ "drift_max": 0.87,
+ "audio_dur": 210.5,
+ "path": "fast",
+ "mode": "ok"
+}

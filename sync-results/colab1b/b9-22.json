@@ -1,0 +1,12 @@
+{
+ "id": "b9-22",
+ "artist": "Adele",
+ "title": "When We Were Young",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": -0.77,
+ "drift_max": 1.44,
+ "audio_dur": 290.9,
+ "path": "fast",
+ "mode": "ok"
+}
