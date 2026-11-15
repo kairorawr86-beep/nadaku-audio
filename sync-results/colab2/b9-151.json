@@ -1,0 +1,13 @@
+{
+ "id": "b9-151",
+ "artist": "Panbers",
+ "title": "Gereja Tua",
+ "lang": "id",
+ "n_anchor": 29,
+ "median_offset": -2.41,
+ "drift_max": 1.46,
+ "audio_dur": 264.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.5
+}
