@@ -12,6 +12,10 @@ if [ ! -d "$REPO_DIR/.git" ]; then
   git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/kairorawr86-beep/nadaku-audio.git" "$REPO_DIR" >/dev/null 2>&1
 fi
 cd "$REPO_DIR"
+# Sinkronkan dengan remote dulu (hindari push ditolak non-fast-forward
+# karena commit dari mesin lain, mis. file pipeline/)
+git fetch origin main >/dev/null 2>&1 || true
+git reset --hard origin/main >/dev/null 2>&1 || true
 git config user.email "pipeline@nadakufy.my.id"
 git config user.name "nadaku-sync-pipeline"
 mkdir -p "sync-results/${LABEL}"
