@@ -1,0 +1,13 @@
+{
+ "id": "b9-300",
+ "artist": "Jeremy Zucker",
+ "title": "Comethru",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -1.73,
+ "drift_max": 0.6,
+ "audio_dur": 179.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b9-318",
+ "artist": "Katy Perry",
+ "title": "Wide Awake",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -0.55,
+ "drift_max": 1.02,
+ "audio_dur": 221.0,
+ "path": "fast",
+ "mode": "ok"
+}
