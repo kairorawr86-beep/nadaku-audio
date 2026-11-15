@@ -1,0 +1,12 @@
+{
+ "id": "b9-246",
+ "artist": "Elton John",
+ "title": "Candle In The Wind",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -0.45,
+ "drift_max": 0.59,
+ "audio_dur": 136.3,
+ "path": "fast",
+ "mode": "ok"
+}

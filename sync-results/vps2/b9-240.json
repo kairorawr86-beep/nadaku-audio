@@ -1,0 +1,12 @@
+{
+ "id": "b9-240",
+ "artist": "Ed Sheeran",
+ "title": "Shivers",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -0.5,
+ "drift_max": 0.42,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b9-270",
+ "artist": "Frank Sinatra",
+ "title": "Fly Me To The Moon",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": 0.38,
+ "drift_max": 2.16,
+ "audio_dur": 144.2,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b9-228",
+ "artist": "Duffy",
+ "title": "Mercy",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -1.84,
+ "drift_max": 1.07,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b9-234",
+ "artist": "Eagles",
+ "title": "Wasted Time",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": -1.3,
+ "drift_max": 1.2,
+ "audio_dur": 146.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
