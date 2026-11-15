@@ -1,0 +1,12 @@
+{
+ "id": "b9-288",
+ "artist": "J Balvin",
+ "title": "Mi Gente",
+ "lang": "es",
+ "n_anchor": 31,
+ "median_offset": 0.16,
+ "drift_max": 0.9,
+ "audio_dur": 146.1,
+ "path": "fast",
+ "mode": "ok"
+}

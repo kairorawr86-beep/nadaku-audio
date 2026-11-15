@@ -1,0 +1,13 @@
+{
+ "id": "b9-282",
+ "artist": "I Am Kloot",
+ "title": "To The Brink?",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 12.7,
+ "drift_max": 1.41,
+ "audio_dur": 145.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 12.75
+}
