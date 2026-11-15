@@ -1,0 +1,13 @@
+{
+ "id": "b7-78",
+ "artist": "Ungu",
+ "title": "Percaya Padaku",
+ "lang": "id",
+ "n_anchor": 26,
+ "median_offset": 3.03,
+ "drift_max": 1.6,
+ "audio_dur": 231.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}

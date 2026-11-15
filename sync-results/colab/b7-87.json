@@ -1,0 +1,13 @@
+{
+ "id": "b7-87",
+ "artist": "RAN",
+ "title": "Kulakukan Semua Untukmu",
+ "lang": "id",
+ "n_anchor": 32,
+ "median_offset": 7.31,
+ "drift_max": 0.75,
+ "audio_dur": 235.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.25
+}
