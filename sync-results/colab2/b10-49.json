@@ -1,0 +1,12 @@
+{
+ "id": "b10-49",
+ "artist": "Twenty One Pilots",
+ "title": "Ride",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.69,
+ "drift_max": 1.17,
+ "audio_dur": 225.2,
+ "path": "fast",
+ "mode": "ok"
+}

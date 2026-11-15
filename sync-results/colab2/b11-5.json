@@ -1,0 +1,12 @@
+{
+ "id": "b11-5",
+ "artist": "Denny Caknan",
+ "title": "Sinarengan",
+ "lang": "jw",
+ "n_anchor": 7,
+ "median_offset": -0.41,
+ "drift_max": 1.32,
+ "audio_dur": 322.3,
+ "path": "demucs",
+ "mode": "ok"
+}

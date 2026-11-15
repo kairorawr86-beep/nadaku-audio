@@ -1,0 +1,13 @@
+{
+ "id": "b11-17",
+ "artist": "Guyon Waton",
+ "title": "Lungaku",
+ "lang": "id",
+ "n_anchor": 13,
+ "median_offset": 2.1,
+ "drift_max": 2.26,
+ "audio_dur": 354.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.0
+}

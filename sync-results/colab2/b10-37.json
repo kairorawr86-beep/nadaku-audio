@@ -1,0 +1,13 @@
+{
+ "id": "b10-37",
+ "artist": "Fall Out Boy",
+ "title": "Centuries",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": 11.25,
+ "drift_max": 0.75,
+ "audio_dur": 235.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 11.25
+}
