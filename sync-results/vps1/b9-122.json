@@ -1,0 +1,12 @@
+{
+ "id": "b9-122",
+ "artist": "Boyz II Men",
+ "title": "Water Runs Dry",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -0.17,
+ "drift_max": 1.25,
+ "audio_dur": 147.5,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b9-134",
+ "artist": "Bruno Mars",
+ "title": "Talking To The Moon",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.7,
+ "drift_max": 0.86,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "ok"
+}

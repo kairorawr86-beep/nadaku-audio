@@ -1,0 +1,12 @@
+{
+ "id": "b9-110",
+ "artist": "Bon Jovi",
+ "title": "Bed Of Roses",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -0.52,
+ "drift_max": 0.57,
+ "audio_dur": 146.3,
+ "path": "fast",
+ "mode": "ok"
+}
