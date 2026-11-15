@@ -1,0 +1,13 @@
+{
+ "id": "nk-144",
+ "artist": "Whitney Houston",
+ "title": "I Wanna Dance With Somebody (Who Loves Me)",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": 24.06,
+ "drift_max": 1.17,
+ "audio_dur": 304.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 24.0
+}
