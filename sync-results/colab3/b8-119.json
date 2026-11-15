@@ -1,0 +1,13 @@
+{
+ "id": "b8-119",
+ "artist": "Rihanna",
+ "title": "SOS",
+ "lang": "en",
+ "n_anchor": 62,
+ "median_offset": -1.52,
+ "drift_max": 1.72,
+ "audio_dur": 238.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

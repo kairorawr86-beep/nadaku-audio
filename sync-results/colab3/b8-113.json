@@ -1,0 +1,13 @@
+{
+ "id": "b8-113",
+ "artist": "Noah Kahan, Post Malone",
+ "title": "Dial Drunk",
+ "lang": "en",
+ "n_anchor": 51,
+ "median_offset": 3.78,
+ "drift_max": 0.46,
+ "audio_dur": 214.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.75
+}

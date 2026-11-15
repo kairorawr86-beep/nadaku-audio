@@ -1,0 +1,13 @@
+{
+ "id": "b8-161",
+ "artist": "Daft Punk",
+ "title": "Around the World",
+ "lang": "km",
+ "n_anchor": 3,
+ "median_offset": -24.44,
+ "drift_max": 0.0,
+ "audio_dur": 429.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -24.5
+}

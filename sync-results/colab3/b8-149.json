@@ -1,0 +1,12 @@
+{
+ "id": "b8-149",
+ "artist": "The Goo Goo Dolls",
+ "title": "Slide",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.08,
+ "drift_max": 0.7,
+ "audio_dur": 208.6,
+ "path": "fast",
+ "mode": "ok"
+}
