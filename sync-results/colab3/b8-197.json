@@ -1,0 +1,13 @@
+{
+ "id": "b8-197",
+ "artist": "The Weeknd, Playboi Carti",
+ "title": "Timeless",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": -1.78,
+ "drift_max": 0.62,
+ "audio_dur": 256.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

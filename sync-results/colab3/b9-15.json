@@ -1,0 +1,12 @@
+{
+ "id": "b9-15",
+ "artist": "Andra & The Backbone",
+ "title": "Dengarkan Aku",
+ "lang": "id",
+ "n_anchor": 15,
+ "median_offset": -0.98,
+ "drift_max": 1.4,
+ "audio_dur": 190.0,
+ "path": "fast",
+ "mode": "ok"
+}

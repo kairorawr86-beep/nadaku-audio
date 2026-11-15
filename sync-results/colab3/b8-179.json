@@ -1,0 +1,13 @@
+{
+ "id": "b8-179",
+ "artist": "Charli xcx",
+ "title": "Apple",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": 4.76,
+ "drift_max": 0.94,
+ "audio_dur": 145.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.75
+}
