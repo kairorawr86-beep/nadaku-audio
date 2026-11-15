@@ -1,0 +1,13 @@
+{
+ "id": "nk-318",
+ "artist": "Mariah Carey",
+ "title": "Without You",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": 18.35,
+ "drift_max": 2.24,
+ "audio_dur": 250.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 18.25
+}

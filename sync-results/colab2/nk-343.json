@@ -1,0 +1,13 @@
+{
+ "id": "nk-343",
+ "artist": "Ran",
+ "title": "Dekat di Hati",
+ "lang": "pt",
+ "n_anchor": 3,
+ "median_offset": 10.89,
+ "drift_max": 0.0,
+ "audio_dur": 275.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 11.0
+}

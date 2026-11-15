@@ -1,0 +1,12 @@
+{
+ "id": "nk-324",
+ "artist": "Milky Chance",
+ "title": "Stolen Dance",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": -0.15,
+ "drift_max": 2.81,
+ "audio_dur": 299.8,
+ "path": "fast",
+ "mode": "ok"
+}

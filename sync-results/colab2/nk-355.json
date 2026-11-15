@@ -1,0 +1,13 @@
+{
+ "id": "nk-355",
+ "artist": "Savage Garden",
+ "title": "Truly Madly Deeply",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -1.4,
+ "drift_max": 1.0,
+ "audio_dur": 254.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
