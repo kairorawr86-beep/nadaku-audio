@@ -1,0 +1,13 @@
+{
+ "id": "b7-278",
+ "artist": "Lady Gaga",
+ "title": "Million Reasons",
+ "lang": "en",
+ "n_anchor": 44,
+ "median_offset": 49.53,
+ "drift_max": 0.46,
+ "audio_dur": 251.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 49.5
+}

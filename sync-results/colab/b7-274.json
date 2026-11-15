@@ -1,0 +1,13 @@
+{
+ "id": "b7-274",
+ "artist": "Christina Perri",
+ "title": "A Thousand Years",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": -1.46,
+ "drift_max": 0.56,
+ "audio_dur": 274.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

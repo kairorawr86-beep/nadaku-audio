@@ -1,0 +1,13 @@
+{
+ "id": "b7-301",
+ "artist": "Eminem",
+ "title": "Mockingbird",
+ "lang": "en",
+ "n_anchor": 77,
+ "median_offset": 6.6,
+ "drift_max": 2.16,
+ "audio_dur": 255.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.5
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-275",
+ "artist": "Christina Perri",
+ "title": "Jar of Hearts",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -4.52,
+ "drift_max": 1.34,
+ "audio_dur": 257.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -4.5
+}

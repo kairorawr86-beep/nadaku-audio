@@ -1,0 +1,13 @@
+{
+ "id": "b7-279",
+ "artist": "Lady Gaga",
+ "title": "Born This Way",
+ "lang": "en",
+ "n_anchor": 51,
+ "median_offset": 152.8,
+ "drift_max": 2.9,
+ "audio_dur": 439.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 152.75
+}

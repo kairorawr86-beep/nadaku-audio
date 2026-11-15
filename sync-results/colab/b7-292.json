@@ -1,0 +1,12 @@
+{
+ "id": "b7-292",
+ "artist": "Celine Dion",
+ "title": "I'm Alive",
+ "lang": "en",
+ "n_anchor": 36,
+ "median_offset": -0.62,
+ "drift_max": 0.78,
+ "audio_dur": 202.6,
+ "path": "fast",
+ "mode": "ok"
+}
