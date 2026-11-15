@@ -1,0 +1,13 @@
+{
+ "id": "nk-434",
+ "artist": "Bruno Mars",
+ "title": "When I Was Your Man",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": 10.85,
+ "drift_max": 0.91,
+ "audio_dur": 234.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 10.75
+}

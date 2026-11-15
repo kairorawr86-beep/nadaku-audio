@@ -1,0 +1,12 @@
+{
+ "id": "nk-392",
+ "artist": "Arctic Monkeys",
+ "title": "Do I Wanna Know?",
+ "lang": "en",
+ "n_anchor": 39,
+ "median_offset": 0.03,
+ "drift_max": 1.23,
+ "audio_dur": 249.3,
+ "path": "fast",
+ "mode": "ok"
+}

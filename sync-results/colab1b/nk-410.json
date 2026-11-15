@@ -1,0 +1,13 @@
+{
+ "id": "nk-410",
+ "artist": "Ardhito Pramono",
+ "title": "bitterlove",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 3.03,
+ "drift_max": 0.8,
+ "audio_dur": 205.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}
