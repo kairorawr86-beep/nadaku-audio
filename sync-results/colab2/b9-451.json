@@ -1,0 +1,12 @@
+{
+ "id": "b9-451",
+ "artist": "Stevie Wonder",
+ "title": "Isn't She Lovely",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -1.01,
+ "drift_max": 0.94,
+ "audio_dur": 381.7,
+ "path": "fast",
+ "mode": "ok"
+}
