@@ -1,0 +1,12 @@
+{
+ "id": "nk-200",
+ "artist": "Billie Eilish",
+ "title": "Everything I Wanted",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -0.38,
+ "drift_max": 1.4,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

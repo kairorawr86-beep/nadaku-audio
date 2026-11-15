@@ -1,0 +1,12 @@
+{
+ "id": "nk-206",
+ "artist": "Adele",
+ "title": "Easy On Me",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": -0.72,
+ "drift_max": 0.82,
+ "audio_dur": 145.4,
+ "path": "fast",
+ "mode": "ok"
+}
