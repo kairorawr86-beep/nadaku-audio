@@ -1,0 +1,12 @@
+{
+ "id": "b11-124",
+ "artist": "Katy Perry",
+ "title": "Teenage Dream",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": -0.64,
+ "drift_max": 1.58,
+ "audio_dur": 218.2,
+ "path": "fast",
+ "mode": "ok"
+}

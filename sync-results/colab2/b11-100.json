@@ -1,0 +1,12 @@
+{
+ "id": "b11-100",
+ "artist": "Radja",
+ "title": "Cinderella",
+ "lang": "id",
+ "n_anchor": 18,
+ "median_offset": -0.78,
+ "drift_max": 0.56,
+ "audio_dur": 205.3,
+ "path": "fast",
+ "mode": "ok"
+}
