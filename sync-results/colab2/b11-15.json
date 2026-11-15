@@ -1,0 +1,13 @@
+{
+ "id": "b11-15",
+ "artist": "Guyon Waton",
+ "title": "Sebatas Teman",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": -2.96,
+ "drift_max": 0.42,
+ "audio_dur": 305.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.0
+}
