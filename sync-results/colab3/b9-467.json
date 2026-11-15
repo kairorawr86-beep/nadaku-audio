@@ -1,0 +1,12 @@
+{
+ "id": "b9-467",
+ "artist": "The Beatles",
+ "title": "In My Life",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": -0.65,
+ "drift_max": 0.72,
+ "audio_dur": 135.3,
+ "path": "fast",
+ "mode": "ok"
+}

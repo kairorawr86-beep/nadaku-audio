@@ -1,0 +1,14 @@
+{
+ "id": "b10-3",
+ "artist": "Ahmad Dhani",
+ "title": "Sedang Ingin Bercinta",
+ "lang": "jw",
+ "n_anchor": 18,
+ "median_offset": 6.44,
+ "drift_max": 9.67,
+ "audio_dur": 235.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:10.96] Setiap ada kamu, mengapa jantungku berdetak?\n[00:16.34] Berdetak lebih kencang seperti genderang mau perang\n[00:21.88] Setiap ada kamu, mengapa darahku mengalir?\n[00:30.16] Mengalir lebih cepat dari ujung kaki ke ujung kepala\n[00:36.21] Setiap ada kamu, otakku berfikir\n[00:41.72] Bagaimana caranya untuk berdua bersama kamu\n[00:44.46] Aku sedang ingin bercinta karena\n[00:49.18] Mungkin ada kamu di sini, aku ingin\n[00:55.32] Aku sedang ingin bercinta karena\n[01:06.25] Mungkin ada kamu di sini, aku ingin\n[01:18.68] Setiap ada kamu, mengapa jantung ini\n[01:23.24] Berdetak lebih kencang seperti genderang mau perang?\n[01:29.64] Setiap ada kamu, mengapa darah ini\n[01:38.08] Mengalir lebih kencang dari ujung kaki ke ujung kepala?\n[01:41.76] Setiap ada kamu, mengapa jantungku berdetak?\n[01:47.15] Berdetak lebih cepat seperti genderang mau perang\n[01:53.10] Setiap ada kamu, mengapa darahku mengalir?\n[01:57.86] Mengalir lebih cepat dari ujung kaki ke ujung kepala\n[02:02.84] Aku sedang ingin bercinta karena\n[02:11.81] Mungkin ada kamu di sini, aku ingin\n[02:20.13] Aku sedang ingin bercinta karena\n[02:28.92] Mungkin ada kamu di sini, aku ingin\n[03:37.80] Aku sedang ingin bercinta karena\n[03:40.74] Mungkin ada kamu di sini, aku ingin\n[03:44.32] Aku sedang ingin bercinta karena\n[03:49.54] Mungkin ada kamu di sini, aku ingin\n[04:03.94] Hu-uh, uh, uh, uh, uh-uh",
+ "warn": "last cue melewati durasi"
+}
