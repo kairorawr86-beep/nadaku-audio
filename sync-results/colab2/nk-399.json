@@ -1,0 +1,13 @@
+{
+ "id": "nk-399",
+ "artist": "A1",
+ "title": "Caught In The Middle",
+ "lang": "en",
+ "n_anchor": 48,
+ "median_offset": -1.38,
+ "drift_max": 0.59,
+ "audio_dur": 199.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

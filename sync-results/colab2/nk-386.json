@@ -1,0 +1,13 @@
+{
+ "id": "nk-386",
+ "artist": "Westlife",
+ "title": "My Love",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": 17.76,
+ "drift_max": 0.83,
+ "audio_dur": 244.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 17.75
+}

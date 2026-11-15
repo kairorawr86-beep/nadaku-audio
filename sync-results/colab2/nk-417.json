@@ -1,0 +1,13 @@
+{
+ "id": "nk-417",
+ "artist": "Bastille",
+ "title": "Pompeii",
+ "lang": "la",
+ "n_anchor": 29,
+ "median_offset": 13.82,
+ "drift_max": 1.23,
+ "audio_dur": 209.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 13.75
+}

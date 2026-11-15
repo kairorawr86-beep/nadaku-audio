@@ -1,0 +1,12 @@
+{
+ "id": "nk-380",
+ "artist": "U2",
+ "title": "With Or Without You",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -1.08,
+ "drift_max": 1.13,
+ "audio_dur": 280.5,
+ "path": "fast",
+ "mode": "ok"
+}

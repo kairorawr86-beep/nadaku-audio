@@ -1,0 +1,13 @@
+{
+ "id": "nk-429",
+ "artist": "Bon Jovi",
+ "title": "Always",
+ "lang": "jw",
+ "n_anchor": 47,
+ "median_offset": 16.1,
+ "drift_max": 0.53,
+ "audio_dur": 317.7,
+ "path": "demucs",
+ "mode": "offset",
+ "offset": 16.0
+}
