@@ -1,0 +1,12 @@
+{
+ "id": "b9-346",
+ "artist": "M2M",
+ "title": "Pretty Boy",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.97,
+ "drift_max": 0.81,
+ "audio_dur": 271.8,
+ "path": "fast",
+ "mode": "ok"
+}

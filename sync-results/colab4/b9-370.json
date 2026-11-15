@@ -1,0 +1,12 @@
+{
+ "id": "b9-370",
+ "artist": "Miley Cyrus",
+ "title": "When I Look At You",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.33,
+ "drift_max": 1.08,
+ "audio_dur": 241.6,
+ "path": "fast",
+ "mode": "ok"
+}
