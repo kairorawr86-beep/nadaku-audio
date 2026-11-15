@@ -1,0 +1,13 @@
+{
+ "id": "b10-32",
+ "artist": "OneRepublic",
+ "title": "Secrets",
+ "lang": "en",
+ "n_anchor": 44,
+ "median_offset": 9.58,
+ "drift_max": 0.74,
+ "audio_dur": 230.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 9.5
+}

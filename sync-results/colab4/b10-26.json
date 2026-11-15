@@ -1,0 +1,12 @@
+{
+ "id": "b10-26",
+ "artist": "AC/DC",
+ "title": "Highway to Hell",
+ "lang": "cy",
+ "n_anchor": 6,
+ "median_offset": 0.6,
+ "drift_max": 2.89,
+ "audio_dur": 206.6,
+ "path": "fast",
+ "mode": "ok"
+}

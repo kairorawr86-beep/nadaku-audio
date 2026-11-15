@@ -1,0 +1,12 @@
+{
+ "id": "b10-38",
+ "artist": "My Chemical Romance",
+ "title": "Helena",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": 0.09,
+ "drift_max": 0.72,
+ "audio_dur": 202.8,
+ "path": "fast",
+ "mode": "ok"
+}
