@@ -1,0 +1,13 @@
+{
+ "id": "b7-300",
+ "artist": "Rihanna",
+ "title": "Disturbia",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": 22.27,
+ "drift_max": 0.28,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 22.25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-324",
+ "artist": "Guns N' Roses",
+ "title": "Don't Cry",
+ "lang": "en",
+ "n_anchor": 4,
+ "median_offset": 16.79,
+ "drift_max": 0.0,
+ "audio_dur": 149.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 16.75
+}

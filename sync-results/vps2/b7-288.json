@@ -1,0 +1,12 @@
+{
+ "id": "b7-288",
+ "artist": "Lady Gaga",
+ "title": "Poker Face",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -0.2,
+ "drift_max": 0.59,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-294",
+ "artist": "Coldplay",
+ "title": "Clocks",
+ "lang": "km",
+ "n_anchor": 3,
+ "median_offset": -47.0,
+ "drift_max": 0.0,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -47.0
+}

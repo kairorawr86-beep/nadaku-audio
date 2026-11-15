@@ -1,0 +1,13 @@
+{
+ "id": "b7-330",
+ "artist": "Queen",
+ "title": "I Want to Break Free",
+ "lang": "en",
+ "n_anchor": 14,
+ "median_offset": 4.79,
+ "drift_max": 1.53,
+ "audio_dur": 145.9,
+ "path": "demucs",
+ "mode": "offset",
+ "offset": 4.75
+}

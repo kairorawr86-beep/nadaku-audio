@@ -1,0 +1,13 @@
+{
+ "id": "b7-306",
+ "artist": "Enrique Iglesias",
+ "title": "Escape",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -1.46,
+ "drift_max": 1.8,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

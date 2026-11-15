@@ -1,0 +1,12 @@
+{
+ "id": "b7-282",
+ "artist": "Lady Gaga",
+ "title": "Bloody Mary",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.73,
+ "drift_max": 1.2,
+ "audio_dur": 144.2,
+ "path": "fast",
+ "mode": "ok"
+}
