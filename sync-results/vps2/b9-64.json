@@ -1,0 +1,12 @@
+{
+ "id": "b9-64",
+ "artist": "Avril Lavigne",
+ "title": "I'm With You",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -1.19,
+ "drift_max": 0.67,
+ "audio_dur": 146.9,
+ "path": "fast",
+ "mode": "ok"
+}

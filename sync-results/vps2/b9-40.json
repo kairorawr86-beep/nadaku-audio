@@ -1,0 +1,12 @@
+{
+ "id": "b9-40",
+ "artist": "Alicia Keys",
+ "title": "You Don't Know My Name",
+ "lang": "en",
+ "n_anchor": 21,
+ "median_offset": -0.55,
+ "drift_max": 2.36,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

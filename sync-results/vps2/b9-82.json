@@ -1,0 +1,12 @@
+{
+ "id": "b9-82",
+ "artist": "Beyonce",
+ "title": "Love On Top",
+ "lang": "en",
+ "n_anchor": 30,
+ "median_offset": -0.38,
+ "drift_max": 1.47,
+ "audio_dur": 148.7,
+ "path": "fast",
+ "mode": "ok"
+}
