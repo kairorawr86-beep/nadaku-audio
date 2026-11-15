@@ -1,0 +1,13 @@
+{
+ "id": "b7-207",
+ "artist": "Sabrina Carpenter",
+ "title": "Taste",
+ "lang": "en",
+ "n_anchor": 29,
+ "median_offset": 20.26,
+ "drift_max": 0.72,
+ "audio_dur": 197.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 20.25
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b7-195",
+ "artist": "Morgan Wallen",
+ "title": "Been By Now",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -0.25,
+ "drift_max": 0.54,
+ "audio_dur": 199.8,
+ "path": "fast",
+ "mode": "ok"
+}

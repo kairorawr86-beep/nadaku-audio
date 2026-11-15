@@ -1,0 +1,13 @@
+{
+ "id": "b7-133",
+ "artist": "Samsons",
+ "title": "Bukan Diriku",
+ "lang": "id",
+ "n_anchor": 25,
+ "median_offset": 6.7,
+ "drift_max": 1.01,
+ "audio_dur": 257.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.75
+}
