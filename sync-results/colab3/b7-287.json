@@ -1,0 +1,13 @@
+{
+ "id": "b7-287",
+ "artist": "Miley Cyrus",
+ "title": "The Climb",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": 7.18,
+ "drift_max": 1.84,
+ "audio_dur": 211.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.25
+}

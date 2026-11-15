@@ -1,0 +1,12 @@
+{
+ "id": "b7-245",
+ "artist": "The Weeknd",
+ "title": "Out of Time",
+ "lang": "en",
+ "n_anchor": 34,
+ "median_offset": -0.88,
+ "drift_max": 0.8,
+ "audio_dur": 227.7,
+ "path": "fast",
+ "mode": "ok"
+}
