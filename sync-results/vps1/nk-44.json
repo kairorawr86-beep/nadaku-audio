@@ -1,0 +1,13 @@
+{
+ "id": "nk-44",
+ "artist": "Tulus",
+ "title": "Monokrom",
+ "lang": "jw",
+ "n_anchor": 18,
+ "median_offset": 3.58,
+ "drift_max": 1.07,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.5
+}

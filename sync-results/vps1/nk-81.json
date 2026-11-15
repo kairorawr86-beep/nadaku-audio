@@ -1,0 +1,12 @@
+{
+ "id": "nk-81",
+ "artist": "Ed Sheeran",
+ "title": "Perfect",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": 0.05,
+ "drift_max": 0.88,
+ "audio_dur": 147.8,
+ "path": "fast",
+ "mode": "ok"
+}
