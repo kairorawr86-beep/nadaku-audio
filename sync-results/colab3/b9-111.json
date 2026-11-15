@@ -1,0 +1,12 @@
+{
+ "id": "b9-111",
+ "artist": "Naif",
+ "title": "Air",
+ "lang": "jw",
+ "n_anchor": 30,
+ "median_offset": -0.76,
+ "drift_max": 1.05,
+ "audio_dur": 198.4,
+ "path": "fast",
+ "mode": "ok"
+}
