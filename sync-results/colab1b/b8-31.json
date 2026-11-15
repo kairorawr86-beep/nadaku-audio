@@ -1,0 +1,14 @@
+{
+ "id": "b8-31",
+ "artist": "D'Cinnamons",
+ "title": "Galih dan Ratna",
+ "lang": "nn",
+ "n_anchor": 13,
+ "median_offset": 6.82,
+ "drift_max": 9.54,
+ "audio_dur": 231.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:30.96] Dua sejoli menjalin cinta\n[00:34.94] Cinta bersemi dari SMA\n[00:39.76] Galih dan Ratna mengikat janji\n[00:43.92] Janji setia setia abadi\n[00:51.00] Oh Galih oh Ratna cintamu abadi\n[01:00.79] Wahai Galih duhai Ratna\n[01:06.20] Tiada petaka merenggut kasihmu\n[01:12.76] Dua sejoli menjalin cinta\n[01:17.38] Cinta bersemi dari SMA\n[01:22.32] Galih dan Ratna mengikat janji\n[01:27.14] Janji setia setia abadi\n[01:34.44] Oh Galih hm Ratna cintamu abadi\n[01:44.74] Wahai Galih duhai Ratna\n[01:49.06] Tiada petaka merenggut kasihmu\n[02:20.22] Oh Galih hm Ratna cintamu abadi\n[02:28.10] Wahai Galih duhai Ratna\n[02:32.16] Tiada petaka merenggut kasihmu\n[02:44.25] Merenggut kasihmu\n[02:48.18] Dua sejoli menjalin cinta\n[02:54.33] Cinta bersemi dari SMA\n[03:01.99] Galih dan Ratna mengikat janji\n[03:08.82] Janji setia setia abadi\n[03:16.96] Dua sejoli menjalin cinta\n[03:23.96] Cinta bersemi dari SMA\n[03:28.55] Galih dan Ratna mengikat janji (janji setia)\n[03:32.91] Janji setia setia abadi\n[03:38.30] Dua sejoli menjalin cinta (menjalin cinta)\n[03:42.37] Cinta bersemi dari SMA\n[03:46.78] Galih dan Ratna mengikat janji\n[03:51.17] Janji setia setia abadi\n[03:56.21] Dua sejoli\n[03:58.31] Dua sejoli (janji setia)\n[04:00.57] Dua sejoli (janji setia)\n[04:03.00] Dua sejoli (janji setia)\n[04:05.08] Dua sejoli",
+ "warn": "last cue melewati durasi"
+}
