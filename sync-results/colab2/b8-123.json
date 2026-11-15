@@ -1,0 +1,12 @@
+{
+ "id": "b8-123",
+ "artist": "Eminem, Dido",
+ "title": "Stan",
+ "lang": "en",
+ "n_anchor": 114,
+ "median_offset": -0.85,
+ "drift_max": 0.63,
+ "audio_dur": 396.4,
+ "path": "fast",
+ "mode": "ok"
+}

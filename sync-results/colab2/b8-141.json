@@ -1,0 +1,13 @@
+{
+ "id": "b8-141",
+ "artist": "Metallica",
+ "title": "Enter Sandman",
+ "lang": "cy",
+ "n_anchor": 13,
+ "median_offset": -5.77,
+ "drift_max": 2.04,
+ "audio_dur": 310.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -5.75
+}

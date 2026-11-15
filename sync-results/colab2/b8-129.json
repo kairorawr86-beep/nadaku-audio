@@ -1,0 +1,12 @@
+{
+ "id": "b8-129",
+ "artist": "Queen",
+ "title": "Somebody to Love",
+ "lang": "mi",
+ "n_anchor": 45,
+ "median_offset": -0.35,
+ "drift_max": 1.11,
+ "audio_dur": 296.8,
+ "path": "fast",
+ "mode": "ok"
+}

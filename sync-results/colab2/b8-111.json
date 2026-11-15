@@ -1,0 +1,12 @@
+{
+ "id": "b8-111",
+ "artist": "Glass Animals",
+ "title": "The Other Side of Paradise",
+ "lang": "km",
+ "n_anchor": 6,
+ "median_offset": 0.04,
+ "drift_max": 1.93,
+ "audio_dur": 275.2,
+ "path": "fast",
+ "mode": "ok"
+}
