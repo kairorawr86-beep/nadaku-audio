@@ -1,0 +1,13 @@
+{
+ "id": "b8-112",
+ "artist": "Ariana Grande",
+ "title": "we can't be friends (wait for your love)",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": -1.3,
+ "drift_max": 0.81,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

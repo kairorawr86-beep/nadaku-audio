@@ -1,0 +1,13 @@
+{
+ "id": "b8-76",
+ "artist": "Sheila on 7",
+ "title": "Generasi Patah Hati",
+ "lang": "nn",
+ "n_anchor": 17,
+ "median_offset": -2.06,
+ "drift_max": 1.47,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}
