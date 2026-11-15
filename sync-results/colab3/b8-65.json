@@ -1,0 +1,13 @@
+{
+ "id": "b8-65",
+ "artist": "Ari Lasso",
+ "title": "Mengejar Matahari",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": -1.59,
+ "drift_max": 2.28,
+ "audio_dur": 194.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b8-83",
+ "artist": "Gigi",
+ "title": "Jomblo",
+ "lang": "id",
+ "n_anchor": 21,
+ "median_offset": -0.9,
+ "drift_max": 1.19,
+ "audio_dur": 248.4,
+ "path": "fast",
+ "mode": "ok"
+}
