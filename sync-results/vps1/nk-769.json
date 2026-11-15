@@ -1,0 +1,12 @@
+{
+ "id": "nk-769",
+ "artist": "Train",
+ "title": "Drops Of Jupiter (Tell Me)",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -0.98,
+ "drift_max": 1.6,
+ "audio_dur": 144.5,
+ "path": "fast",
+ "mode": "ok"
+}
