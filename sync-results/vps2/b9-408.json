@@ -1,0 +1,14 @@
+{
+ "id": "b9-408",
+ "artist": "Radiohead",
+ "title": "No Surprises",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": -1.5,
+ "drift_max": 3.52,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:25.33] A heart that's full up like a landfill\n[00:33.98] A job that slowly kills you\n[00:40.79] Bruises that won't heal\n[00:50.50] You look so tired, unhappy\n[00:55.88] Bring down the government\n[01:02.32] They don't, they don't speak for us\n[01:16.54] I'll take a quiet life\n[01:21.82] A handshake of carbon monoxide\n[01:28.08] No alarms and no surprises\n[01:34.40] No alarms and no surprises\n[01:39.86] No alarms and no surprises\n[01:46.64] Silent\n[01:53.49] Silent\n[02:00.50] This is my final fit\n[02:05.54] My final bellyache with\n[02:09.47] No alarms and no surprises\n[02:12.88] No alarms and no surprises\n[02:18.60] No alarms and no surprises, please\n[02:47.57] Such a pretty house\n[02:52.86] And such a pretty garden\n[02:59.00] No alarms and no surprises\n[03:04.83] No alarms and no surprises\n[03:10.58] No alarms and no surprises, please",
+ "warn": "last cue melewati durasi"
+}

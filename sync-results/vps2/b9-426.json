@@ -1,0 +1,13 @@
+{
+ "id": "b9-426",
+ "artist": "Sarah McLachlan",
+ "title": "Angel",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -1.27,
+ "drift_max": 1.27,
+ "audio_dur": 148.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
