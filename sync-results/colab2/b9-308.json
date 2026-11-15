@@ -1,0 +1,12 @@
+{
+ "id": "b9-308",
+ "artist": "John Mayer",
+ "title": "Free Fallin'",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.87,
+ "drift_max": 0.54,
+ "audio_dur": 259.7,
+ "path": "fast",
+ "mode": "ok"
+}
