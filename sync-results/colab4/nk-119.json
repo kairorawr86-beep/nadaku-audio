@@ -1,0 +1,13 @@
+{
+ "id": "nk-119",
+ "artist": "Queen",
+ "title": "Don't Stop Me Now",
+ "lang": "en",
+ "n_anchor": 37,
+ "median_offset": -3.39,
+ "drift_max": 0.99,
+ "audio_dur": 190.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.5
+}

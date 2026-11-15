@@ -1,0 +1,12 @@
+{
+ "id": "nk-180",
+ "artist": "Dua Lipa",
+ "title": "New Rules",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": 0.06,
+ "drift_max": 1.53,
+ "audio_dur": 206.2,
+ "path": "fast",
+ "mode": "ok"
+}

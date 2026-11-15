@@ -1,0 +1,12 @@
+{
+ "id": "nk-174",
+ "artist": "Shawn Mendes",
+ "title": "Treat You Better",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.41,
+ "drift_max": 0.95,
+ "audio_dur": 173.9,
+ "path": "fast",
+ "mode": "ok"
+}
