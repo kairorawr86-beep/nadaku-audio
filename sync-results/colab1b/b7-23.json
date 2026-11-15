@@ -1,0 +1,13 @@
+{
+ "id": "b7-23",
+ "artist": "Sal Priadi",
+ "title": "Gala Bunga Matahari",
+ "lang": "id",
+ "n_anchor": 27,
+ "median_offset": 38.3,
+ "drift_max": 2.76,
+ "audio_dur": 327.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 38.25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-11",
+ "artist": "Naykilla",
+ "title": "MMG (My Mine Gueh)",
+ "lang": "id",
+ "n_anchor": 32,
+ "median_offset": 4.17,
+ "drift_max": 1.24,
+ "audio_dur": 219.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.25
+}
