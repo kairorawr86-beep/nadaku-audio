@@ -1,0 +1,13 @@
+{
+ "id": "nk-354",
+ "artist": "Sandhy Sondoro",
+ "title": "Tak Pernah Padam",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": 1.6,
+ "drift_max": 2.45,
+ "audio_dur": 142.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.5
+}

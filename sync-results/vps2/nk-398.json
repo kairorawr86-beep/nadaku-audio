@@ -1,0 +1,13 @@
+{
+ "id": "nk-398",
+ "artist": "R. Kelly",
+ "title": "I Believe I Can Fly",
+ "lang": "la",
+ "n_anchor": 16,
+ "median_offset": 2.03,
+ "drift_max": 1.65,
+ "audio_dur": 148.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.0
+}

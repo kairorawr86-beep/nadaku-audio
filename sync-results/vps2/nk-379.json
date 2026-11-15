@@ -1,0 +1,12 @@
+{
+ "id": "nk-379",
+ "artist": "Train",
+ "title": "Hey Soul Sister",
+ "lang": "en",
+ "n_anchor": 29,
+ "median_offset": -0.73,
+ "drift_max": 1.78,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

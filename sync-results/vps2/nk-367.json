@@ -1,0 +1,14 @@
+{
+ "id": "nk-367",
+ "artist": "Stinky",
+ "title": "Mungkinkah",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": 2.93,
+ "drift_max": 4.82,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:17.80] Tetes air mata basahi pipiku\n[00:23.46] Di saat kita kan berpisah\n[00:30.88] Terucapkan janji padamu kasihku\n[00:37.14] Takkan kulupakan dirimu\n[00:47.20] Begitu beratnya kau lepas diriku\n[00:57.36] Sebut namaku jika kau rindukan aku\n[01:06.18] Aku akan datang\n[01:14.00] Mungkinkan kita kan selalu bersama\n[01:19.48] Walau terbentang jarak antara kita\n[01:27.18] Biarkan kupeluk erat bayangmu\n[01:32.38] Tuk melepaskan semua kerinduanku oh\n[01:50.07] Lambaian tanganmu iringi langkahku\n[01:55.45] Terbersit tanya di hatiku\n[02:00.70] Akankah dirimu kan tetap milikku\n[02:06.56] Saat kembali di pelukanku\n[02:12.97] Begitu beratnya kau lepas diriku\n[02:25.27] Sebut namaku jika kau rindukan aku\n[02:33.95] Aku akan datang\n[02:39.97] Mungkinkan (mungkinkah)\n[02:42.16] Kita kan selalu bersama\n[02:45.11] Walau terbentang jarak antara kita\n[02:52.42] Biarkan (biarkan)\n[02:54.45] Kupeluk erat bayangmu\n[02:57.86] Tuk melepaskan semua kerinduanku\n[03:03.59] Kau kusayang\n[03:06.49] Selalu kujaga\n[03:09.37] Takkan kulepas selamanya\n[03:15.97] Hilangkanlah\n[03:18.82] Keraguanmu pada diriku\n[03:24.21] Di saat kujauh darimu",
+ "warn": "last cue melewati durasi"
+}
