@@ -1,0 +1,12 @@
+{
+ "id": "b9-196",
+ "artist": "David Bowie",
+ "title": "Life On Mars?",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": 0.12,
+ "drift_max": 2.5,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "ok"
+}

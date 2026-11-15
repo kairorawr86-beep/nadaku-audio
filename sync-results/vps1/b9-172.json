@@ -1,0 +1,12 @@
+{
+ "id": "b9-172",
+ "artist": "Coldplay",
+ "title": "Sparks",
+ "lang": "en",
+ "n_anchor": 11,
+ "median_offset": -0.76,
+ "drift_max": 0.56,
+ "audio_dur": 144.5,
+ "path": "demucs",
+ "mode": "ok"
+}
