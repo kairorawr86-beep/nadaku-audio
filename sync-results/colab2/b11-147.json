@@ -1,0 +1,12 @@
+{
+ "id": "b11-147",
+ "artist": "Post Malone",
+ "title": "I Fall Apart",
+ "lang": "en",
+ "n_anchor": 38,
+ "median_offset": -0.66,
+ "drift_max": 1.2,
+ "audio_dur": 220.7,
+ "path": "fast",
+ "mode": "ok"
+}

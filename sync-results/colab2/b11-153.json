@@ -1,0 +1,13 @@
+{
+ "id": "b11-153",
+ "artist": "Tăng Duy Tân",
+ "title": "Bên Trên Tầng Lầu",
+ "lang": "vi",
+ "n_anchor": 20,
+ "median_offset": -1.63,
+ "drift_max": 0.56,
+ "audio_dur": 174.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

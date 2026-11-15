@@ -1,0 +1,12 @@
+{
+ "id": "b11-135",
+ "artist": "Arctic Monkeys",
+ "title": "Snap Out Of It",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": 0.37,
+ "drift_max": 1.7,
+ "audio_dur": 190.7,
+ "path": "fast",
+ "mode": "ok"
+}
