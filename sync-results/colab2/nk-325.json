@@ -1,0 +1,13 @@
+{
+ "id": "nk-325",
+ "artist": "Mr. Big",
+ "title": "To Be With You",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -1.62,
+ "drift_max": 0.96,
+ "audio_dur": 198.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

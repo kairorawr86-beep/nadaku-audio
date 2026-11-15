@@ -1,0 +1,13 @@
+{
+ "id": "nk-338",
+ "artist": "Phil Collins",
+ "title": "In The Air Tonight",
+ "lang": "jw",
+ "n_anchor": 24,
+ "median_offset": -1.56,
+ "drift_max": 2.33,
+ "audio_dur": 282.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
