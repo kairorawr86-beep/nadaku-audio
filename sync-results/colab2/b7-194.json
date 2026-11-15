@@ -1,0 +1,12 @@
+{
+ "id": "b7-194",
+ "artist": "Stella Lefty",
+ "title": "Boston",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.36,
+ "drift_max": 0.35,
+ "audio_dur": 165.2,
+ "path": "fast",
+ "mode": "ok"
+}

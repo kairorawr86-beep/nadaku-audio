@@ -1,0 +1,13 @@
+{
+ "id": "b7-206",
+ "artist": "Sabrina Carpenter",
+ "title": "Please Please Please",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": 58.91,
+ "drift_max": 1.8,
+ "audio_dur": 251.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 59.0
+}

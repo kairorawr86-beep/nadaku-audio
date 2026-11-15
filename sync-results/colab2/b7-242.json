@@ -1,0 +1,13 @@
+{
+ "id": "b7-242",
+ "artist": "Tate McRae",
+ "title": "Sports car",
+ "lang": "en",
+ "n_anchor": 50,
+ "median_offset": 17.41,
+ "drift_max": 1.87,
+ "audio_dur": 180.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 17.5
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-236",
+ "artist": "SZA",
+ "title": "Good Days",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": -35.92,
+ "drift_max": 1.9,
+ "audio_dur": 253.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -36.0
+}
