@@ -1,0 +1,13 @@
+{
+ "id": "nk-430",
+ "artist": "Boney M.",
+ "title": "Rivers of Babylon (Sopot Festival 1979)",
+ "lang": "la",
+ "n_anchor": 28,
+ "median_offset": -3.59,
+ "drift_max": 2.37,
+ "audio_dur": 252.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.5
+}

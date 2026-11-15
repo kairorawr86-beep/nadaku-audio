@@ -1,0 +1,12 @@
+{
+ "id": "nk-436",
+ "artist": "Bryan Adams",
+ "title": "Heaven",
+ "lang": "en",
+ "n_anchor": 45,
+ "median_offset": -0.76,
+ "drift_max": 0.93,
+ "audio_dur": 240.9,
+ "path": "fast",
+ "mode": "ok"
+}
