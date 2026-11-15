@@ -1,0 +1,12 @@
+{
+ "id": "b7-233",
+ "artist": "SZA",
+ "title": "Snooze",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": -0.34,
+ "drift_max": 1.41,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

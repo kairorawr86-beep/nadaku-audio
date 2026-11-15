@@ -1,0 +1,13 @@
+{
+ "id": "b7-209",
+ "artist": "Chappell Roan",
+ "title": "HOT TO GO!",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": 27.58,
+ "drift_max": 0.26,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 27.5
+}
