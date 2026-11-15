@@ -1,0 +1,13 @@
+{
+ "id": "nk-493",
+ "artist": "Lady Gaga",
+ "title": "Bad Romance",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": 12.48,
+ "drift_max": 1.23,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 12.5
+}

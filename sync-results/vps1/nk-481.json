@@ -1,0 +1,13 @@
+{
+ "id": "nk-481",
+ "artist": "John Lennon",
+ "title": "Imagine",
+ "lang": "nn",
+ "n_anchor": 9,
+ "median_offset": 40.86,
+ "drift_max": 1.57,
+ "audio_dur": 146.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 40.75
+}

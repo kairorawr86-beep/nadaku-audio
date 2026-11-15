@@ -1,0 +1,13 @@
+{
+ "id": "nk-505",
+ "artist": "Michael Learns To Rock",
+ "title": "25 Minutes",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -10.01,
+ "drift_max": 1.82,
+ "audio_dur": 149.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -10.0
+}
