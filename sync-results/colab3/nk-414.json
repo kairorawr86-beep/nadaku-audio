@@ -1,0 +1,13 @@
+{
+ "id": "nk-414",
+ "artist": "Avicii",
+ "title": "Waiting For Love",
+ "lang": "en",
+ "n_anchor": 28,
+ "median_offset": 2.87,
+ "drift_max": 0.36,
+ "audio_dur": 228.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.75
+}

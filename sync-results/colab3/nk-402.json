@@ -1,0 +1,12 @@
+{
+ "id": "nk-402",
+ "artist": "Adele",
+ "title": "Skyfall",
+ "lang": "la",
+ "n_anchor": 29,
+ "median_offset": 0.56,
+ "drift_max": 2.31,
+ "audio_dur": 289.1,
+ "path": "fast",
+ "mode": "ok"
+}

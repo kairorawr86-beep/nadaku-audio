@@ -1,0 +1,12 @@
+{
+ "id": "nk-396",
+ "artist": "5 Seconds of Summer",
+ "title": "Amnesia",
+ "lang": "en",
+ "n_anchor": 50,
+ "median_offset": -0.5,
+ "drift_max": 0.64,
+ "audio_dur": 246.1,
+ "path": "fast",
+ "mode": "ok"
+}
