@@ -1,0 +1,12 @@
+{
+ "id": "b9-51",
+ "artist": "Gigi",
+ "title": "Sang Pemimpi",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": 1.05,
+ "drift_max": 0.56,
+ "audio_dur": 228.5,
+ "path": "fast",
+ "mode": "ok"
+}
