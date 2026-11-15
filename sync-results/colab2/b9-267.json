@@ -1,0 +1,13 @@
+{
+ "id": "b9-267",
+ "artist": "Foo Fighters",
+ "title": "Learn To Fly",
+ "lang": "en",
+ "n_anchor": 35,
+ "median_offset": -2.7,
+ "drift_max": 2.92,
+ "audio_dur": 220.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.75
+}
