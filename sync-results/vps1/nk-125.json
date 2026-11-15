@@ -1,0 +1,13 @@
+{
+ "id": "nk-125",
+ "artist": "Sam Smith",
+ "title": "Stay With Me",
+ "lang": "nn",
+ "n_anchor": 12,
+ "median_offset": 30.12,
+ "drift_max": 1.37,
+ "audio_dur": 134.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 30.0
+}
