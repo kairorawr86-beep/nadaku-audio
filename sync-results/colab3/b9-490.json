@@ -1,0 +1,12 @@
+{
+ "id": "b9-490",
+ "artist": "Three Days Grace",
+ "title": "Pain",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -0.18,
+ "drift_max": 1.05,
+ "audio_dur": 193.2,
+ "path": "fast",
+ "mode": "ok"
+}

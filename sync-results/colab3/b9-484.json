@@ -1,0 +1,13 @@
+{
+ "id": "b9-484",
+ "artist": "The Vamps",
+ "title": "Somebody To You",
+ "lang": "en",
+ "n_anchor": 41,
+ "median_offset": -6.52,
+ "drift_max": 1.12,
+ "audio_dur": 179.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -6.5
+}

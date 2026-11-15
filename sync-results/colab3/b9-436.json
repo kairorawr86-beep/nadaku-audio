@@ -1,0 +1,12 @@
+{
+ "id": "b9-436",
+ "artist": "Shinedown",
+ "title": "Second Chance",
+ "lang": "en",
+ "n_anchor": 32,
+ "median_offset": -0.9,
+ "drift_max": 0.64,
+ "audio_dur": 220.5,
+ "path": "fast",
+ "mode": "ok"
+}
