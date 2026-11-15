@@ -1,0 +1,13 @@
+{
+ "id": "b11-109",
+ "artist": "Arctic Monkeys",
+ "title": "I Wanna Be Yours",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -1.54,
+ "drift_max": 2.93,
+ "audio_dur": 170.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b11-121",
+ "artist": "Maroon 5",
+ "title": "Won't Go Home Without You",
+ "lang": "en",
+ "n_anchor": 42,
+ "median_offset": -0.5,
+ "drift_max": 0.61,
+ "audio_dur": 221.6,
+ "path": "fast",
+ "mode": "ok"
+}

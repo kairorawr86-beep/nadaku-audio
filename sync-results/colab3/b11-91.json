@@ -1,0 +1,13 @@
+{
+ "id": "b11-91",
+ "artist": "Juicy Luicy",
+ "title": "Sayangnya",
+ "lang": "jw",
+ "n_anchor": 28,
+ "median_offset": -1.73,
+ "drift_max": 2.53,
+ "audio_dur": 248.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}

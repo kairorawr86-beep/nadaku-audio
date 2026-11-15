@@ -1,0 +1,13 @@
+{
+ "id": "b11-133",
+ "artist": "Coldplay",
+ "title": "In My Place",
+ "lang": "id",
+ "n_anchor": 3,
+ "median_offset": -67.63,
+ "drift_max": 0.0,
+ "audio_dur": 226.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -67.75
+}
