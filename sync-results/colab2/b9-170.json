@@ -1,0 +1,12 @@
+{
+ "id": "b9-170",
+ "artist": "Coldplay",
+ "title": "Everglow",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -1.0,
+ "drift_max": 0.78,
+ "audio_dur": 274.1,
+ "path": "demucs",
+ "mode": "ok"
+}
