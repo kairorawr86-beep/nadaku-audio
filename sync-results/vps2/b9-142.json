@@ -1,0 +1,12 @@
+{
+ "id": "b9-142",
+ "artist": "BTS",
+ "title": "Butter",
+ "lang": "ko",
+ "n_anchor": 36,
+ "median_offset": -0.42,
+ "drift_max": 0.4,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

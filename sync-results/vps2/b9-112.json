@@ -1,0 +1,12 @@
+{
+ "id": "b9-112",
+ "artist": "Boney M",
+ "title": "Rasputin",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": -0.44,
+ "drift_max": 1.15,
+ "audio_dur": 147.1,
+ "path": "fast",
+ "mode": "ok"
+}
