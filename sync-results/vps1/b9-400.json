@@ -1,0 +1,12 @@
+{
+ "id": "b9-400",
+ "artist": "Post Malone",
+ "title": "Chemical",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -0.34,
+ "drift_max": 0.36,
+ "audio_dur": 144.4,
+ "path": "fast",
+ "mode": "ok"
+}
