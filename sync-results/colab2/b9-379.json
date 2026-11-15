@@ -1,0 +1,13 @@
+{
+ "id": "b9-379",
+ "artist": "Norah Jones",
+ "title": "Don't Know Why",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -1.52,
+ "drift_max": 1.57,
+ "audio_dur": 186.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
