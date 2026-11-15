@@ -1,0 +1,13 @@
+{
+ "id": "nk-274",
+ "artist": "Dido",
+ "title": "Thank You",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -18.0,
+ "drift_max": 2.33,
+ "audio_dur": 147.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -18.0
+}

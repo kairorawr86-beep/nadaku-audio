@@ -1,0 +1,13 @@
+{
+ "id": "nk-230",
+ "artist": "Noah",
+ "title": "Hidup Untukmu Mati Tanpamu",
+ "lang": "id",
+ "n_anchor": 4,
+ "median_offset": 1.86,
+ "drift_max": 0.0,
+ "audio_dur": 147.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.75
+}

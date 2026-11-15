@@ -1,0 +1,13 @@
+{
+ "id": "nk-242",
+ "artist": "Dewa 19",
+ "title": "Pupus",
+ "lang": "ms",
+ "n_anchor": 8,
+ "median_offset": -12.91,
+ "drift_max": 0.84,
+ "audio_dur": 144.8,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -13.0
+}
