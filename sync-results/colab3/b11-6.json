@@ -1,0 +1,13 @@
+{
+ "id": "b11-6",
+ "artist": "Denny Caknan",
+ "title": "LDR (Langgeng Dayaning Rasa)",
+ "lang": "jw",
+ "n_anchor": 5,
+ "median_offset": 1.85,
+ "drift_max": 0.0,
+ "audio_dur": 281.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 1.75
+}

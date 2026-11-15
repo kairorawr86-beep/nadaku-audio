@@ -1,0 +1,13 @@
+{
+ "id": "b11-30",
+ "artist": "Niken Salindry",
+ "title": "Raiso Dadi Siji",
+ "lang": "id",
+ "n_anchor": 4,
+ "median_offset": 6.28,
+ "drift_max": 0.0,
+ "audio_dur": 248.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.25
+}
