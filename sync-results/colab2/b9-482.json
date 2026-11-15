@@ -1,0 +1,13 @@
+{
+ "id": "b9-482",
+ "artist": "The Strokes",
+ "title": "Last Nite",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -1.91,
+ "drift_max": 1.3,
+ "audio_dur": 172.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.0
+}

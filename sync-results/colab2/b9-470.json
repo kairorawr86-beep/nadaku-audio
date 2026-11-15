@@ -1,0 +1,13 @@
+{
+ "id": "b9-470",
+ "artist": "The Beatles",
+ "title": "While My Guitar Gently Weeps",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": 3.12,
+ "drift_max": 0.67,
+ "audio_dur": 205.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 3.0
+}

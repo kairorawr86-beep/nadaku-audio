@@ -1,0 +1,12 @@
+{
+ "id": "b9-488",
+ "artist": "Third Eye Blind",
+ "title": "Jumper",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": 0.03,
+ "drift_max": 2.89,
+ "audio_dur": 269.1,
+ "path": "fast",
+ "mode": "ok"
+}
