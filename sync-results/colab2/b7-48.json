@@ -1,0 +1,12 @@
+{
+ "id": "b7-48",
+ "artist": "Danilla",
+ "title": "Senja di Ambang Pilu",
+ "lang": "nn",
+ "n_anchor": 17,
+ "median_offset": -0.76,
+ "drift_max": 2.61,
+ "audio_dur": 264.6,
+ "path": "fast",
+ "mode": "ok"
+}

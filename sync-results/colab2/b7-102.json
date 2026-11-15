@@ -1,0 +1,14 @@
+{
+ "id": "b7-102",
+ "artist": "Dewa 19",
+ "title": "Arjuna",
+ "lang": "jw",
+ "n_anchor": 14,
+ "median_offset": -0.3,
+ "drift_max": 31.56,
+ "audio_dur": 266.9,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:00.00] Sudah kudaki gunung tertinggi\n[00:06.88] Hanya untuk mencari di mana dirimu\n[00:15.00] Sudah kujelajahi isi bumi\n[00:21.18] Hanya untuk dapat hidup bersamamu\n[00:29.64] Sudah kuarungi laut samudra\n[00:34.06] Hanya untuk mencari tempat berlabuhmu\n[00:41.84] Tapi semakin jauh 'ku mencari\n[00:48.08] Cinta semakin aku tak mengerti\n[00:54.08] Akulah Arjuna\n[01:00.86] Yang mencari cinta\n[01:08.83] Wahai wanita\n[01:19.73] Cintailah aku\n[01:28.16] Mungkin kutemui cinta sejati\n[01:33.40] Saat aku hembuskan napas terakhirku\n[01:41.96] Mungkin cinta sejati memang tak ada\n[01:49.04] Dalam cerita kehidupan ini\n[02:05.74] Akulah Arjuna\n[02:18.25] Yang mencari cinta\n[02:32.49] Wahai wanita\n[02:45.09] Cintailah aku\n[02:57.57] Akulah Arjuna\n[03:10.67] Arjuna\n[03:16.05] Akulah Arjuna\n[03:22.33] Akulah Arjuna\n[03:28.86] Akulah Arjuna\n[03:45.76] Akulah Arjuna\n[04:03.40] Akulah Arjuna\n[04:09.32] Akulah Arjuna yang mencari cinta\n[04:48.80] Wahai wanita cintailah aku\n[04:57.30] Akulah Arjuna yang mencari cinta\n[05:00.78] Wahai wanita cintailah aku",
+ "warn": "last cue melewati durasi"
+}

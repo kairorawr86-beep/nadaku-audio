@@ -1,0 +1,13 @@
+{
+ "id": "b7-108",
+ "artist": "Sheila on 7",
+ "title": "Pejantan Tangguh",
+ "lang": "id",
+ "n_anchor": 11,
+ "median_offset": 7.25,
+ "drift_max": 2.57,
+ "audio_dur": 204.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 7.25
+}

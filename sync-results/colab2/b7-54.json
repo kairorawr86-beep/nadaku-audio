@@ -1,0 +1,13 @@
+{
+ "id": "b7-54",
+ "artist": "Yura Yunita",
+ "title": "Intuisi",
+ "lang": "id",
+ "n_anchor": 20,
+ "median_offset": 15.63,
+ "drift_max": 1.05,
+ "audio_dur": 256.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 15.75
+}
