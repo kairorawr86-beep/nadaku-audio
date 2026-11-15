@@ -1,0 +1,12 @@
+{
+ "id": "b11-144",
+ "artist": "Harry Styles",
+ "title": "Late Night Talking",
+ "lang": "en",
+ "n_anchor": 31,
+ "median_offset": -0.57,
+ "drift_max": 0.98,
+ "audio_dur": 173.6,
+ "path": "fast",
+ "mode": "ok"
+}
