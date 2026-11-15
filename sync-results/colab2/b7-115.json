@@ -1,0 +1,12 @@
+{
+ "id": "b7-115",
+ "artist": "Mulan Jameela",
+ "title": "Abracadabra",
+ "lang": "nn",
+ "n_anchor": 14,
+ "median_offset": -0.64,
+ "drift_max": 1.51,
+ "audio_dur": 270.8,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-91",
+ "artist": "Andra and The Backbone",
+ "title": "Main Hati",
+ "lang": "nn",
+ "n_anchor": 17,
+ "median_offset": 5.23,
+ "drift_max": 1.42,
+ "audio_dur": 237.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.25
+}
