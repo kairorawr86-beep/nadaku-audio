@@ -1,0 +1,12 @@
+{
+ "id": "nk-633",
+ "artist": "Earth Wind & Fire",
+ "title": "September",
+ "lang": "en",
+ "n_anchor": 7,
+ "median_offset": -0.07,
+ "drift_max": 0.96,
+ "audio_dur": 148.4,
+ "path": "fast",
+ "mode": "ok"
+}

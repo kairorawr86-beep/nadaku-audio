@@ -1,0 +1,13 @@
+{
+ "id": "nk-599",
+ "artist": "Bill Haley & His Comets",
+ "title": "Rock Around The Clock",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": -2.62,
+ "drift_max": 1.07,
+ "audio_dur": 116.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -2.5
+}
