@@ -1,0 +1,14 @@
+{
+ "id": "b8-47",
+ "artist": "God Bless",
+ "title": "Rumah Kita",
+ "lang": "jw",
+ "n_anchor": 12,
+ "median_offset": 0.39,
+ "drift_max": 12.33,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:27.72] Hanya bilik bambu tempat tinggal kita\n[00:33.16] Tanpa hiasan tanpa lukisan\n[00:37.68] Beratap jerami beralaskan tanah\n[00:43.40] Namun semua ini punya kita\n[00:49.80] Memang semua ini milik kita sendiri\n[01:11.78] Hanya alang-alang pagar rumah kita\n[01:16.66] Tanpa anyelir tanpa melati\n[01:23.76] Hanya bunga bakung tumbuh di halaman\n[01:27.80] Namun semua itu punya kita\n[01:32.62] Memang semua itu milik kita\n[01:40.14] Haruskah kita beranjak ke kota\n[01:45.20] Yang penuh dengan tanya\n[01:47.50] Lebih baik di sini rumah kita sendiri\n[01:52.03] Segala nikmat dan anugerah Yang Kuasa\n[01:55.11] Semuanya ada di sini\n[01:57.98] Rumah kita\n[02:29.09] Lebih baik di sini rumah kita sendiri\n[02:40.30] Segala nikmat dan anugerah Yang Kuasa\n[02:48.09] Semuanya ada di sini\n[02:55.49] Rumah kita\n[03:03.51] Lebih baik di sini rumah kita sendiri\n[03:15.01] Segala nikmat dan anugerah Yang Kuasa\n[03:22.71] Semuanya ada di sini\n[03:27.01] Lebih baik di sini rumah kita sendiri\n[03:37.93] Segala nikmat dan anugerah Yang Kuasa\n[03:45.70] Semuanya ada di sini\n[03:52.87] Rumah kita\n[03:59.04] Rumah kita",
+ "warn": "last cue melewati durasi"
+}
