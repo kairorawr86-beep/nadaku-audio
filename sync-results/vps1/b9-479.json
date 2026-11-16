@@ -1,0 +1,13 @@
+{
+ "id": "b9-479",
+ "artist": "The Rolling Stones",
+ "title": "Wild Horses",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -1.38,
+ "drift_max": 2.82,
+ "audio_dur": 148.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}
