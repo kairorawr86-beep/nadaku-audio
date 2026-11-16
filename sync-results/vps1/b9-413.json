@@ -1,0 +1,12 @@
+{
+ "id": "b9-413",
+ "artist": "Red Jumpsuit Apparatus",
+ "title": "Your Guardian Angel",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": -0.27,
+ "drift_max": 0.6,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

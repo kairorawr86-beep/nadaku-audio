@@ -1,0 +1,12 @@
+{
+ "id": "b9-425",
+ "artist": "Sara Bareilles",
+ "title": "Love Song",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -0.24,
+ "drift_max": 0.51,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}
