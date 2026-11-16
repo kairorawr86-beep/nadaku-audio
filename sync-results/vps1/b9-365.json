@@ -1,0 +1,12 @@
+{
+ "id": "b9-365",
+ "artist": "Michael Jackson",
+ "title": "Beat It",
+ "lang": "km",
+ "n_anchor": 13,
+ "median_offset": -0.2,
+ "drift_max": 0.93,
+ "audio_dur": 120.0,
+ "path": "fast",
+ "mode": "ok"
+}
