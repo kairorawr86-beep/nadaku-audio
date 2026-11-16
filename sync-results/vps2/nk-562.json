@@ -1,0 +1,13 @@
+{
+ "id": "nk-562",
+ "artist": "The Beatles",
+ "title": "Hey Jude",
+ "lang": "en",
+ "n_anchor": 12,
+ "median_offset": 55.12,
+ "drift_max": 0.33,
+ "audio_dur": 144.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 55.0
+}
