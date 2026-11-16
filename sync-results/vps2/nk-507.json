@@ -1,0 +1,12 @@
+{
+ "id": "nk-507",
+ "artist": "Frank Sinatra",
+ "title": "My Way",
+ "lang": "en",
+ "n_anchor": 16,
+ "median_offset": -0.23,
+ "drift_max": 1.43,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

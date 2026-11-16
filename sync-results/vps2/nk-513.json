@@ -1,0 +1,12 @@
+{
+ "id": "nk-513",
+ "artist": "Nirvana",
+ "title": "Come As You Are",
+ "lang": "en",
+ "n_anchor": 8,
+ "median_offset": 0.1,
+ "drift_max": 1.35,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "nk-495",
+ "artist": "Last Child ft. Giselle",
+ "title": "Seluruh Nafas Ini",
+ "lang": "id",
+ "n_anchor": 15,
+ "median_offset": -3.15,
+ "drift_max": 1.84,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.25
+}
