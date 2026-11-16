@@ -1,0 +1,14 @@
+{
+ "id": "b9-153",
+ "artist": "Payung Teduh",
+ "title": "Rahasia",
+ "lang": "jw",
+ "n_anchor": 9,
+ "median_offset": -0.54,
+ "drift_max": 4.79,
+ "audio_dur": 148.3,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:36.52] Tak ada sore dan udara menjadi segar\n[00:45.78] Tak ada gelap, lalu mata enggan menatap\n[01:01.66] Tak ada bintang mati, butiran pasir terbang ke langit\n[01:18.70] Tak ada fajar hanya remang malam\n[01:25.61] Semua tlah hilang terserah matahari\n[01:42.36] Harum mawar membunuh bulan\n[01:51.20] Rahasia tetap diam tak terucap\n[01:56.94] Untuk itu semua aku mencarimu\n[02:14.34] Berikan tanganmu jabat jemariku\n[02:24.08] Yang kau tinggalkan hanya harum tubuhmu\n[02:32.02] Berikan suaramu, balas semua bisikanku memanggil namamu\n[02:56.22] Atau kau ingin aku berteriak sekencang kencangnya\n[03:11.21] Agar seluruh ruangan ini bergetar oleh suara ku",
+ "warn": "last cue melewati durasi"
+}
