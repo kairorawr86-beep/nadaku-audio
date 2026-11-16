@@ -1,0 +1,12 @@
+{
+ "id": "b8-191",
+ "artist": "Dua Lipa",
+ "title": "Illusion",
+ "lang": "en",
+ "n_anchor": 27,
+ "median_offset": -0.55,
+ "drift_max": 0.71,
+ "audio_dur": 138.3,
+ "path": "fast",
+ "mode": "ok"
+}

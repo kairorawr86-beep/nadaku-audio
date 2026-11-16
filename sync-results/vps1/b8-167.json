@@ -1,0 +1,12 @@
+{
+ "id": "b8-167",
+ "artist": "Taylor Swift",
+ "title": "Fortnight",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.75,
+ "drift_max": 2.53,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "ok"
+}
