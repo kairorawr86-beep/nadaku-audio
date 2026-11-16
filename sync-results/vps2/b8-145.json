@@ -1,0 +1,13 @@
+{
+ "id": "b8-145",
+ "artist": "No Doubt",
+ "title": "Sunday Morning",
+ "lang": "cy",
+ "n_anchor": 8,
+ "median_offset": -1.42,
+ "drift_max": 2.33,
+ "audio_dur": 136.2,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

@@ -1,0 +1,12 @@
+{
+ "id": "b8-109",
+ "artist": "Taylor Swift",
+ "title": "Wildest Dreams",
+ "lang": "en",
+ "n_anchor": 40,
+ "median_offset": -1.19,
+ "drift_max": 1.49,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}
