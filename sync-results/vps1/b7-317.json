@@ -1,0 +1,14 @@
+{
+ "id": "b7-317",
+ "artist": "Celine Dion",
+ "title": "All By Myself",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": -1.88,
+ "drift_max": 28.49,
+ "audio_dur": 143.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:03.58] When I was young\n[00:07.57] I never needed anyone\n[00:13.42] And making love was just for fun\n[00:19.12] Those days are gone\n[00:25.64] Living alone\n[00:30.00] I think of all the friends I've known\n[00:36.24] But when I dial the telephone\n[00:42.50] Nobody's home\n[00:52.70] All by myself\n[00:59.28] Don't wanna be\n[01:03.14] All by myself\n[01:06.21] Anymore\n[01:07.64] Hard to be sure\n[01:10.96] Sometimes I feel so insecure\n[01:16.96] And loves so distant and obscure\n[01:22.64] Remains the cure\n[01:24.91] All by myself\n[01:25.43] Don't wanna be\n[01:27.11] All by myself\n[01:28.75] Anymore\n[01:29.58] All by myself\n[01:31.34] Don't wanna live\n[01:31.87] All by myself\n[01:32.80] Anymore\n[01:39.87] When I was young\n[01:43.01] I never needed anyone\n[01:44.08] And making love was just for fun\n[01:44.56] Those days are gone\n[01:45.08] All by myself\n[01:45.88] Don't wanna be\n[01:46.91] All by myself\n[01:47.37] Anymore\n[01:47.92] All by myself\n[01:56.76] Don't wanna live\n[02:03.14] Don't wanna live\n[02:11.23] By myself, by myself\n[02:18.41] Anymore\n[02:24.95] By myself\n[02:29.69] Anymore\n[02:32.43] All by myself\n[02:34.76] Don't wanna live\n[02:36.22] I never, never, never\n[02:38.60] Needed anyone",
+ "warn": "last cue melewati durasi"
+}

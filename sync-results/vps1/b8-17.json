@@ -1,0 +1,13 @@
+{
+ "id": "b8-17",
+ "artist": "Andmesh",
+ "title": "Kumau Dia",
+ "lang": "nn",
+ "n_anchor": 9,
+ "median_offset": 20.52,
+ "drift_max": 1.98,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 20.5
+}

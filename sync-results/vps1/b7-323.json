@@ -1,0 +1,13 @@
+{
+ "id": "b7-323",
+ "artist": "Guns N' Roses",
+ "title": "Welcome to the Jungle",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 4.95,
+ "drift_max": 2.09,
+ "audio_dur": 142.5,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 5.0
+}
