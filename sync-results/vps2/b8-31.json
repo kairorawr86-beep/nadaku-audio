@@ -1,0 +1,13 @@
+{
+ "id": "b8-31",
+ "artist": "D'Cinnamons",
+ "title": "Galih dan Ratna",
+ "lang": "nn",
+ "n_anchor": 8,
+ "median_offset": 6.37,
+ "drift_max": 1.34,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.25
+}

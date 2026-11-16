@@ -1,0 +1,12 @@
+{
+ "id": "b7-331",
+ "artist": "Queen",
+ "title": "The Show Must Go On",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.89,
+ "drift_max": 0.74,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}

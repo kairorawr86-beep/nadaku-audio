@@ -1,0 +1,13 @@
+{
+ "id": "b7-325",
+ "artist": "Guns N' Roses",
+ "title": "Patience",
+ "lang": "en",
+ "n_anchor": 15,
+ "median_offset": -1.25,
+ "drift_max": 1.75,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}
