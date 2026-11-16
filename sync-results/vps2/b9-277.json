@@ -1,0 +1,12 @@
+{
+ "id": "b9-277",
+ "artist": "Green Day",
+ "title": "Wake Me Up When September Ends",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.9,
+ "drift_max": 0.46,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "ok"
+}

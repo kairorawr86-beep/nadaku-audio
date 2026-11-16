@@ -1,0 +1,14 @@
+{
+ "id": "b9-307",
+ "artist": "John Lennon",
+ "title": "Jealous Guy",
+ "lang": "en",
+ "n_anchor": 10,
+ "median_offset": -2.74,
+ "drift_max": 12.65,
+ "audio_dur": 142.7,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:13.80] I was dreamin' of the past\n[00:19.02] And my heart was beating fast\n[00:28.12] I began to lose control\n[00:32.26] I began to lose control\n[00:41.68] I didn't mean to hurt you\n[00:48.78] I'm sorry that I made you cry\n[00:53.56] Oh no, I didn't want to hurt you\n[01:00.95] I'm just a jealous guy\n[01:04.29] I was feeling insecure\n[01:12.08] You might not love me anymore\n[01:17.85] I was shivering inside\n[01:22.76] I was shivering inside\n[01:26.00] Oh, I didn't mean to hurt you\n[01:28.91] I'm sorry that I made you cry\n[01:31.81] Oh no, I didn't know to hurt you\n[01:34.98] I'm just a jealous guy\n[01:37.36] I didn't mean to hurt you\n[01:52.67] I'm sorry that I made you cry\n[01:55.96] Oh no, I didn't want to hurt you\n[01:58.88] I'm just a jealous guy\n[02:04.71] I was trying to catch your eyes\n[02:11.88] Thought that you was trying to hide\n[02:19.45] I was swallowing my pain\n[02:25.39] I was swallowing my pain\n[02:32.17] I didn't mean to hurt you\n[02:39.86] I'm sorry that I made you cry\n[02:44.66] Oh no, I didn't want to hurt you\n[02:53.38] I'm just a jealous guy, watch out\n[02:56.36] I'm just a jealous guy, look out, babe\n[02:59.49] I'm just a jealous guy",
+ "warn": "last cue melewati durasi"
+}

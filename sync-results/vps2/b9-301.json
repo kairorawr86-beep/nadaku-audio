@@ -1,0 +1,13 @@
+{
+ "id": "b9-301",
+ "artist": "Jesse McCartney",
+ "title": "Beautiful Soul",
+ "lang": "en",
+ "n_anchor": 29,
+ "median_offset": -5.16,
+ "drift_max": 2.29,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -5.25
+}

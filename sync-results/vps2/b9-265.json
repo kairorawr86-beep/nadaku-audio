@@ -1,0 +1,12 @@
+{
+ "id": "b9-265",
+ "artist": "Florence + The Machine",
+ "title": "Shake It Out",
+ "lang": "en",
+ "n_anchor": 25,
+ "median_offset": -0.32,
+ "drift_max": 0.89,
+ "audio_dur": 145.0,
+ "path": "fast",
+ "mode": "ok"
+}
