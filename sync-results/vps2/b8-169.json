@@ -1,0 +1,13 @@
+{
+ "id": "b8-169",
+ "artist": "Taylor Swift",
+ "title": "Fearless",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -9.48,
+ "drift_max": 2.19,
+ "audio_dur": 141.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -9.5
+}
