@@ -1,0 +1,13 @@
+{
+ "id": "b7-293",
+ "artist": "Celine Dion",
+ "title": "A New Day Has Come",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -1.48,
+ "drift_max": 0.79,
+ "audio_dur": 146.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.5
+}

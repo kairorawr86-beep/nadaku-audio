@@ -1,0 +1,13 @@
+{
+ "id": "b7-311",
+ "artist": "Linkin Park",
+ "title": "What I've Done",
+ "lang": "ja",
+ "n_anchor": 3,
+ "median_offset": -104.29,
+ "drift_max": 0.0,
+ "audio_dur": 148.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -104.25
+}

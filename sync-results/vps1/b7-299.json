@@ -1,0 +1,13 @@
+{
+ "id": "b7-299",
+ "artist": "Rihanna",
+ "title": "Shut Up and Drive",
+ "lang": "nn",
+ "n_anchor": 11,
+ "median_offset": 23.79,
+ "drift_max": 0.83,
+ "audio_dur": 147.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 23.75
+}
