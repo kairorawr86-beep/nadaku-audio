@@ -1,0 +1,13 @@
+{
+ "id": "nk-678",
+ "artist": "Kylie Minogue",
+ "title": "Can't Get You Out Of My Head",
+ "lang": "id",
+ "n_anchor": 4,
+ "median_offset": -90.47,
+ "drift_max": 0.0,
+ "audio_dur": 147.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -90.5
+}

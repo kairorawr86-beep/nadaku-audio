@@ -1,0 +1,13 @@
+{
+ "id": "nk-685",
+ "artist": "Little Richard",
+ "title": "Tutti Frutti",
+ "lang": "en",
+ "n_anchor": 3,
+ "median_offset": 22.13,
+ "drift_max": 0.0,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 22.25
+}

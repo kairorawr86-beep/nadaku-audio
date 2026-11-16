@@ -1,0 +1,12 @@
+{
+ "id": "nk-666",
+ "artist": "Journey",
+ "title": "Open Arms",
+ "lang": "haw",
+ "n_anchor": 12,
+ "median_offset": 0.74,
+ "drift_max": 1.13,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

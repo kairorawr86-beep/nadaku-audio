@@ -1,0 +1,13 @@
+{
+ "id": "nk-726",
+ "artist": "Roxy Music",
+ "title": "Avalon",
+ "lang": "en",
+ "n_anchor": 7,
+ "median_offset": -1.84,
+ "drift_max": 2.17,
+ "audio_dur": 147.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.75
+}
