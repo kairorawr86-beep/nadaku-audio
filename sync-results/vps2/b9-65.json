@@ -1,0 +1,14 @@
+{
+ "id": "b9-65",
+ "artist": "Iwan Fals",
+ "title": "Mata Indah Bola Pingpong",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": -1.24,
+ "drift_max": 11.42,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:25.71] Pria mana yang tak suka\n[00:28.83] Senyummu juwita\n[00:32.08] Kalau ada yang tak suka\n[00:36.24] Mungkin sedang goblok\n[00:39.24] Engkau baik\n[00:42.36] Engkau cantik\n[00:46.54] Kau wanita\n[00:49.12] Aku cinta\n[00:52.46] Mata indah bola pingpong\n[00:57.06] Masihkah kau kosong?\n[01:00.50] Bolehkah aku membelai\n[01:03.84] Hidungmu yang aduhai?\n[01:04.93] Engkau baik\n[01:05.78] Engkau cantik\n[01:06.91] Kau wanita\n[01:07.87] Aku puja\n[01:08.88] Jangan marah kalau kugoda\n[01:09.82] Sebab pantas kau digoda\n[01:10.78] Salah sendiri kau manis\n[01:11.80] Punya wajah teramat manis\n[01:12.80] Wajar saja kalau kuganggu\n[01:13.68] Sampai kapan pun kurindu\n[01:14.78] Lepaskan tawamu, Nona\n[01:15.69] Agar tak murung dunia\n[01:26.41] Engkau baik\n[01:29.28] Engkau cantik\n[01:30.29] Kau wanita\n[01:31.30] Aku cinta\n[01:32.29] Aku puja\n[01:33.18] Kau betina\n[01:34.24] Bukan gombal\n[01:35.17] Aku yang gila\n[01:36.13] Jangan marah kalau kugoda\n[01:37.02] Sebab pantas kau digoda\n[01:37.97] Salah sendiri kau manis\n[01:38.93] Punya wajah teramat manis\n[01:39.96] Wajar saja kalau kuganggu\n[01:40.84] Biar mampus aku rindu\n[01:41.94] Lepaskan tawamu, Nona\n[01:45.26] Agar tak murung dunia\n[01:51.40] Mata indah bola pingpong\n[01:54.53] Masihkah kau kosong?\n[01:57.96] Bolehkah aku membelai\n[02:00.98] Hidungmu yang aduhai?\n[02:04.46] Mata indah bola pingpong\n[02:07.36] Masihkah kau kosong?\n[02:10.79] Bolehkah aku membelai\n[02:14.11] Bibirmu yang aduhai?\n[02:17.48] Mata indah bola pingpong\n[02:20.50] Masihkah kau kosong?\n[02:23.29] Bolehkah aku membelai\n[02:26.76] Pipimu yang aduhai?\n[02:30.13] Mata indah bola pingpong\n[02:33.34] Masihkah kau kosong?\n[02:36.20] Bolehkah aku membelai\n[02:39.81] Jidatmu yang aduhai?",
+ "warn": "last cue melewati durasi"
+}
