@@ -1,0 +1,12 @@
+{
+ "id": "b9-221",
+ "artist": "Ungu",
+ "title": "Para Pencari Mu",
+ "lang": "id",
+ "n_anchor": 10,
+ "median_offset": -0.59,
+ "drift_max": 0.75,
+ "audio_dur": 146.0,
+ "path": "fast",
+ "mode": "ok"
+}
