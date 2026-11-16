@@ -1,0 +1,14 @@
+{
+ "id": "b9-305",
+ "artist": "John Denver",
+ "title": "Annie's Song",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.91,
+ "drift_max": 3.07,
+ "audio_dur": 148.8,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:08.08] You fill up my senses\n[00:15.17] Like a night in a forest\n[00:17.84] Like the mountains in springtime\n[00:22.88] Like a walk in the rain\n[00:27.36] Like a storm in the desert\n[00:33.59] Like a sleepy blue ocean\n[00:37.30] You fill up my senses\n[00:42.33] Come fill me again\n[00:47.84] Come let me love you\n[00:52.10] Let me give my life to you\n[00:57.36] Let me drown in your laughter\n[01:02.24] Let me die in your arms\n[01:07.64] Let me lay down beside you\n[01:11.12] Let me always be with you\n[01:17.26] Come let me love you\n[01:21.56] Come love me again\n[01:28.26] Let me give my life to you\n[01:55.74] Come let me love you\n[02:00.88] Come love me again\n[02:05.60] You fill up my senses\n[02:10.62] Like a night in a forest\n[02:15.00] Like the mountains in springtime\n[02:20.66] Like a walk in the rain\n[02:25.52] Like a storm in the desert\n[02:30.21] Like a sleepy blue ocean\n[02:35.38] You fill up my senses\n[02:41.39] Come fill me again",
+ "warn": "last cue melewati durasi"
+}

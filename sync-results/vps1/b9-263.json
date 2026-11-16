@@ -1,0 +1,12 @@
+{
+ "id": "b9-263",
+ "artist": "Fleetwood Mac",
+ "title": "Little Lies",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -1.2,
+ "drift_max": 1.37,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "ok"
+}
