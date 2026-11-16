@@ -1,0 +1,14 @@
+{
+ "id": "b11-133",
+ "artist": "Coldplay",
+ "title": "In My Place",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -1.43,
+ "drift_max": 4.24,
+ "audio_dur": 149.6,
+ "path": "demucs",
+ "mode": "retimed_clamp",
+ "lrc": "[00:33.06] In My Place, In My Place\n[00:37.36] Were lines that I couldn't change\n[00:40.54] I was lost, oh yeah\n[00:47.02] I was lost, I was lost\n[00:50.50] Crossed lines I shouldn't have crossed\n[00:53.84] I was lost, oh yeah\n[00:58.68] Yeah\n[01:01.70] How long must you wait for it?\n[01:06.08] Yeah\n[01:07.86] How long must you pay for it?\n[01:12.51] Yeah\n[01:14.40] How long must you wait for it?\n[01:20.26] Oh, for it\n[01:36.86] I was scared, I was scared\n[01:43.52] Tired and under prepared\n[01:46.40] But I'll wait for it\n[01:53.28] If you go, if you go\n[01:56.98] Leave me down here on my own\n[01:59.76] Then I'll wait for you (yeah)\n[02:08.41] Yeah\n[02:14.08] How long must you wait for it?\n[02:18.95] Yeah\n[02:20.66] How long must you pay for it?\n[02:25.68] Yeah\n[02:27.66] How long must you wait for it?\n[02:33.35] Oh, for it?\n[03:02.42] Singing please, please, please\n[03:07.01] Come back and sing to me\n[03:09.99] To me, me\n[03:13.22] Come on and sing it out\n[03:16.37] Now, now\n[03:19.55] Come on and sing it out\n[03:22.64] To me, me\n[03:25.93] Come back and sing\n[03:28.71] In My Place, In My Place\n[03:32.33] Were lines that I couldn't change\n[03:35.51] And I was lost, oh yeah\n[03:39.77] Oh yeah",
+ "warn": "last cue melewati durasi"
+}

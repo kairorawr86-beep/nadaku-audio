@@ -1,0 +1,12 @@
+{
+ "id": "b11-145",
+ "artist": "Harry Styles",
+ "title": "Falling",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": 0.01,
+ "drift_max": 0.72,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}
