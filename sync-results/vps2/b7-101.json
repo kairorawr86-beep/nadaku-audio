@@ -1,0 +1,13 @@
+{
+ "id": "b7-101",
+ "artist": "Dewa 19",
+ "title": "Roman Picisan",
+ "lang": "la",
+ "n_anchor": 6,
+ "median_offset": 52.01,
+ "drift_max": 1.07,
+ "audio_dur": 141.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 52.0
+}

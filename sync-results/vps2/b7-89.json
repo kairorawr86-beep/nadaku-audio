@@ -1,0 +1,13 @@
+{
+ "id": "b7-89",
+ "artist": "RAN",
+ "title": "Hanya Untukmu",
+ "lang": "jw",
+ "n_anchor": 11,
+ "median_offset": -4.51,
+ "drift_max": 0.56,
+ "audio_dur": 130.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -4.5
+}
