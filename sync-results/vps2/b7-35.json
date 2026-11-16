@@ -1,0 +1,13 @@
+{
+ "id": "b7-35",
+ "artist": "Yura Yunita",
+ "title": "Dunia Tipu-Tipu",
+ "lang": "ms",
+ "n_anchor": 12,
+ "median_offset": 47.16,
+ "drift_max": 2.2,
+ "audio_dur": 147.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 47.25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "b7-59",
+ "artist": "Raisa",
+ "title": "Jatuh Hati",
+ "lang": "nn",
+ "n_anchor": 9,
+ "median_offset": 26.98,
+ "drift_max": 0.74,
+ "audio_dur": 149.3,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 27.0
+}

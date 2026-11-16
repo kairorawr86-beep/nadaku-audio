@@ -1,0 +1,14 @@
+{
+ "id": "b7-65",
+ "artist": "Isyana Sarasvati",
+ "title": "Mimpi",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": 0.34,
+ "drift_max": 3.27,
+ "audio_dur": 146.9,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:26.00] Ku telah kehilangan jejak kakimu\n[00:39.82] Entah kemanakah diriku yang selalu dulu mencintai\n[00:49.72] Melekatnya hati diantara kita berdua\n[00:56.04] Cakap canda tawa tangis kita\n[01:00.30] Tak akan perah hilang janji janji kita\n[01:08.12] Tiada kata akhir untuk pintu harapan ini\n[01:14.26] Tak ku lepas semua mimpi indah kita\n[01:21.96] Walau itu semua pudar\n[01:24.28] Seperti ini hanyalah mimpi\n[01:32.62] La mimpi yeah\n[01:39.18] La mimpi yeah oh\n[01:50.72] Ku tak tahu apa yang terjadi\n[01:57.60] Seperti mimpi yang tak pernah ku harap\n[02:04.56] Kini berkahir tak seperti yang ku mau\n[02:13.74] Memulai bersama hingga maut memisahkan kita\n[02:24.69] Tak akan pernah hilang janji janji kita\n[02:32.18] Tiada kata akhir untuk pintu harapan ini\n[02:37.62] Tak ku lepas semua mimpi indah kita\n[02:44.11] Walau semua itu pudar bagai debu yang tersebar\n[02:49.86] Hanya diam meratapi mimpi\n[03:01.65] La mimpi yeah uh",
+ "warn": "last cue melewati durasi"
+}

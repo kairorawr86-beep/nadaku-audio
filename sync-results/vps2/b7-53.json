@@ -1,0 +1,14 @@
+{
+ "id": "b7-53",
+ "artist": "Afgan",
+ "title": "Panah Asmara",
+ "lang": "id",
+ "n_anchor": 12,
+ "median_offset": -0.56,
+ "drift_max": 4.13,
+ "audio_dur": 146.6,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:27.93] Berdebar rasa di dada setiap kau tatap mataku\n[00:35.30] Apakah arti pandangan itu menunjukkan hasratmu?\n[00:43.22] Sungguh, aku t'lah tergoda saat kau dekat denganku\n[00:51.48] Hanya kau yang membuatku begini\n[00:55.90] Melepas panah asmara\n[01:01.72] Sudah katakan cinta, sudah kubilang sayang\n[01:08.70] Namun, kau hanya diam, tersenyum kepadaku\n[01:16.28] Kau buat aku bimbang, kau buat aku gelisah\n[01:24.22] Ingin rasanya kau jadi milikku\n[01:36.10] Ku akan setia menunggu satu kata yang terucap\n[01:44.38] Dari isi hati sanubarimu (sanubarimu) yang membuatku bahagia\n[01:51.58] Sungguh, aku t'lah tergoda saat kau dekat denganku\n[01:56.94] Hanya kau yang membuatku begini\n[02:00.16] Melepas panah asmara\n[02:04.70] Sudah katakan cinta, sudah kubilang sayang\n[02:12.18] Namun, kau hanya diam, tersenyum kepadaku\n[02:19.48] Kau buat aku bimbang, kau buat aku gelisah\n[02:26.76] Ingin rasanya kau jadi milikku\n[02:34.19] (Panah asmara, panah asmara, panah asmara) Uh, uh, uh-oh\n[02:41.63] (Panah asmara, panah asmara) Ho-oh, yeah-yeah\n[02:48.94] Panah asmara, panah asmara, panah asmara\n[02:56.45] Panah asmara, panah asmara\n[03:16.82] (Sudah katakan cinta) Oh, cinta\n[03:20.77] (Sudah kubilang sayang) Oh, sayang\n[03:24.33] (Namun, kau hanya) hanya (diam) diam\n[03:28.31] (Tersenyum kepadaku) Senyum kepadaku\n[03:31.60] Oh, kau buat aku bimbang, kau buat aku gelisah\n[03:39.12] Ingin rasanya kau jadi milikku\n[03:46.63] Kau buat aku bimbang, kau buat aku gelisah\n[03:54.08] Ingin rasanya kau jadi milikku\n[03:57.68] (Ingin rasanya kau jadi milikku)\n[04:01.44] Ingin rasanya kau jadi milikku, oh-uh\n[04:06.85] (Panah asmara, panah asmara, panah asmara) Ho-oh-uh\n[04:14.23] Panah asmara, panah asmara",
+ "warn": "last cue melewati durasi"
+}

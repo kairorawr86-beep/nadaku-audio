@@ -1,0 +1,13 @@
+{
+ "id": "b7-41",
+ "artist": "RAN",
+ "title": "Salah Tingkah",
+ "lang": "id",
+ "n_anchor": 18,
+ "median_offset": 4.38,
+ "drift_max": 1.63,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 4.5
+}
