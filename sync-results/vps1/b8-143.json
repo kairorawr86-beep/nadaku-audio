@@ -1,0 +1,12 @@
+{
+ "id": "b8-143",
+ "artist": "Green Day",
+ "title": "Basket Case",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.59,
+ "drift_max": 0.61,
+ "audio_dur": 146.1,
+ "path": "fast",
+ "mode": "ok"
+}

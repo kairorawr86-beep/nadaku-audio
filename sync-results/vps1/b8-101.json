@@ -1,0 +1,12 @@
+{
+ "id": "b8-101",
+ "artist": "Ariana Grande",
+ "title": "Hate That I Made You Love Me",
+ "lang": "en",
+ "n_anchor": 26,
+ "median_offset": -0.59,
+ "drift_max": 1.8,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "ok"
+}

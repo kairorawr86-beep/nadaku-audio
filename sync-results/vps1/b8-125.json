@@ -1,0 +1,12 @@
+{
+ "id": "b8-125",
+ "artist": "Whitney Houston",
+ "title": "Saving All My Love for You",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -0.92,
+ "drift_max": 0.42,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "ok"
+}
