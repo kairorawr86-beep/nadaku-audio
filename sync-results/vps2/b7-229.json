@@ -1,0 +1,12 @@
+{
+ "id": "b7-229",
+ "artist": "Tommy Richman",
+ "title": "Million Dollar Baby",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -0.33,
+ "drift_max": 2.35,
+ "audio_dur": 145.0,
+ "path": "fast",
+ "mode": "ok"
+}

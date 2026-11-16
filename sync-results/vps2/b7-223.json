@@ -1,0 +1,12 @@
+{
+ "id": "b7-223",
+ "artist": "Noah Kahan",
+ "title": "Northern Attitude",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -1.1,
+ "drift_max": 0.39,
+ "audio_dur": 143.0,
+ "path": "fast",
+ "mode": "ok"
+}

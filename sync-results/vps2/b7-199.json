@@ -1,0 +1,13 @@
+{
+ "id": "b7-199",
+ "artist": "Rockwell",
+ "title": "Somebody's Watching Me",
+ "lang": "en",
+ "n_anchor": 24,
+ "median_offset": 2.68,
+ "drift_max": 1.41,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 2.75
+}

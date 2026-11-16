@@ -1,0 +1,13 @@
+{
+ "id": "b7-211",
+ "artist": "Chappell Roan",
+ "title": "Casual",
+ "lang": "en",
+ "n_anchor": 9,
+ "median_offset": 93.58,
+ "drift_max": 0.63,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 93.5
+}
