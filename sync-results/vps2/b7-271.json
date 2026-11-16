@@ -1,0 +1,12 @@
+{
+ "id": "b7-271",
+ "artist": "James Blunt",
+ "title": "Monsters",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -1.03,
+ "drift_max": 1.2,
+ "audio_dur": 149.8,
+ "path": "fast",
+ "mode": "ok"
+}

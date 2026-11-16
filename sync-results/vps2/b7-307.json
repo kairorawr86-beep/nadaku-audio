@@ -1,0 +1,13 @@
+{
+ "id": "b7-307",
+ "artist": "Bon Jovi",
+ "title": "Have a Nice Day",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": 15.59,
+ "drift_max": 1.09,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 15.5
+}

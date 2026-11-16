@@ -1,0 +1,13 @@
+{
+ "id": "b7-313",
+ "artist": "Whitney Houston",
+ "title": "How Will I Know",
+ "lang": "ja",
+ "n_anchor": 5,
+ "median_offset": 5.91,
+ "drift_max": 0.0,
+ "audio_dur": 149.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 6.0
+}
