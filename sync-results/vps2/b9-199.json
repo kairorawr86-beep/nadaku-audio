@@ -1,0 +1,13 @@
+{
+ "id": "b9-199",
+ "artist": "Slank",
+ "title": "Pahlawan",
+ "lang": "jw",
+ "n_anchor": 20,
+ "median_offset": -2.94,
+ "drift_max": 0.98,
+ "audio_dur": 147.4,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -3.0
+}
