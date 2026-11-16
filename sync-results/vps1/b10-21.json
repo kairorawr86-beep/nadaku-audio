@@ -1,0 +1,14 @@
+{
+ "id": "b10-21",
+ "artist": "Kerispatih",
+ "title": "Demi Cinta",
+ "lang": "jw",
+ "n_anchor": 13,
+ "median_offset": -0.2,
+ "drift_max": 29.71,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[00:03.32] Maaf, ku telah menyakitimu\n[00:11.32] Ku telah kecewakanmu\n[00:17.58] Bahkan kusia-siakan hidupku\n[00:26.83] Dan kubawa kau s'perti diriku\n[00:31.92] Walau hati ini t'rus menangis\n[00:40.38] Menahan kesakitan ini\n[00:44.06] Tapi kulakukan semua demi cinta\n[01:01.30] Akhirnya juga harus kurelakan\n[01:08.90] Kehilangan cinta sejatiku\n[01:14.45] Segalanya t'lah kuberikan\n[01:22.52] Juga semua kekuranganku\n[01:26.98] Jika memang ini yang terbaik\n[01:36.82] Untuk diriku dan dirinya\n[01:40.94] 'Kan kut'rima semua demi cinta, wo-wo\n[01:46.32] Jujur, aku tak kuasa\n[01:49.22] Saat terakhir kugenggam tanganmu\n[01:51.72] Namun yang pasti terjadi\n[01:54.29] Kita mungkin tak bersama lagi\n[01:56.80] Bila nanti esok hari\n[01:59.37] Kutemukan dirimu bahagia\n[02:01.98] Ijinkan aku titipkan\n[02:04.43] Kisah cinta kita selamanya\n[02:10.02] Uh-oh-uh-uh-oh\n[02:11.75] Uh-uh-oh-uh-oh'\n[02:14.64] Oh-uh-oh\n[02:15.74] Jujur, aku tak kuasa\n[02:18.41] Saat terakhir kugenggam tanganmu (tanganmu)\n[02:20.96] Namun yang pasti terjadi (yang pasti terjadi)\n[02:23.53] Kita mungkin tak bersama lagi\n[02:26.16] Bila nanti esok hari (nanti esok hari)\n[02:32.83] Kutemukan dirimu bahagia (dirimu bahagia)\n[02:39.76] Ijinkan aku titipkan\n[02:46.42] Kisah cinta kita (kisah cinta kita)\n[02:53.09] Kisah cinta kita selamanya\n[03:03.47] Hm, demi cinta",
+ "warn": "last cue melewati durasi"
+}
