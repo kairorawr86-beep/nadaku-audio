@@ -1,0 +1,12 @@
+{
+ "id": "b9-367",
+ "artist": "Michael Jackson",
+ "title": "Heal The World",
+ "lang": "la",
+ "n_anchor": 20,
+ "median_offset": -0.7,
+ "drift_max": 0.38,
+ "audio_dur": 149.7,
+ "path": "fast",
+ "mode": "ok"
+}

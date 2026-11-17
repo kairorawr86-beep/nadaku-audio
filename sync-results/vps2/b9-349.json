@@ -1,0 +1,13 @@
+{
+ "id": "b9-349",
+ "artist": "Mandy Moore",
+ "title": "I Wanna Be With You",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -1.32,
+ "drift_max": 0.34,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

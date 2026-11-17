@@ -1,0 +1,13 @@
+{
+ "id": "b9-331",
+ "artist": "Lana Del Rey",
+ "title": "Video Games",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": 14.37,
+ "drift_max": 0.88,
+ "audio_dur": 149.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": 14.25
+}

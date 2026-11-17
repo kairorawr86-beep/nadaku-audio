@@ -1,0 +1,12 @@
+{
+ "id": "b9-325",
+ "artist": "Khalid",
+ "title": "Talk",
+ "lang": "en",
+ "n_anchor": 33,
+ "median_offset": -0.22,
+ "drift_max": 0.66,
+ "audio_dur": 149.1,
+ "path": "fast",
+ "mode": "ok"
+}
