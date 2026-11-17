@@ -1,0 +1,12 @@
+{
+ "id": "b10-47",
+ "artist": "Green Day",
+ "title": "21 Guns",
+ "lang": "en",
+ "n_anchor": 17,
+ "median_offset": -0.11,
+ "drift_max": 1.21,
+ "audio_dur": 149.6,
+ "path": "fast",
+ "mode": "ok"
+}

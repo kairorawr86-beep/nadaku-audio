@@ -1,0 +1,13 @@
+{
+ "id": "b11-3",
+ "artist": "Denny Caknan",
+ "title": "Sekti",
+ "lang": "id",
+ "n_anchor": 4,
+ "median_offset": -52.7,
+ "drift_max": 0.0,
+ "audio_dur": 143.7,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -52.75
+}
