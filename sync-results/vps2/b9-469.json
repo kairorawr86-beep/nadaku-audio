@@ -1,0 +1,13 @@
+{
+ "id": "b9-469",
+ "artist": "The Beatles",
+ "title": "Across The Universe",
+ "lang": "en",
+ "n_anchor": 20,
+ "median_offset": -14.7,
+ "drift_max": 0.82,
+ "audio_dur": 150.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -14.75
+}

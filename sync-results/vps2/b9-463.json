@@ -1,0 +1,13 @@
+{
+ "id": "b9-463",
+ "artist": "Taylor Swift",
+ "title": "Back To December",
+ "lang": "en",
+ "n_anchor": 23,
+ "median_offset": -8.35,
+ "drift_max": 2.44,
+ "audio_dur": 148.9,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -8.25
+}

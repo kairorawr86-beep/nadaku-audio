@@ -1,0 +1,12 @@
+{
+ "id": "b9-499",
+ "artist": "U2",
+ "title": "One",
+ "lang": "en",
+ "n_anchor": 19,
+ "median_offset": -0.98,
+ "drift_max": 0.8,
+ "audio_dur": 140.9,
+ "path": "fast",
+ "mode": "ok"
+}
