@@ -1,0 +1,12 @@
+{
+ "id": "b9-391",
+ "artist": "Passenger",
+ "title": "Hearts On Fire",
+ "lang": "en",
+ "n_anchor": 18,
+ "median_offset": -0.57,
+ "drift_max": 0.75,
+ "audio_dur": 148.0,
+ "path": "fast",
+ "mode": "ok"
+}

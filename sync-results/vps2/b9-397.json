@@ -1,0 +1,13 @@
+{
+ "id": "b9-397",
+ "artist": "Pink Floyd",
+ "title": "Comfortably Numb",
+ "lang": "en",
+ "n_anchor": 13,
+ "median_offset": -1.27,
+ "drift_max": 1.29,
+ "audio_dur": 147.0,
+ "path": "fast",
+ "mode": "offset",
+ "offset": -1.25
+}

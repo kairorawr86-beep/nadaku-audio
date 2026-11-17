@@ -1,0 +1,14 @@
+{
+ "id": "b9-433",
+ "artist": "Shania Twain",
+ "title": "From This Moment On",
+ "lang": "en",
+ "n_anchor": 8,
+ "median_offset": 11.4,
+ "drift_max": 6.79,
+ "audio_dur": 147.3,
+ "path": "fast",
+ "mode": "retimed_clamp",
+ "lrc": "[01:20.32] From this moment, life has begun\n[01:26.38] From this moment, you are the one\n[01:30.31] Right beside you is where I belong\n[01:33.47] From this moment on\n[01:39.65] From this moment, I have been blessed\n[01:45.24] I live only for your happiness\n[01:52.18] And for your love, I'd give my last breath\n[01:57.28] From this moment on\n[02:04.54] I give my hand to you with all my heart\n[02:11.46] I can't wait to live my life with you, I can't wait to start\n[02:18.98] You and I will never be apart\n[02:24.83] My dreams came true because of you\n[02:38.53] From this moment, as long as I live\n[02:43.55] I will love you, I promise you this\n[02:50.21] There is nothing I wouldn't give\n[02:55.54] From this moment on, oh\n[03:14.71] You're the reason I believe in love\n[03:22.43] And you're the answer to my prayers from up above\n[03:29.10] All we need is just the two of us\n[03:35.32] My dreams came true because of you\n[03:49.40] From this moment, as long as I live\n[03:58.90] I will love you, I promise you this\n[04:06.24] There is nothing I wouldn't give\n[04:11.92] From this moment, I will love you\n[04:17.65] As long as I live, from this moment on",
+ "warn": "last cue melewati durasi"
+}

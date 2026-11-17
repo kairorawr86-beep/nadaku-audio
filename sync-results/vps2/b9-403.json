@@ -1,0 +1,12 @@
+{
+ "id": "b9-403",
+ "artist": "Queen",
+ "title": "These Are The Days Of Our Lives",
+ "lang": "en",
+ "n_anchor": 22,
+ "median_offset": -0.55,
+ "drift_max": 0.8,
+ "audio_dur": 147.5,
+ "path": "fast",
+ "mode": "ok"
+}
